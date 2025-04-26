@@ -28,3 +28,4 @@ Lessons Learned:
 * Do your best to fix the problem! 
 * Let people know what happened. Own up to your mistakes. 
 * Tailor your docs to your audience! Blue crayon in this situation set the tone and expectations before the reader even processes a single word. 
+* ✨ Gratitude Moment: Grateful for neighbors who are kind and understanding.
