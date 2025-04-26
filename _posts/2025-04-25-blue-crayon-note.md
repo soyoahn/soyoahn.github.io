@@ -19,6 +19,7 @@ We did our best to clean it, but there was still some left.
 The inside of the dryer is still a little blue (da ba dee). 
 
 So we let our HOA President know and we made this note to warn our neighbors: 
+
 ![There's a sheet of white printer paper posted to the top of a dryer. The note on it is written with what appears to be a blue crayon and the text reads: "A blue crayon has discolored the dryer. It has not discolored our clothes on subsequent washes, but FYI. - Unit B"](/img/posts/2025/blue-crayon-note.png)
 
 A neighbor reached out to say they thought it was funny that the note was written in blue crayon. :) 
