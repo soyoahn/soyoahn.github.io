@@ -26,4 +26,4 @@ A neighbor reached out to say they thought it was funny that the note was writte
 Lessons Learned: 
 * Do your best to fix the problem! 
 * Let people know what happened. Own up to your mistakes. 
-* Tailor your docs to your audience! Blue crayon in this situation set the tone and expectations even before the reader processes a single word. 
+* Tailor your docs to your audience! Blue crayon in this situation set the tone and expectations before the reader even processes a single word. 
