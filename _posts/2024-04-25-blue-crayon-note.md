@@ -10,7 +10,7 @@ Here's a thing that happened last week.
 #### We forgot to check the pockets. 
 
 We ran a quick load!  
-But when the dryer was done
+But when the dryer was done  
 The inside was... blue.
 
 #### Okay, now the inside of the dryer is blue.
