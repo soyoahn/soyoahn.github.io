@@ -9,9 +9,9 @@ Here's a thing that happened last week.
 
 #### We forgot to check the pockets. 
 
-We ran a quick load! 
-But when the dryer was done
-The inside was... blue.
+We ran a quick load!  
+But when the dryer was done  
+The inside was... blue.  
 
 #### Dryer: I'm blue da
 We did our best to clean it, but there was still some left.
