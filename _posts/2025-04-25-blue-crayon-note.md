@@ -1,6 +1,6 @@
 ## Blue Crayon Note
 
-Today was my last day of PTO so I decided to start a blog to chronicle some things. They're public because life is short and I'm getting old.
+> ☀️ Today was my last day of PTO so I decided to start a blog to chronicle some things. They're public because life is short and I'm getting old.
 
 Here's a thing that happened last week. 
 ---
