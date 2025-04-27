@@ -1,4 +1,4 @@
-### Technical Writing | Working in Games | Parenthood
+### Technical Writer Working in Games
 
 Time to start blogging, I guess! 
 This site isn't meant for any one person. It's a centralized place to keep notes that I can easily share with a link. :) 
