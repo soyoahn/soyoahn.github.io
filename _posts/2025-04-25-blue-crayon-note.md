@@ -1,5 +1,5 @@
 ---
-tags: Personal
+tags: Daily-Life
 ---
 
 ## Blue Crayon Note
@@ -33,4 +33,4 @@ A neighbor reached out to say they thought it was funny that the note was writte
 * Let people know what happened. Own up to your mistakes. 
 * Tailor your docs to your audience! Blue crayon in this situation set the tone and expectations before the reader even processes a single word. (I would _not_ have used a crayon if the problem were more serious.)
 
-✨ Grateful for understanding neighbors. 
+✨ Grateful for understanding neighbors.
