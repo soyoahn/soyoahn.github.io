@@ -1,5 +1,5 @@
 ---
-tags: Daily-Life
+tags: dailylife
 ---
 
 ## Blue Crayon Note
