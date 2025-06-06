@@ -7,7 +7,7 @@ tags: dailylife
 > 🤔 I always start a new blog when I'm trying to reach out and connect to the world. 
 > This time, I'm mostly doing it to regain my sense of self and explain my work identity outside of whatever job I'm in at the time, since layoffs are always looming. 
 
-Here are some topics I want to cover through this blog... now it's just a matter of carving out some time to write outside of work and being present with the kids. I'm hoping that if I post this backlog somewhere, I'm more likely to do the thing. 
+Here are some topics I want to cover through this blog... now it's just a matter of carving out some time to write outside of work and being present with the kids. I'm hoping that if I post this backlog somewhere, I'm more likely to do it. 
 ---
 
 #### Technical Writing
