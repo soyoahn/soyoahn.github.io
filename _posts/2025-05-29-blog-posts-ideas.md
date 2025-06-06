@@ -18,6 +18,7 @@ Here are some topics I want to cover through this blog... now it's just a matter
 * Recipe using my visual method
 * Why you need a technical writer (docs migration - updating systems outside of docs system with updated links) 
 * My checklist before taking on any other job. 
+* Just a long post/rant that it's partly your job as a tech writer to get your docs read. If they're not being read, they're probably not very useful and you should reconsider what you're writing and how you're presenting the info. 
 
 #### My Game Dev Journey 
 * How I got there, How I moved to MP, Why I left a dream job
