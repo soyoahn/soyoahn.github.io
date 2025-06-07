@@ -10,7 +10,7 @@ tags: dailylife
 I'm hoping that if I post this backlog somewhere, I'm more likely to write the posts. 
 ---
 
-### Technical Writing
+#### Technical Writing
 
 * Style Guide for Internal Docs in Games: I'd like to share my quickest version of a style guide. It's barebones and one I always start with wherever I go... there's nothing secret or mysterious in there, so why not share a slice of what I think is most important for documentation contributors to know? 
 * Docs for stuff that people would like better docs for (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate professional samples for future jobs. So I'll create some samples in my own time for the anyone who needs it. 
