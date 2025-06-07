@@ -23,6 +23,14 @@ Yes:
 ### What's Important To You? 
 - How are performance reviews done and how important are they to you? 
 - What does success look like? Who determines whether things are successful? 
+- What is the pie chart for what I should be doing at any given time, among these items:
+    1. Doing some frontline product support
+	2. Information Architecture
+	3. Docs Strategy
+	4. Docs Infrastructure
+	5. Writing documentation
+	6. Testing the stuff I'm supposed to be documenting
+	7. Other
 
 ### What Do You Know About Your Users?
 - Who are your customers and what are their biggest pain points? How are their pain points being addressed today?
