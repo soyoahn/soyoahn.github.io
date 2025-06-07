@@ -17,8 +17,8 @@ Yes:
 - How is work prioritized? Who sets the priorities? Do you care how I intake requests directly from users? 
 - How do you feel about embedding on teams where users are? 
 - Who owns decisions about the documentation? 
-- Let's run an example scenario of that! Let's say that the navigation is all over the place and users complain that they rarely know what they're looking for. I want to rearchitect the knowledge center and add some metadata. Who would have to approve that before I can begin the work? 
-- Let's run another scenario! I want to run an audit of all our existing knowledge and how it's being used and shared today. I think this audit will take one month of dedicated work if I want to get good enough information. How should I go about doing this audit? Who do I need to check with? How would I obtain access to all the areas where information might exist? 
+    - Let's run an example scenario of that! Let's say that the navigation is all over the place and users complain that they rarely know what they're looking for. I want to rearchitect the knowledge center and add some metadata. Who would have to approve that before I can begin the work? 
+    - Let's run another scenario! I want to run an audit of all our existing knowledge and how it's being used and shared today. I think this audit will take one month of dedicated work if I want to get good enough information. How should I go about doing this audit? Who do I need to check with? How would I obtain access to all the areas where information might exist? 
 
 ### What's Important To You? 
 - How are performance reviews done and how important are they to you? 
