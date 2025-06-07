@@ -7,18 +7,27 @@ tags: career
 
 ---
 
-### Do you have any questions for me? 
+## Do you have any questions for me? 
 Yes: 
+
+### What Is My Role, Actually?
+- What are your goals and vision for the docs and what would be my specific role in it? 
+
+### Who Makes Docs Decisions?
+- How is work prioritized? Who sets the priorities? Do you care how I intake requests directly from users? 
+- How do you feel about embedding on teams where users are? 
 - Who owns decisions about the documentation? 
-- Let's run an example scenario of that! Let's say the navigation is all over the place and no one is able to find anything. I want to rearchitect and add some metadata. Who do I need to approve that and when I can start doing this work? I need to reach out to the leads among our users--can I grab some time with them? Does anyone need to approve that? 
-- Let's run another scenario! I want to run an audit of all our existing knowledge and how it's being used and shared today (e.g., with external folks). I think this audit will take 1 month if I want to get good information I'll feel comfortable making decisions around. How should I go about doing this audit? Who do I need to check with? How would I obtain access to all the areas where information  might exist? 
-- How are performance reviews done and how important are they? 
-- How do you feel about embedding? 
-- What are your pet peeves? 
-- What does success look like? 
-- Who are your customers and what are their biggest pain points? 
-- What documents are successful today? Or, in what areas is your knowledge strong in folks today? Why is that knowledge strong? 
-- When's the last time you shared your docs externally? What teams need to do this and why? 
-- How to people gain access to the docs? 
+- Let's run an example scenario of that! Let's say that the navigation is all over the place and users complain that they rarely know what they're looking for. I want to rearchitect the knowledge center and add some metadata. Who would have to approve that before I can begin the work? 
+- Let's run another scenario! I want to run an audit of all our existing knowledge and how it's being used and shared today. I think this audit will take one month of dedicated work if I want to get good enough information. How should I go about doing this audit? Who do I need to check with? How would I obtain access to all the areas where information might exist? 
+
+### What's Important To You? 
+- How are performance reviews done and how important are they to you? 
+- What does success look like? Who determines whether things are successful? 
+
+### What Do You Know About Your Users?
+- Who are your customers and what are their biggest pain points? How are their pain points being addressed today?
+- What documents are successful today? Where is knowledge weak and where is knowledge strong? 
+- (For Internal Docs) When's the last time you shared your docs externally? What teams need to do this and why? 
+- (For Internal Docs) How do people gain access to the docs? How much of that is owned by the docs team versus IT? 
 
 ✨ I love technical writing, but in rare circumstances it can be torture. Stashing these questions for the future. 
