@@ -6,8 +6,7 @@ tags: dailylife
 
 > 🤔 I've noticed a trend... I always start a new blog when I'm trying to reach out and connect to the world. 
 > Once I'm feeling connected or whatever, I abandon the blog. 
-> This time, I'm mostly doing it to regain my sense of self outs
-ide of work.
+> This time, I'm mostly doing it to regain my sense of self outside of work.
 I'm hoping that if I post this backlog somewhere, I'm more likely to write the posts. 
 ---
 
