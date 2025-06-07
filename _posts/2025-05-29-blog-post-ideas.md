@@ -10,28 +10,31 @@ tags: dailylife
 ---
 
 #### Technical Writing
-
-* Internal Style Guide: I'd like to share my quickest version of a style guide. It's barebones and one I always start with wherever I go... there's nothing secret or mysterious in there, so why not share a slice of what I think is most important for documentation contributors to know? 
-* Docs for stuff that people would like better docs for (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate professional samples for future jobs. So I'll create some samples in my own time for the anyone who needs it. 
-* Since I get asked all the time: What I think about AI (don't use it to outsource any of your thinking. Use it only to do things that were previously impossible) 
-* Recipe using my visual method
-* Why you need a technical writer (docs migration - updating systems outside of docs system with updated links) 
+Musings about this wild craft.
+* Internal Style Guide: I'd like to share my quickest version of a contributor's guide. And the reasoning behind why mine is a quick one pager.
+* Docs requested by the reader (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate shareable professional samples for future jobs. So I'll create some samples in my own time for the anyone who needs it. 
+* Since I get asked all the time: What I think about AI (Please don't use it to outsource any of your thinking. Your neuroplastic brain will adapt to all your cut corners and it won't be pretty.) 
+* A few recipes (my visual method)
+* Why you need a technical writer who cares about the whole information experience (example: docs migration - updating systems outside of docs system with updated links) 
 * My checklist before taking on any other job. [Started here: [Job Interview Questions](../../06/06/job-interview-questions.html)]
-* Just a long post/rant that it's partly your job as a tech writer to get your docs read. If they're not being read, they're probably not very useful and you should reconsider what you're writing and how you're presenting the info. 
+* Just a long post/rant explaining that it is partly your job as a tech writer to *get your docs read*. If they're not being read, you should reconsider the content and how you're presenting the info. 
 
 #### My Game Dev Journey 
-* How I got there, How I moved to MP, Why I left a dream job
-* Why I love doing internal technical writing in games and how I think it's different from other tech writing
+Answers to common questions so I can just share a link.
+* How I got here, How I moved to mutiplayer production (spoiler: sheer luck and people who believed in me)
+* Why I left a dream job
+* Why I love doing internal technical writing in games and how I think it's different from other tech writing (or should be)
 
 
 #### Motherhood
-
-* I'd like to share a succinct chronology of my daughter's birth journey. It's the wildest thing I've ever experienced in my life and it's something I'd like to share with more people but I want to make the information pull, rather than pushing it to people who could have triggers. 🧡
-* Our child raising recipe thus far and commentary about which aspects of advice from experts resonated and what we changed because all kids are different  (authoritative + gentle parenting, focus on play + exploration (let them fall and get hurt within reason), solid starts, oh crap potty training, no passive screentime, and so on). 
+Hey, it's the core of who I am now. How could I _not_ write about it?
+* I'd like to share a succinct chronology of my daughter's birth journey. It's the wildest thing I've ever experienced in my life and it's something I'd like to share with more people but I want to make the information pull, rather than pushing it to those who could have triggers. 🧡
+* Our child raising recipe thus far and commentary about which advice from experts resonated and what advice we modified--because all kids are different (spoiler: authoritative + gentle parenting, focus on play + exploration (let them fall and get hurt within reason), germs are our friends (within reason), solid starts, oh crap potty training, no "passive" screentime, and so on). 
 * Aspects of parenting I'm still struggling with 
 
 
-#### Public Documentation For My Own Self
+#### Public Documentation For Myself
+If I can share whatever docs I'm writing for myself, I'll just share it here.
 * Touring preschools for choice programs
 * Other parenthood stuff like our potty training playbook 
 * The bullet list of parenting philosophy
