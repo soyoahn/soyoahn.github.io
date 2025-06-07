@@ -2,15 +2,15 @@
 tags: dailylife
 ---
 
-## Backlog?
+## Backlog of Blog Post Ideas
 
-> 🤔 I always start a new blog when I'm trying to reach out and connect to the world. 
+> 🤔 I've noticed a trend... I always start a new blog when I'm trying to reach out and connect to the world. 
+> Once I'm feeling connected or whatever, I abandon the blog. 
 > This time, I'm mostly doing it to regain my sense of self and explain my work identity outside of whatever job I'm in at the time, since layoffs are always looming. 
-
-Here are some topics I want to cover through this blog... now it's just a matter of carving out some time to flesh these out. I'm hoping that if I post this backlog somewhere, I'm more likely to do it. 
+I'm hoping that if I post this backlog somewhere, I'm more likely to write the posts. 
 ---
 
-#### Technical Writing
+### Technical Writing
 
 * Style Guide for Internal Docs in Games: I'd like to share my quickest version of a style guide. It's barebones and one I always start with wherever I go... there's nothing secret or mysterious in there, so why not share a slice of what I think is most important for documentation contributors to know? 
 * Docs for stuff that people would like better docs for (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate professional samples for future jobs. So I'll create some samples in my own time for the anyone who needs it. 
