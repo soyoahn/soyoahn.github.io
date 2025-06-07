@@ -11,7 +11,7 @@ tags: dailylife
 
 #### Technical Writing
 
-* Style Guide: I'd like to share my quickest version of a style guide. It's barebones and one I always start with wherever I go... there's nothing secret or mysterious in there, so why not share a slice of what I think is most important for documentation contributors to know? 
+* Internal Style Guide: I'd like to share my quickest version of a style guide. It's barebones and one I always start with wherever I go... there's nothing secret or mysterious in there, so why not share a slice of what I think is most important for documentation contributors to know? 
 * Docs for stuff that people would like better docs for (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate professional samples for future jobs. So I'll create some samples in my own time for the anyone who needs it. 
 * Since I get asked all the time: What I think about AI (don't use it to outsource any of your thinking. Use it only to do things that were previously impossible) 
 * Recipe using my visual method
