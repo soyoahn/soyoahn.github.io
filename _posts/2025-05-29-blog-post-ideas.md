@@ -17,12 +17,12 @@ I'm hoping that if I post this backlog somewhere, I'm more likely to write the p
 * Since I get asked all the time: What I think about AI (don't use it to outsource any of your thinking. Use it only to do things that were previously impossible) 
 * Recipe using my visual method
 * Why you need a technical writer (docs migration - updating systems outside of docs system with updated links) 
-* My checklist before taking on any other job. 
+* My checklist before taking on any other job. [Started here: [Job Interview Questions](2025-06-06-job-interview-questions.md)]
 * Just a long post/rant that it's partly your job as a tech writer to get your docs read. If they're not being read, they're probably not very useful and you should reconsider what you're writing and how you're presenting the info. 
 
 #### My Game Dev Journey 
 * How I got there, How I moved to MP, Why I left a dream job
-* Why I love doing technical writing in games and how I think it's different from other tech writing
+* Why I love doing internal technical writing in games and how I think it's different from other tech writing
 
 
 #### Motherhood
@@ -38,7 +38,7 @@ I'm hoping that if I post this backlog somewhere, I'm more likely to write the p
 * The bullet list of parenting philosophy
 * Backgammon setup and quick reference
 * Gin Rummy quick reminder
-* How I'd Build My Dream Community (If I Would Just Accept A Tiny Bit Of Social Discomfort To Reap Theoretical Benefits)
+* How I'd Build My Dream Community (If I Would Accept Just A Tiny Bit Of Social Discomfort To Reap Theoretical Benefits)
 
 
 *Lessons Learned*
