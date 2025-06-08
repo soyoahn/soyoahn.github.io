@@ -12,7 +12,7 @@ tags: dailylife
 ### Technical Writing
 Musings about this wild craft.
 * Internal Style Guide: I'd like to share my quickest version of a contributor's guide. And the reasoning behind why mine is a quick one pager.
-* Docs requested by the reader (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate shareable professional samples for future jobs. So I'll create some samples in my own time for the anyone who needs it. 
+* Docs requested by the reader (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate shareable professional samples for future jobs. 
 * Since I get asked all the time: What I think about AI (Please don't use it to outsource any of your thinking. Your neuroplastic brain will adapt to all your cut corners and it won't be pretty.) 
 * A few recipes (my visual method)
 * Why you need a technical writer who cares about the whole information experience (example: docs migration - updating systems outside of docs system with updated links) 
