@@ -46,4 +46,4 @@ If I can share whatever docs I'm writing for myself, I'll just share it here.
 *Lessons Learned*
 ?
 
-✨ Let's do this thing! I'm going to edit this post as I go; possibly striking out and adding a link as I (hopefully) complete the entries. 
+✨ Let's do this thing! I'm going to edit this post as I go; possibly striking out and adding links as I (hopefully) complete the entries. 
