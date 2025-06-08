@@ -38,4 +38,5 @@ Yes:
 - (For Internal Docs) When's the last time you shared your docs externally? What teams need to do this and why? 
 - (For Internal Docs) How do people gain access to the docs? How much of that is owned by the docs team versus IT? 
 
-✨ I love technical writing, but in rare circumstances it can be torture (I can handle high accountability x high autonomy OR low accountability x low autonomy. What I can't stand is when someone expects high accountability x low autonomy from a senior writer with the types of experience I've had. Stashing these questions for the future. 
+✨ I love technical writing, but in rare circumstances it can be torture...
+I can handle high accountability x high autonomy OR low accountability x low autonomy. What I can't stand is when someone expects high accountability x low autonomy from a senior writer with the types of experience I've had. Stashing these questions for the future. 
