@@ -37,7 +37,7 @@ Hey, it's the core of who I am now. How could I _not_ write about it?
 If I can share whatever docs I'm writing for myself, I'll just share it here.
 * Touring preschools for choice programs
 * Other parenthood stuff like our potty training playbook 
-* The bullet list of parenting philosophy
+* The bullet list of parenting philosophy (spoiler: let kids experience boredom, help them reach out of their comfort zones, remember they are so little and our crazy schedules are incomprehensible to them--allot 15 extra minutes between everything so you can give them 5min to explore that weird bug on the sidewalk)
 * Backgammon setup and quick reference
 * Gin Rummy quick reminder
 * How I'd Build My Dream Community (If I Would Accept Just A Tiny Bit Of Social Discomfort To Reap Theoretical Benefits)
