@@ -39,4 +39,4 @@ Yes:
 - (For Internal Docs) How do people gain access to the docs? How much of that is owned by the docs team versus IT? 
 
 ✨ I love technical writing, but in rare circumstances it can be torture...
-I can handle high accountability x high autonomy OR low accountability x low autonomy. What I can't stand is when someone expects high accountability x low autonomy in a docs system that is admittedly failing. As a senior writer with the types of experiences (and customer successes) I've had, I don't do well with arbitrary decision-making gatekeeping around docs. Stashing these questions for the future. 
+I can handle expectations for high impact x high autonomy OR average impact x low autonomy. What I can't stand is when someone expects high impact x low autonomy in a docs system that is admittedly failing. As a senior writer with the types of experiences (and customer successes) I've had, I don't do well with arbitrary decision-making gatekeeping around docs. There's too much I'll want to do and I'll be frustrated if I'm told I can't do them for arbitrary/hypotheticL/imaginary reasons. Stashing these questions for the future. 
