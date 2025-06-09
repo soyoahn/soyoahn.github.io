@@ -13,17 +13,15 @@ Musings about this wild craft.
 * Internal Style Guide: I'd like to share my quickest version of a contributor's guide. And the reasoning behind why mine is a quick one pager.
 * Docs requested by the reader (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate shareable professional samples for future jobs. 
 * Since I get asked all the time: What I think about AI (spoiler: Please don't use it to outsource any of your thinking. Your neuroplastic brain will adapt to all your cut corners and it won't be pretty.) 
-* A few recipes (my visual method)
 * Why you need a technical writer who cares about the whole information experience (example: docs migration - updating systems outside of docs system with updated links) 
 * My checklist before taking on any other job. [Started here: [Job Interview Questions](../../06/06/job-interview-questions.html)]
 * Just a long post/rant explaining that it is partly your job as a tech writer to *get your docs read*. If they're not being read, you should reconsider the content and how you're presenting the info. 
 
 ### My Game Dev Journey 
 Answers to common questions so I can just share a link.
-* How I got here, How I moved to mutiplayer production (spoiler: sheer luck and people who believed in me)
+* How I got here, How I moved to mutiplayer maps production (spoiler: sheer luck and people who believed in me)
 * Why I left a dream job
 * Why I love doing internal technical writing in games and how I think it's different from other tech writing (or should be)
-
 
 ### Motherhood
 Hey, it's the core of who I am now. How could I _not_ write about it?
@@ -40,7 +38,7 @@ If I can share whatever docs I'm writing for myself, I'll just share it here.
 * Backgammon setup and quick reference
 * Gin Rummy quick reminder
 * How I'd Build My Dream Community (If I Would Accept Just A Tiny Bit Of Social Discomfort To Reap Theoretical Benefits)
-
+* A few baking recipes (my visual method)
 
 *Lessons Learned*
 ?
