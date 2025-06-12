@@ -38,7 +38,7 @@ If I can share whatever docs I'm writing for myself, I'll just share it here.
 * Backgammon setup and quick reference
 * Gin Rummy quick reminder
 * How I'd Build My Dream Community (If I Would Accept Just A Tiny Bit Of Social Discomfort To Reap Theoretical Benefits)
-* A few baking recipes (my visual method)
+* A few baking recipes (my visual method).
 
 *Lessons Learned*
 ?
