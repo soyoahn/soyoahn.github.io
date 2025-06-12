@@ -25,7 +25,7 @@ Answers to common questions so I can just share a link.
 
 ### Motherhood
 Hey, it's half of my identity now (the more important half). How could I _not_ write about it?
-* I'd like to share a succinct chronology of my daughter's birth journey. It's the wildest thing I've ever experienced in my life and it's something I'd like to share with more people but I want to make the information pull, rather than pushing it to those who could have triggers. 🧡
+* I'd like to share a succinct chronology of my daughter's birth journey. It's the wildest thing I've ever experienced in my life and it's something I'd like to share with more people but I want to make the information pull, rather than pushing it to those for whom birth stories are a painful topic. 🧡
 * Our child raising recipe thus far and commentary about which advice from experts resonated and what advice we modified--because all kids are different (spoiler: authoritative + gentle parenting, focus on play + exploration (let them fall and get hurt within reason), germs are our friends (within reason), solid starts, oh crap potty training, no "passive" screentime, and so on). 
 * Aspects of parenting I'm still struggling with 
 
