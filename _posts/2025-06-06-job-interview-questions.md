@@ -8,7 +8,7 @@ tags: career
 ---
 
 ## Do you have any questions for me? 
-Yes: 
+Yes. (This isn't a comprehensive list, but these are ones I don't want to forget for my next career move.) 
 
 ### What Is My Role, Actually?
 - What are your goals and vision for the docs and what would be my specific role in it? 
@@ -38,5 +38,5 @@ Yes:
 - (For Internal Docs) When's the last time you shared your docs externally? What teams need to do this and why? 
 - (For Internal Docs) How do people gain access to the docs? How much of that is owned by the docs team versus IT? 
 
-✨ I love technical writing, but in rare circumstances it can be torture...
+✨ Why these questions? 
 I can handle expectations for high impact x high autonomy OR average impact x low autonomy. What I can't stand is when someone expects high impact x low autonomy in a docs system that is admittedly failing. As a senior writer with the types of experiences (and customer successes) I've had, I don't do well with arbitrary decision-making gatekeeping around docs. There's too much I'll want to do and I'll be frustrated if I'm told I can't do them for arbitrary, hypothetical, or imaginary reasons. Stashing these questions for the future. 
