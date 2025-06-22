@@ -2,7 +2,7 @@
 tags: docs
 ---
 ## Blog Creation Notes
-I wanted a simple place to post things and start reconnecting with people without any built-in social crap. 
+I wanted a simple, free, and no ads place to post things and start reconnecting with people without any built-in social networking crap.
 
 Luckily, I found this generous template: 
  - [@chadbaldwin's _Building a Free Blog with GitHub Pages in Minutes_](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). 
