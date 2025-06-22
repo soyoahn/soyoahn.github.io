@@ -10,7 +10,7 @@ I'm a technical writer and the mom of two toddlers. We have one brown tabby cat 
 
 I've had brief, lucky stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
 
-_Why'd that happen?_ Not sure, but I do know that **I care and I'm curious**. I love anticipating needs and solving problems (trite but true). If I think I understand something, I consider from yet another use case/user role/tangential workflow until I have a clear enough picture of the system and where my doc fits into that system. I think that type of internal motivation is what landed me all the cool opportunities in my life. 
+_Why'd that happen?_ Not sure, but I do know that **I care and I'm curious**. I love anticipating needs and solving problems (trite but true). If I think I understand something, I consider from yet another use case/user role/tangential workflow until I have a clear enough picture of the system. I think that type of internal motivation is what landed me all the cool opportunities in my life. 
 
 
 **Professional Passion: User Experience and Optimal Workflows Above All**
