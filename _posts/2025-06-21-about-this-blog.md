@@ -22,13 +22,6 @@ To get the same blog setup you see here:
 		- Add the following line of code, followed by your html or markdown: `{%- assign resume = site.data.resume -%}`
 	b. In your GitHub site's root folder (`_username_.github.io`), create a `resume.md` file.
 		- Add the following block of code: (Note: I changed my title to Writing Samples)
-		
-```
-		---
-		title: Resume 
-		layout: default
-		---
-		\c{%- include resume.html -%}
-		```
+
 		
 ✨ What's Next: Someday I'll sit down and update the styles to make it my own!
