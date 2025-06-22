@@ -39,6 +39,6 @@ Yes. (This isn't a comprehensive list, but these are ones I don't want to forget
 - (For Internal Docs) How do people gain access to the docs? How much of that is owned by the docs team versus IT? 
 
 ✨ Why these questions? 
-I can handle expectations for high impact x high autonomy OR average impact x low autonomy. What's hard is high impact x low autonomy is expected at the same time that a docs system is admittedly failing. 
+I can handle expectations for <font color="#B33F00">high impact x high autonomy</font> OR <font color="#B33F00">average impact x low autonomy</font>. What's hard is when <font color="#B33F00">high impact x low autonomy</font> is expected at the same time that a docs system is admittedly failing. 
 
 As a senior writer with the types of experiences (and customer successes) I've had, I don't do well with arbitrary decision-making gatekeeping around docs. There's too much I'll want to do and I'll be frustrated if I'm told I can't do them for arbitrary, hypothetical, or imaginary reasons. Stashing these questions for the future. 
