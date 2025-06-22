@@ -1,9 +1,9 @@
 ---
 tags: docs
 ---
+## Blog Creation Notes
+I wanted a simple place to post things and start reconnecting with people without any built-in social crap. 
 
-## About this blog
-I wanted a simple place to post things and start connecting with people without any built-in social crap. 
 Luckily, I found this generous template: [@chadbaldwin's Building a Free Blog with GitHub Pages in Minutes](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). 
 
 ---
