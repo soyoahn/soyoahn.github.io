@@ -5,7 +5,7 @@ tags: docs
 I wanted a simple place to post things and start reconnecting with people without any built-in social crap. 
 
 Luckily, I found this generous template: 
- - [@chadbaldwin's Building a Free Blog with GitHub Pages in Minutes](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). 
+ - [@chadbaldwin's _Building a Free Blog with GitHub Pages in Minutes_](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html). 
 
 ---
 
