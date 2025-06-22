@@ -1,7 +1,7 @@
 **Technical Writer Working in Games**
 
 Alright! Blog! Time to try this medium again.
-This [site](_posts/2025-06-21-about-this-blog.html) isn't meant for any one use case (personal, professional, "mommy blogging"). It's just a centralized place to keep notes that I can easily share with a link. :)
+This [site](2025/06/21/about-this-blog.html) isn't meant for any one use case (personal, professional, "mommy blogging"). It's just a centralized place to keep notes that I can easily share with a link. :)
 
 I'm a technical writer and the mom of two toddlers. We have one brown tabby cat and a growing collection of houseplants (19 now... I'd love to 3x this number in the next year or so). 
 
