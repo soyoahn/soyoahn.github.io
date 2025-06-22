@@ -10,7 +10,7 @@ I'm a technical writer and the mom of two toddlers. We have one brown tabby cat 
 
 I've had brief, lucky stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
 
-My formula: I care and I'm curious. If I think I understand something, I try to imagine my understanding from yet another user role/viewpoint and see if I have a complete picture. 
+_Why'd that happen?_ Not sure, but I do know that **I care and I'm curious**. If I think I understand something, I try to imagine my understanding from yet another user role/viewpoint and see if I have a complete picture. I think that type of internal motivation is what landed me all the cool opportunities in my life. 
 
 
 **Professional Passion: User Experience and Optimal Workflows Above All**
