@@ -24,7 +24,7 @@ To get the same blog setup you see here:
 		- Add the following block of code: (Note: I changed my title to Writing Samples)
 		```
 		---
-title: Writing Samples
+title: Resume
 layout: default
 ---
 {\%- include resume.html -\%}
