@@ -25,12 +25,15 @@ To get the same blog setup you see here:
 		- Add the following line of code, followed by your html or markdown: {% raw %}`{%- assign writingsamples = site.data.writingsamples -%}`{% endraw %}
 	2. In your GitHub site's root folder (`_username_.github.io`), create a `writingsamples.md` file.
 		- Add the block of code you see here: 
-		{% raw %} ``` 
+		{% raw %} 
+		``` 
 		--- 
 		title: Writing Samples 
 		layout: default 
 		--- 
-		{%- include writingsamples.html -%} ``` {% endraw %}
+		{%- include writingsamples.html -%} 
+		``` 
+		{% endraw %}
 		
 		[Live Example](https://github.com/soyoahn/soyoahn.github.io/blob/main/writingsamples.md?plain=1) | Note: Writing Samples is just one example. You could make a "Resume" or "Portfolio" one if you prefer! Just change the naming in those two files, including the filenames. 
 		
