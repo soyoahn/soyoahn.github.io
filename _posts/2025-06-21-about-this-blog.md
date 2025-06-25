@@ -22,7 +22,10 @@ To get the same blog setup you see here:
 
 4. Add a **Writing Samples** nav item by creating a couple new files: 
 	1. In the `_includes` folder, create a `resume.html` file. 
-		- Add the following line of code, followed by your html or markdown: `{\%- assign writingsamples = site.data.writingsamples -%}`
+		- Add the following line of code, followed by your html or markdown: 
+		```liquid
+		{%- assign writingsamples = site.data.writingsamples -%}
+		```
 	2. In your GitHub site's root folder (`_username_.github.io`), create a `resume.md` file.
 		- Add the block of code you see here: [https://github.com/soyoahn/soyoahn.github.io/blob/main/writingsamples.md?plain=1](https://github.com/soyoahn/soyoahn.github.io/blob/main/writingsamples.md?plain=1)
 		Note: Writing Samples is just one example. You could make a "Resume" or "Portfolio" one if you prefer! Just change the naming in those two files, including the filenames. 
