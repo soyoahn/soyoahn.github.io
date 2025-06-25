@@ -21,9 +21,9 @@ To get the same blog setup you see here:
 3. Add the **Comments** feature by using [https://utteranc.es/](https://utteranc.es/). The form on that readme is how you generate the small snippet of code you include in your [`_includes/comments.html`](https://github.com/soyoahn/soyoahn.github.io/blob/4d45a93eb0e5d3e8518eb254974de5bd0bd8caab/_includes/comments.html).
 
 4. Add a **Writing Samples** nav item by creating a couple new files: 
-	1. In the `_includes` folder, create a `resume.html` file. 
+	1. In the `_includes` folder, create a `writingsamples.html` file. 
 		- Add the following line of code, followed by your html or markdown: {% raw %}`{%- assign writingsamples = site.data.writingsamples -%}`{% endraw %}
-	2. In your GitHub site's root folder (`_username_.github.io`), create a `resume.md` file.
+	2. In your GitHub site's root folder (`_username_.github.io`), create a `writingsamples.md` file.
 		- Add the block of code you see here: [https://github.com/soyoahn/soyoahn.github.io/blob/main/writingsamples.md?plain=1](https://github.com/soyoahn/soyoahn.github.io/blob/main/writingsamples.md?plain=1)
 		Note: Writing Samples is just one example. You could make a "Resume" or "Portfolio" one if you prefer! Just change the naming in those two files, including the filenames. 
 		
