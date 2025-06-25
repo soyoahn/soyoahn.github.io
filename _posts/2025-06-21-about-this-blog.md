@@ -16,8 +16,8 @@ To get the same blog setup you see here:
 1. Follow these steps: [https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
 2. (Optional) Remove some noise: 
 	1. If you don't want the RSS feed stuff, comment out the following line under **plugins** in the **_config.yml**: `- jekyll-feed`
-	2. Notice that a link to your index page shows up twice on every page: in the top left and on the top right. To remove the redundant index page nav item on the top right, convert all your <font color="#FF7A32">headers</font> in `index.html` to <font color="#FF7A32">\*\*strong\*\*<font color="#FF7A32"></font>
-3. Add the comments feature by using [https://utteranc.es/](https://utteranc.es/). The form on that readme is how you generate the small snippet of code you include in your [`_includes/comments.html`](https://github.com/soyoahn/soyoahn.github.io/blob/4d45a93eb0e5d3e8518eb254974de5bd0bd8caab/_includes/comments.html).
+	2. Notice that a link to your index page shows up twice on every page: in the top left and on the top right. To remove the redundant index page nav item on the top right, convert all your <font color="#FF7A32">headers</font> in `index.html` to <font color="#FF7A32">bold<font color="#FF7A32"></font> (Haven't had time to check if there's a smarter workaround than this.) 
+3. Add the **Comments** feature by using [https://utteranc.es/](https://utteranc.es/). The form on that readme is how you generate the small snippet of code you include in your [`_includes/comments.html`](https://github.com/soyoahn/soyoahn.github.io/blob/4d45a93eb0e5d3e8518eb254974de5bd0bd8caab/_includes/comments.html).
 4. Add a **Writing Samples** nav item by creating a couple new files: 
 	1. In the `_includes` folder, create a `resume.html` file. 
 		- Add the following line of code, followed by your html or markdown: `\{\%- assign writingsamples = site.data.writingsamples -\%\}`
