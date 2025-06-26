@@ -17,17 +17,17 @@ Musings about this wild craft.
 * A few recipes (my visual method)
 * Why you need a technical writer who cares about the whole information experience (example: docs migration - updating systems outside of docs system with updated links) 
 * My checklist before taking on any other job. [Started here: [Job Interview Questions](../../06/06/job-interview-questions.html)]
-* Just a long post/rant explaining that it is partly your job as a tech writer to *get your docs read*. If they're not being read, you should reconsider the content and how you're presenting the info. 
+* Just a long post/rant explaining that it is partly your job as a tech writer to *get your docs read*. If they're not being read, you should reconsider the content and how you're presenting the info. (You probably aren't winning the cost/reward tradeoff.
 
 ### My Game Dev Journey 
 Answers to common questions so I can just share a link.
-* How I got here, How I moved to mutiplayer production (spoiler: sheer luck and people who believed in me)
+* How I got here, how I moved to multiplayer production (spoiler: luck, probably)
 * Why I left a dream job
 * Why I love doing internal technical writing in games and how I think it's different from other tech writing (or should be)
 
 
 ### Motherhood
-Hey, it's the core of who I am now. How could I _not_ write about it?
+Hey, it's a huge part of who I am now. How could I _not_ write about it?
 * I'd like to share a succinct chronology of my daughter's birth journey. It's the wildest thing I've ever experienced in my life and it's something I'd like to share with more people but I want to make the information pull, rather than pushing it to those who could have triggers. 🧡
 * Our child raising recipe thus far and commentary about which advice from experts resonated and what advice we modified--because all kids are different (spoiler: authoritative + gentle parenting, focus on play + exploration (let them fall and get hurt within reason), germs are our friends (within reason), solid starts, oh crap potty training, no "passive" screentime, and so on). 
 * Aspects of parenting I'm still struggling with 
