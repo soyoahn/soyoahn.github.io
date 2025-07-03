@@ -47,20 +47,20 @@ hr {
 }
 
 .page-link li a:hover  {
-  background-color: #B89B9D;
-  color: #030633;
-  border-left: 12px solid #FFC8CB;
+  background-color: #B89B9D !important;
+  color: #030633 !important;
+  border-left: 12px solid #FFC8CB !important;
 }
 
 .page-link li a:focus  {
-  background-color: #B89B9D;
-  color: #030633;
-  border-left: 12px solid #FFC8CB;
+  background-color: #B89B9D !important;
+  color: #030633 !important;
+  border-left: 12px solid #FFC8CB !important;
 }
 
 /* "You are here" cues */
 .page-link a {
-    border-left: 12px solid rgb(0,51,102);
-    background: #FFCCCC;
-    color: #030633;
+    border-left: 12px solid rgb(0,51,102) !important;
+    background: #FFCCCC !important;
+    color: #030633 !important;
 }
