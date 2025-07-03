@@ -2,10 +2,10 @@
 tags: metablog
 ---
 
-### Nostalgic for tiny handmade personal sites bursting with personality and beginnerness
-
-I'm nostalgic for the messy and bespoke handmade vibe of my 2017 portfolio site: 
+### Nostalgic for tiny handmade personal sites
 ---
+
+My 2017 portfolio site, complete with a background image of a photo I took myself at Mount Rainier: 
 
 ![There's a crudely scrawled diagram at the top with stick figures depicting the author's journey from college to their first job at IBM. There's also a picture of an indignant cat. The page itself has a background image--a 10% opacity image of the author's own photo of the top of Mount Rainier.](/img/posts/2025/oldportfolio.png)
 
