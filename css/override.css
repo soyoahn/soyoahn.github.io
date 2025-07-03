@@ -54,16 +54,16 @@ hr {
   font-family: Helvetica, Tahoma, Verdana, sans-serif;
 }
 
-.site-nav ul {
+.page-link ul {
   list-style: none;
   margin: 0;
   padding: 0;
   border-top: 1px solid #05094D;
 }
-.site-nav li {
+.page-link li {
   border-bottom: 1px solid #05094D;
 }
-.site-nav li a:link {
+.page-link li a:link {
   display: block;
   padding: 5px 5px 5px 0.5em;
   border-left: 12px solid #02031A;
@@ -72,7 +72,7 @@ hr {
   color: #030633;
   text-decoration: none;
 }
-.site-nav li a:visited {
+.page-link li a:visited {
   display: block;
   padding: 5px 5px 5px 0.5em;
   border-left: 12px solid #02031A;
