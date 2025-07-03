@@ -47,24 +47,23 @@ hr {
 }
 
 /* Navigation */
-nav {
-  position: absolute;
+.site-nav {
   top: 5em;
   right: 1em;
   width:200px;
   font-family: Helvetica, Tahoma, Verdana, sans-serif;
 }
 
-nav ul {
+.site-nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
   border-top: 1px solid #05094D;
 }
-nav li {
+.site-nav li {
   border-bottom: 1px solid #05094D;
 }
-nav li a:link {
+.site-nav li a:link {
   display: block;
   padding: 5px 5px 5px 0.5em;
   border-left: 12px solid #02031A;
@@ -73,7 +72,7 @@ nav li a:link {
   color: #030633;
   text-decoration: none;
 }
-nav li a:visited {
+.site-nav li a:visited {
   display: block;
   padding: 5px 5px 5px 0.5em;
   border-left: 12px solid #02031A;
