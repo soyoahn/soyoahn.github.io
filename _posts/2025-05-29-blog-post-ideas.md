@@ -1,5 +1,5 @@
 ---
-tags: dailylife
+tags: metablog
 ---
 
 ## Backlog of Blog Post Ideas

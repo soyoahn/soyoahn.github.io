@@ -1,5 +1,5 @@
 ---
-tags: "daily life"
+tags: metablog
 ---
 
 ## Blue Crayon Note

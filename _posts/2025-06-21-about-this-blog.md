@@ -1,5 +1,5 @@
 ---
-tags: docs
+tags: metablog
 ---
 ## Blog Creation Notes
 I wanted a simple, free, no-ads place to post things and reconnect with people without any noisy social networking crap.
