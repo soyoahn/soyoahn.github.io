@@ -9,6 +9,8 @@ My 2017 portfolio site, complete with a background image of a photo I took mysel
 
 ![There's a crudely scrawled diagram at the top with stick figures depicting the author's journey from college to their first job at IBM. There's also a picture of an indignant cat. The page itself has a background image--a 10% opacity image of the author's own photo of the top of Mount Rainier.](/img/posts/2025/oldportfolio.png)
 
+✨ Handmade as if the website came from an eager beginner on Etsy.
+
 I also liked this college summary I put in my about page: 
 
 ### Some highlights and random memories of my undergrad career at the University of Washington (Class of 2009)
@@ -36,6 +38,3 @@ I also liked this college summary I put in my about page:
 - Designed a study and wrote an APA-style paper for [PSYCH 331: Lab in Human Performance](http://web.psych.washington.edu/psych.php#p=76)
 - Received the undergraduate Leadership & Engagement Award from the University of Washington [Department of Human Centered Design & Engineering](http://www.hcde.washington.edu/)
 - Graduated with a BSc in Technical Communication and BSc in Psychology
-
-
-✨ Handmade as if the website came from an eager beginner on Etsy, not Costco.
