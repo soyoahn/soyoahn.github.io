@@ -13,7 +13,7 @@ My 2017 portfolio site, complete with a background image of a photo I took mysel
 
 I also liked this college summary I put in my about page: 
 
-### Some highlights and random memories of my undergrad career at the University of Washington (Class of 2009)
+**Some highlights and random memories of my undergrad career at the University of Washington (Class of 2009)**
 
 - Collected sea water samples and helped conduct plankton tows in Puget Sound during a weekend research cruise aboard the [Thomas G. Thompson Research Vessel](http://oceanexplorer.noaa.gov/technology/vessels/thompson/thompson.html)
 - Lived in two dorms: [Terry-Lander Hall](http://www.hfs.washington.edu/housing/Default.aspx?id=268) and [Haggett Hall](http://www.hfs.washington.edu/housing/Default.aspx?id=262) (dungeon)
