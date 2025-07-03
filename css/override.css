@@ -45,21 +45,22 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
-/*columbia river wrapper*/
 
-#wrappercolumbiariver {
-  position: relative;
-  text-align: left;
-  width: 900px;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 80px 0 0 0;
-  background-color: rgb(88,88,88);
-  background-image: url(images/bg_columbiariver.gif);
-  background-repeat: no-repeat;
-  background-position: center top;
-  background-size: 900px 506px;
-  border-bottom:20px solid rgb(0,0,0);
-  border-top: 20px solid rgb(0,0,0);
-  border-radius: 10px;
+.page-link li a:hover  {
+  background-color: #B89B9D;
+  color: #030633;
+  border-left: 12px solid #FFC8CB;
+}
+
+.page-link li a:focus  {
+  background-color: #B89B9D;
+  color: #030633;
+  border-left: 12px solid #FFC8CB;
+}
+
+/* "You are here" cues */
+.page-link a {
+    border-left: 12px solid rgb(0,51,102);
+    background: #FFCCCC;
+    color: #030633;
 }
