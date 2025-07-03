@@ -38,4 +38,4 @@ I also liked this college summary I put in my about page:
 - Graduated with a BSc in Technical Communication and BSc in Psychology
 
 
-✨ Handmade as if the website came from a beginner on Etsy, not Costco.
+✨ Handmade as if the website came from an eager beginner on Etsy, not Costco.
