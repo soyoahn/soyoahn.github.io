@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+.page-link {
+  color: #333;
+  text-decoration: none;
+  padding: 6px 10px;
+  transition: color 0.2s ease;
+}
+
+/* Hover effect */
+.page-link:hover {
+  color: #007acc;  /* Blue when hovered */
+}
+
+/* Active/current page link */
+.page-link.active,
+.page-link[aria-current="page"] {
+  color: #cc0000;  /* Red when it's the current page */
+  font-weight: bold;
+  border-bottom: 2px solid #cc0000;
+}
