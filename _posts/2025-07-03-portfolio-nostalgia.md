@@ -24,7 +24,7 @@ I also liked this college summary I put in my about page:
 - Interned at the City of Seattle's Public Utilities, Engineering Division in Seattle, Wash.
 - Recognized as a Finalist in the Univ. of Washington's [2007 Electronic Portfolio Contest (for a different web portfolio)](http://www.washington.edu/lst/research_development/research_projects/portfolio_contest)
 - Served as a very active staff member of posTComm 2008 and the STC's University of Washington Student Chapter
-- Biked the whole [Burke-Gilman trail](http://www.seattle.gov/transportation/burkegilmantrailmaps.htm)
+- Commuted via bike on the [Burke-Gilman trail](https://www.seattle.gov/parks/allparks/burke-gilman-trail)
 - Wrote features and entertainment reviews for [The Daily](http://dailyuw.com/), the UW campus newspaper
 - Placed on the Annual Dean's List from the [College of Engineering](http://www.engr.washington.edu/) for 2006–07
 - Decided to obtain a double degree in the [Psychology (Bachelor of Science program)](http://web.psych.washington.edu/psych.php#p=47)
