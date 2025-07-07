@@ -6,7 +6,7 @@ This [site](2025/06/21/about-this-blog.html) isn't meant for any one use case (p
 I'm a technical writer and the mom of two toddlers. We have one brown tabby cat and a growing collection of houseplants (<s>19</s> [26](2025/07/05/what-i-did-during-mid-year-break.html) now... I'd love to 2x this number in the next year or so). 
 
 
-**Sometimes Not a Technical Writer**
+**Sometimes a Technical Writer++**
 
 I've had brief, lucky stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
 
