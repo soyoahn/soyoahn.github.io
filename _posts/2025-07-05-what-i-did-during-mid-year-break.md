@@ -6,17 +6,15 @@ tags: personal
 
 Every year, the company I work for takes off the entire week that July 4th is observed. 
 
-This was that week! Here's what I did. 
+This was that week! 
 ---
 
-**Goals going in**
+**Here's what I did:**
 
 * [x] **[Move kiddo #2 to his own bed!](#room)**
 * [x] [Get more outdoor plants](#plants)
 * [x] [Brush up on UX and Content Design](#ux)
 * [x] [Set up my SFV Vanpool proposal](#vanpool)
-* [ ] Visit Home Goods (Oh well, another time. It's been actual years (plural) since I've set foot in a Home Goods.) 
-* [ ] Clothes shopping (Oh well)
 * [ ] [Shop for a new car](#car)
 
 
