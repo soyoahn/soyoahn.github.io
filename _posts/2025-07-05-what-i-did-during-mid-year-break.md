@@ -59,7 +59,7 @@ I enjoy going into office, but it's been rough on our cars. The company I work f
 ## Shop for a new car {#car}
 So, the Tuesday before break was Take-Your-Kid-To-Work Day (a half-day affair complete with breakfast, lunch, ice cream, music, dancing, crafts, and activities for the kids). 
 
-We came home around 2pm and I took a meeting from my desk at home while my husband took the kids to the grocery store. On the way, a Range Rover ran a red light and... I mean, almost t-boned the tiny Ford C-Max holding my whole family in it. They came out relatively unscathed, but the car was a total loss. 
+We came home around 2pm and I took a meeting from my desk at home while my husband took the kids to the grocery store. On the way, a Range Rover ran a red light and... I mean, almost t-boned the tiny Ford C-Max holding my whole family in it. Everyone came out relatively unscathed, thankfully, but the car was a total loss. 
 
 Witnesses emerged to offer their testimony (which was great because we didn't own a dash cam), but the investigation took two weeks and we only got word yesterday (4th of July, the Friday before I return to work) that we were officially deemed not at fault by the insurance company. 
 
