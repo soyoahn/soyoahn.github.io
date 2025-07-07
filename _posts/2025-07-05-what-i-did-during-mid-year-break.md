@@ -2,7 +2,7 @@
 tags: personal
 ---
 
-# What I did during my company's mid-year break
+# What I did during the company Mid-Year Break
 
 Every year, the company I work for takes off the entire week that July 4th is observed. 
 
