@@ -62,7 +62,8 @@ I need to say more about this book later, but I'll jot down a few notes now from
 - Industrial Design is 100% the field I should've studied and pursued. Where the design goals are around safety, usability, and failure prevention. This practice appears to be not quite as susceptible to non-user-serving agendas that all other design practices inevitably tend to fall into. 
 - I remembered that my original dream was to design human factors for car interfaces. Why and when did I totally forget about that dream? 
 - The book concludes that UX is in its "Oppenheimer" moment (our attention crisis, tech and social media addiction, and loss of skills and the ability to quickly react to unexpected problems due to things like automation) 
-- I think this book is a must-read. Also I think it's a love letter to every person in a UX or UX-adjacent role who originally entered this field for all the right reasons. 
+- I think this book is a must-read for everyone living in the world today, and a comprehensive, root-cause analytical summary for the next generation to understand why social connection is so messed up right now. 
+- Also I think this book is a wonderful love letter to every person in a UX or UX-adjacent practice who entered this field for all the right reasons. 
 
 ## Set up my SFV Vanpool proposal {#vanpool}
 I enjoy going into office, but it's been rough on our cars. The company I work for offers a vanpool program. I need enough coworkers to fill up the vanpool's **3 days per week with a passenger present each day** requirement to get this off the ground. Wish me luck! 🍀 
