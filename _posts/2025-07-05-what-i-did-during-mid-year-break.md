@@ -30,7 +30,7 @@ The Monday of Mid-Year Break, we started the day at IKEA.
 <summary>Aside: There was a UX quagmire there...</summary>
 We ended up waiting 2 hours to pick up the Click-to-Collect order I placed days earlier. 
 
-problems: 
+Problems: 
 
 * Vestigial prearranged pickup time placed with the order
 * Messaging that strung us along for hours that our order would be ready shortly
