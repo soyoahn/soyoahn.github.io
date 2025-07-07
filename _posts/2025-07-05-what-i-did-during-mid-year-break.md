@@ -9,7 +9,8 @@ Every year, the company I work for takes off the entire week that July 4th is ob
 This was that week! Here's what I did. 
 ---
 
-**Goals**
+**Goals** 
+
 Going in, here's how I wanted to spend the break:
 
 * [x] [Move kiddo #2 to his own bed!](#room)
@@ -39,7 +40,7 @@ Got these to spruce up our tiny patio:
 
 ![Watering guide for all my new plants: Misting and humidity for the creeping fig, wax plant, and zebra fern. Constant mosture for the parsley. Allow the english thyme and bbq rosemary to dry out completely between waterings.](/img/posts/2025/apruchnicki-new-2025-plants.png)
 
-## Brush up on UX and Content Design (#ux)
+## Brush up on UX and Content Design {#ux}
 Stumbled upon and finished this book: 
 
 [![User Friendly: How the hidden rules of design are changing the way we live, work, and play](/img/posts/2025/user-friendly-kuang-fabricant.jpg)](https://www.mcdbooks.com/books/user-friendly)
@@ -50,7 +51,7 @@ I need to say more about this book later, but here's a few notes from the stream
 - The book concludes that UX is in its "Oppenheimer" moment (our attention crisis, tech and social media addiction, and loss of skills and the ability to quickly react to unexpected problems due to things like automation) 
 - I think this book is a must-read. Also I think it's a love letter to every person in a UX or UX-adjacent role who originally entered this field for all the right reasons. 
 
-## Set up my SFV Vanpool proposal
+## Set up my SFV Vanpool proposal {#vanpool}
 I enjoy going into office, but it's been rough on our cars. The company I work for offers a vanpool program. I need enough coworkers to fill up the vanpool's **3 days per week with a passenger present each day** requirement to get this off the ground. Wish me luck! 🍀 
 [Preview of my vanpool proposal](/img/posts/2025/vanpool.png)
 
@@ -66,8 +67,8 @@ We should've taken the opportunity to test drive and shop for cars this week (wi
 
 All that to say, we are not looking forward to car shopping in the slightest. 😔
 
-## Unplanned stuff
-* Whole family went to see Elio. It was great! 
+## Impromptu stuff
+* Whole family went to see Elio. I loved it, cried a lot, and appreciated its beautiful moments.
 * Stumbled upon [Burton Chace Park](https://beaches.lacounty.gov/burton-chace-park/) in Marina Del Rey and the kids had fun enjoying the perfect breeze there. 
 * Took out the crockpot and made some stuff
 * Baked mini muffins 
