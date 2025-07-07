@@ -23,23 +23,20 @@ This was that week!
 The key, important thing we needed to do this break was to move our two-year-old (who'd been co-sleeping with us till now) to his sister's room--the room they'll need to share for the forseeable future. 
 
 The Monday of Mid-Year Break, we started the day at IKEA. 
-<!--
+
 <details>
 <summary>Aside: There was a UX quagmire there...</summary>
-We ended up waiting 2 hours to receive the Click-to-Collect order I placed days earlier. 
+<p>We ended up waiting 2 hours to receive the Click-to-Collect order I placed days earlier.</p>
 
 Problems: 
-
-* Vestigial prearranged pickup time placed with the order
-* Messaging that strung us along for hours that our order would be ready shortly
-* Reassurance from employees in person that everything was in order
-* At the near-two hour mark: different shoft of confused employees that blamed us for not responding to texts
-* Aforementioned text messages that kept thanking us for our patience and assuring us that our order would be ready soon, with no indication of needing or expecting a reply
-
-![IKEA Click to Collect Messaging going from 11:17am till 1pm](/img/posts/2025/ikea-click-to-collect-texts.jpg)
+<ul>Vestigial prearranged pickup time placed with the order
+<li>Messaging that strung us along for hours that our order would be ready shortly</li>
+<li>Reassurance from employees in person that everything was in order</li>
+<li>At the near-two hour mark: different shoft of confused employees that blamed us for not responding to texts</li>
+<li>Aforementioned text messages that kept thanking us for our patience and assuring us that our order would be ready soon, with no indication of needing or expecting a reply</li>
+</ul>
+<img src="/img/posts/2025/ikea-click-to-collect-texts.jpg" alt="IKEA Click to Collect Messaging going from 11:17am till 1pm">
 </details>
--->
-
 
 We got home and put together our newly acquired twin Vevelstad bed, started the bedtime routine at 7:30pm, got the kid in bed in his sister's room by 9:30pm, repeat. 
 
