@@ -2,12 +2,12 @@
 tags: metablog
 ---
 ## Blog Creation Notes
-I wanted a simple, free, no-ads place to post things and reconnect with people without any noisy social networking crap.
+I wanted a simple, free, ad-free, login-free place to post things and reconnect with people without any noisy social networking stuff.
 
-I found and used this generous template: 
- - [@chadbaldwin's _Building a Free Blog with GitHub Pages in Minutes_](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
+Used this generous template from [@chadbaldwin](https://github.com/chadbaldwin): 
+ - [Building a Free Blog with GitHub Pages in Minutes_](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
  
-**I take zero credit for this blog setup**--it's all [@chadbaldwin](https://github.com/chadbaldwin). I'm just sharing notes for some of the customizations I made. You'll need some basic experience with HTML, Markdown, and GitHub to follow along and create your own.
+**I take zero credit for this blog setup**. I'm simply sharing notes for some of the customizations I made on top of the template. You'll need some beginner-level experience with HTML, Markdown, and GitHub to follow along and create your own.
 
 ---
 
