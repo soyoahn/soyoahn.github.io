@@ -22,7 +22,7 @@ This was that week! Here's what I did.
 
 ## Move kiddo #2 to his own bed! {#room}
 
-The key thing we wanted to accomplish this break was moving our 2yo son (who'd been co-sleeping with us till now) to his sister's room--the room they'll need to share for the forseeable future. 
+The top, inportant thing we needed to do this break was to move our two-year-old (who'd been co-sleeping with us till now) to his sister's room--the room they'll need to share for the forseeable future. 
 
 The Monday of Mid-Year Break, we started the day at IKEA. 
 
