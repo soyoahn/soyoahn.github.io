@@ -59,7 +59,7 @@ Stumbled upon and finished this book:
 [![User Friendly: How the hidden rules of design are changing the way we live, work, and play](/img/posts/2025/user-friendly-kuang-fabricant.jpg)](https://www.mcdbooks.com/books/user-friendly)
 
 I need to say more about this book later, but I'll jot down a few notes now from the good ol' stream of consciousness: 
-- Industrial Design is 100% the field I should've studied and pursued. Where the design goals are around safety, usability, and failure prevention, rather than sales and engagement. 
+- Industrial Design is 100% the field I should've studied and pursued. Where the design goals are around safety, usability, and failure prevention. This practice appears to be not quite as susceptible to non-user-serving agendas that all other design practices inevitably tend to fall into. 
 - I remembered that my original dream was to design human factors for car interfaces. Why and when did I totally forget about that dream? 
 - The book concludes that UX is in its "Oppenheimer" moment (our attention crisis, tech and social media addiction, and loss of skills and the ability to quickly react to unexpected problems due to things like automation) 
 - I think this book is a must-read. Also I think it's a love letter to every person in a UX or UX-adjacent role who originally entered this field for all the right reasons. 
