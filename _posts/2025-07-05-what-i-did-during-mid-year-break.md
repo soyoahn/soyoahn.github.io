@@ -9,11 +9,9 @@ Every year, the company I work for takes off the entire week that July 4th is ob
 This was that week! Here's what I did. 
 ---
 
-**Goals**
+**Goals going in**
 
-Going in, here's how I wanted to spend the break:
-
-* [x] [Move kiddo #2 to his own bed!](#room)
+* [x] **[Move kiddo #2 to his own bed!](#room)**
 * [x] [Get more outdoor plants](#plants)
 * [x] [Brush up on UX and Content Design](#ux)
 * [x] [Set up my SFV Vanpool proposal](#vanpool)
