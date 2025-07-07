@@ -26,14 +26,27 @@ Going in, here's how I wanted to spend the break:
 
 The key thing we wanted to accomplish this break was moving our 2yo son (who'd been co-sleeping with us till now) to his sister's room--the room they'll need to share for the forseeable future. 
 
-The Monday of Mid-Year Break, we started the day at IKEA. We ended up waiting 2 hours to pick up the Click-to-Collect order I placed days earlier. 
+The Monday of Mid-Year Break, we started the day at IKEA. 
 
 <details>
 <summary>Aside: There was a UX quagmire there...</summary>
-Vestigial prearranged pickup time placed with the order, messaging that strung us along for hours that our order would be ready shortly, confused employees that blamed us for not responding to texts, text messages that kept thanking us for our patience and assuring us that our order would be ready soon, etc)
+We ended up waiting 2 hours to pick up the Click-to-Collect order I placed days earlier. 
+
+problems: 
+
+* Vestigial prearranged pickup time placed with the order
+* Messaging that strung us along for hours that our order would be ready shortly
+* Reassurance from employees in person that everything was in order
+* At the near-two hour mark: different shoft of confused employees that blamed us for not responding to texts
+* Aforementioned text messages that kept thanking us for our patience and assuring us that our order would be ready soon, with no indication of needing or expecting a reply
 
 ![IKEA Click to Collect Messaging going from 11:17am till 1pm](/img/posts/2025/ikea-click-to-collect-texts.jpg)
 </details>
+
+We got home and put together our newly acquired twin Vevelstad bed, started the bedtime routine at 7:30pm, got the kid in bed in his sister's room by 9:30pm, repeat. 
+
+Overall this went way more smoothly than we thought it would! I planned the week on the assumption that bedtimes would be hard and that we would get zero sleep. A little bummed I didn't make more out of the week, but the most important thing got done (albeit on the first day), so. Uh, victory.
+
 
 ## Get more outdoor plants {#plants}
 Got these to spruce up our tiny patio: 
