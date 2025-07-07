@@ -91,4 +91,4 @@ All that to say, we are not looking forward to car shopping in the slightest. �
 * Took out the crockpot and made some stuff
 * Baked mini muffins 
 
-✨ Grateful to have a job that lets me go and buy plants for a week, and that my family didn't get hurt in that accident. 
+✨ Grateful
