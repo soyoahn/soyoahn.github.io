@@ -69,7 +69,7 @@ I need to say more about this book later, but I'll jot down a few notes now from
 
 ## Set up my SFV Vanpool proposal {#vanpool}
 I enjoy going into office, but it's been rough on our cars. The company I work for offers a vanpool program. I need enough coworkers to fill up the vanpool's **3 days per week with a passenger present each day** requirement to get this off the ground. Wish me luck! 🍀 
-[Preview of my vanpool proposal](/img/posts/2025/vanpool.png)
+![Preview of my vanpool proposal](/img/posts/2025/vanpool.png)
 
 
 ## Shop for a new car {#car}
