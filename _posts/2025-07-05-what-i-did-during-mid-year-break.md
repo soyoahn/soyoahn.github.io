@@ -63,7 +63,7 @@ We came home around 2pm and I took a meeting from my desk at home while my husba
 
 Witnesses emerged to offer their testimony (which was great because we didn't own a dash cam), but the investigation took two weeks and we only got word yesterday (4th of July, the Friday before I return to work) that we were officially deemed not at fault by the insurance company. 
 
-We should've taken the opportunity to test drive and shop for cars this week (with the kids in school and all), but car stuff has officially exhausted us. I was rear-ended (at a long-standing red light!!!) back in February and shelled out more money than I should have to pay the Damage Waiver on the rental car that the other person's insurance provided while mine got repaired. Then only a couple months later, we had to replace the tires and I told my husband to "buy the expensive ones" because this was my commuter car and our family car. 
+We should've taken the opportunity to test drive and shop for cars this week (with the kids in school and all), but car stuff has officially exhausted us. I was rear-ended (at a long-standing red light!) back in February and shelled out more money than I should have to pay the Damage Waiver on the insurance-provided rental while my car got repaired. Then only a couple months later, we had to replace the tires and I told my husband to "buy the expensive ones" because this was my commuter car and our family car. 
 
 All that to say, we are not looking forward to car shopping in the slightest. 😔
 
