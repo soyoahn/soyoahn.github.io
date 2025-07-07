@@ -52,6 +52,7 @@ Got these to spruce up our tiny patio:
 ![Watering guide for all my new plants: Misting and humidity for the creeping fig, wax plant, and zebra fern. Constant mosture for the parsley. Allow the english thyme and bbq rosemary to dry out completely between waterings.](/img/posts/2025/apruchnicki-new-2025-plants.png)
 
 This took our houseplant count up to 26. 😁
+(I don't think the creeping fig is going to make it though.)
 
 ## Brush up on UX and Content Design {#ux}
 Stumbled upon and finished this book: 
