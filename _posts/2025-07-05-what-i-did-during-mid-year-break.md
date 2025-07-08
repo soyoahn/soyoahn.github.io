@@ -61,8 +61,9 @@ I need to say more about this book later, but I'll jot down a few notes now from
 - I remembered that my original dream was to design human factors for car interfaces. Why and when did I totally forget about that dream? 
 - UX and Product Design practitioners are experiencing their "Oppenheimer" moment--reckoning with all the fallout that ease of use and devising frictionless engagement has wrought. (Fallout examples: attention/distraction crisis, tech and social media addictions, loss of skills and the ability to quickly react to unexpected problems because of certain types of automation)
 - A must-read for everyone living in the world today to become "informed, critical consumers of design." The book provides beautifully curated design anecdotes and histories, and in doing so--I think--gives a comprehensive, root-cause analytical summary for future generations to strive for better. 
-- *(Uh, is this an Asana ad?)*
-- Also I think this book is a wonderful love letter to every person in a UX or UX-adjacent practice who entered this field for all the right reasons. 
+- *("Is this an Asana ad?")* The Asana segment was a little jarring to me.
+- Overall, I think this book is a wonderful love letter to every person who is drawn to UX for its deeply rewarding insight and empathy puzzles.
+- It felt a little surreal reading the Afterward; some of the sentences uttered were ones I've said verbatim at work countless times--I think if I shared it with certain coworkers they'd still somehow miss the advice to start with specific users before all else.
 
 ## Set up my SFV Vanpool proposal {#vanpool}
 I enjoy going into office, but it's been rough on our cars. The company I work for offers a vanpool program. I need enough coworkers to fill up the vanpool's **3 days per week with a passenger present each day** requirement to get this off the ground. Wish me luck! 🍀 
