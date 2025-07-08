@@ -2,9 +2,11 @@
 
 Time to try this medium again. Me blogging is usually a cringeworthy affair but I think I need the outlet now more than ever. 
 
-This [site](2025/06/21/about-this-blog.html) isn't meant for any one use case (personal, professional, "mommy blogging"). It's just a centralized place to keep notes that I can easily share with a link. :)
+This [blog](2025/06/21/about-this-blog.html) will be a centralized personal and professional catch-all to keep notes that I can easily share with a link. :)
 
-I'm a technical writer and the mom of two toddlers. We have one brown tabby cat and a growing collection of houseplants (<s>19</s> [26](2025/07/05/what-i-did-during-mid-year-break.html#plants) now... I'd love to 2x this number in the next year or so). 
+**About Me**
+
+I'm a technical writer based in Los Angeles and the mom of two toddlers. We have one brown tabby cat and a growing collection of houseplants (<s>19</s> [26](2025/07/05/what-i-did-during-mid-year-break.html#plants) now... I'd love to 2x this number in the next year or so). 
 
 
 **Sometimes a Technical Writer++**
