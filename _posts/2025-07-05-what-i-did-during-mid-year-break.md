@@ -32,10 +32,10 @@ Problems:
 <ul>Vestigial prearranged pickup time placed with the order
 <li>Messaging that strung us along for hours that our order would be ready shortly</li>
 <li>Reassurance from employees in person that everything was in order</li>
-<li>At the near-two hour mark: different shoft of confused employees that blamed us for not responding to texts</li>
-<li>Aforementioned text messages that kept thanking us for our patience and assuring us that our order would be ready soon, with no indication of needing or expecting a reply</li>
+<li>At the near-two hour mark: a different shift of confused employees root-caused the issue as us failing to responding to texts (so they thought we "left" even though we were sitting in the waiting room)</li>
+<li>Those aforementioned text messages kept thanking us for our patience and assuring us that our order would be ready soon, with no indication of needing or expecting a reply:<br> <img src="/img/posts/2025/ikea-click-to-collect-texts.jpg" alt="IKEA Click to Collect Messaging going from 11:17am till 1pm">
+</li>
 </ul>
-<img src="/img/posts/2025/ikea-click-to-collect-texts.jpg" alt="IKEA Click to Collect Messaging going from 11:17am till 1pm">
 </details>
 
 We got home and put together our newly acquired twin Vevelstad bed, started the bedtime routine at 7:30pm, got the kid in bed in his sister's room by 9:30pm, repeat. 
