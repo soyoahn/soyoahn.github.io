@@ -4,7 +4,7 @@ tags: personal
 
 # What I did during the company Mid-Year Break
 
-Every year, the company I work for takes off the entire week that July 4th is observed. 
+Every year, the company I work for takes off the whole week of July 4th. 
 
 This was that week! 
 ---
