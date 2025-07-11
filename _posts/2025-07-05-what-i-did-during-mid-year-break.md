@@ -11,7 +11,7 @@ This was that week!
 
 **Here's what I did:**
 
-* [x] **[Move our son to his own bed!](#room)**
+* [x] [Move our son to his own bed!](#room)
 * [x] [Get more outdoor plants](#plants)
 * [x] [Brush up on UX and Content Design](#ux)
 * [x] [Set up my SFV Vanpool proposal](#vanpool)
