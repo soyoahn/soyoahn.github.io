@@ -10,7 +10,7 @@ I used to have conversations that would elicit comments from engineers like, "yo
 
 Here at my current company... I've had nothing like that. Only "you get too distracted" and "why are you doing that?--please, don't do that." I'm confident and experienced enough to not delude myself into thinking this has anything to do with me or my capabilities. 
 
-Here, I've largely either felt overlooked and forced to work against my deepest work instincts. This oppressive and constant self-censorship, combined with a barrage of initiatives that are asking me to outsource the earliest and most creative stages of my thinking to AI... it's no wonder that my motivation and self confidence has waned. 
+Here, I've largely either felt overlooked and forced to work against my deepest work instincts. This oppressive and constant self-censorship, combined with a barrage of initiatives that are asking me to outsource the earliest and most creative stages of my thinking to AI/LLMs... it's no wonder that my motivation and self confidence has waned. 
 
 To combat this downward spiral, I've been pouring my energy into improving what I *can*: updating my document design skills, refining my review and publishing process, reading everything I can on graphic design (something I've never been great at), and so on. 
 
