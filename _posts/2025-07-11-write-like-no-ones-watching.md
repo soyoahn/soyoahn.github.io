@@ -8,7 +8,7 @@ I don't know if it's okay to admit this, but I just realized I've been doing thi
 
 I used to have conversations that would elicit comments from engineers like, "you shouldn't be a technical writer, you should be an engineer," and "are you an engineer? You're also kind of QA--what are you exactly" or "that is some incredible insight... what made you think of that?" (edit: this is, of course, after much back and forth and getting things wrong before getting them right. These are hard-won affirmations of being seen for the work I do. In short, the contrast here is that I think these days, people are too stressed, busy, or distracted to care about individual talent, whether it's a seasoned pro or a new grad hire.) 
 
-Here at my current company... I've had nothing like that. Only "you get too distracted" and "why are you doing that? You get too distracted." I'm confident and experienced enough to not delude myself into thinking this has anything to do with me or my capabilities. 
+Here at my current company... I've had nothing like that. Only "you get too distracted" and "why are you doing that? You get too distracted." or "that looks great!" without noticing anything I've actually done. I'm confident and experienced enough not to delude myself into thinking this has anything to do with me or my capabilities. 
 
 Here, I've largely either felt overlooked and forced to work against my deepest work instincts. This oppressive and constant self-censorship, combined with a barrage of initiatives that are asking me to outsource the earliest and most creative stages of my thinking to AI/LLMs... it's no wonder that my motivation and focus has waned. 
 
