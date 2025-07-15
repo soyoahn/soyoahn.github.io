@@ -7,7 +7,7 @@ I wanted a simple, free, ad-free, login-free place to post things and reconnect 
 Used this generous template from [@chadbaldwin](https://github.com/chadbaldwin): 
  - [Building a Free Blog with GitHub Pages in Minutes_](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html)
  
-**I take zero credit for this blog setup**. I'm simply sharing notes for some of the customizations I made on top of the template. You'll need some beginner-level experience with HTML, Markdown, and GitHub to follow along and create your own.
+**I repeat: I take zero credit for this blog setup**. I'm simply sharing notes for some of the customizations I made on top of the template. You'll need some beginner-level experience with HTML, Markdown, and GitHub to follow along and create your own.
 
 ---
 
