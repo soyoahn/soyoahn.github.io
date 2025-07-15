@@ -18,7 +18,7 @@ _Why'd that happen?_ Mostly luck and great managers. Also, **I care (a lot, abou
 
 **Professional Passion: Helping People and Achieving Optimal, Error-Preventative Workflows**
 
-I'm most passionate about creating systems of information that support complete workflows--factoring the entire lifecycle of the topic or process at hand.
+I'm most passionate about creating systems of information that support complete workflows--factoring the entire lifecycle of the topic or process.
 
 I think it's futile to design an architecture and infrastructure before first addressing at least 2 to 3 customers' most dire information needs reasonably well. I always prefer solving a few specific problems first, then designing the system based on your findings and understanding of your <font color="#F21B1B">specific users</font>. By doing this, you'll learn critical things about your users, your devs (and doc contributers), and get a better idea of which documentation designs and processes simply won't work for your org. 
 
