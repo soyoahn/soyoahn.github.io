@@ -11,7 +11,7 @@ I'm a technical writer based in Los Angeles and the mom of two toddlers. We have
 
 **Sometimes a Technical Writer++**
 
-I've had brief, lucky stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
+I've had brief stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
 
 _Why'd that happen?_ Mostly luck and great managers. Also, **I care (a lot, about everything) and I'm curious**. I love anticipating needs and solving problems (trite but true). When I think I understand something, I consider the words from yet another use case/user role/tangential workflow until I have a clear enough picture of the system. I'm pretty sure that that type of internal motivation is what landed me all the cool opportunities in my life. 
 
