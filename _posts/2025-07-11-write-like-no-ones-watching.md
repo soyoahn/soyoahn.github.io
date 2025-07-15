@@ -4,7 +4,7 @@ tags: career
 
 # Writing Like No One Is Watching
 
-I don't know if it's okay to admit this, but I just realized I've been doing this a lot recently--writing below my standards--as an unintentional response to feeling like an absolute fish out of water. The byproduct of being asked to schism against my decades-long experience and training, is... shutting down a part of my brain and losing a large part of what made my work fun (close collaboration with my users on docs they urgently need--and seeing those docs used in action, refining them further). 
+I don't know if it's okay to admit this, but I just realized I've been doing this a lot recently--writing below my standards--as an inadvertent response to feeling like an absolute fish out of water (naturally unregarded by the creatures out here on land). The byproduct of being asked to schism against my decades-long experience and training, is... shutting down a part of my brain and losing a large part of what made my work fun (close collaboration with my users on docs they urgently need--and seeing those docs used in action, refining them further). 
 
 I used to have conversations that would elicit comments from engineers like, "you shouldn't be a technical writer, you should be an engineer," and "are you an engineer? You're also kind of QA--what are you exactly" or "that is some incredible insight... what made you think of that?" (Edit: this is, of course, after much back and forth and getting things wrong before getting them right. These are hard-won affirmations of being **seen** for the work I do. Thinking critically and paying attention shouldn't be this rare, unpopular thing. Acknowledging a coworker for the creative **way** they solved a problem should be important.)
 
