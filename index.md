@@ -1,6 +1,6 @@
 **Technical Writer + Knowledge Manager + Game Producer**
 
-Me blogging tends to make me cringe but I could really use the outlet so here goes. 
+My blogs tend to veer towards cringe but I could really use the outlet so here goes. 
 
 This [blog](2025/06/21/about-this-blog.html) will be a personal and professional catch-all to keep notes that I can easily share with a link. :)
 
