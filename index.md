@@ -16,7 +16,7 @@ I've had brief stints as a business analyst, game content producer, and technica
 _Why'd that happen?_ Mostly luck and great managers. Also, **I care (a lot, about everything) and I'm curious**. I love anticipating needs and solving problems (trite but true). When I think I understand something, I consider the words from yet another use case/user role/tangential workflow until I have a clear enough picture of the system. I'm pretty sure that that type of internal motivation is what landed me all the cool opportunities in my life. 
 
 
-**Professional Passion: User Experience and Optimal Workflows Above All**
+**Professional Passion: Helping People and Achieving Optimal Workflows Above All**
 
 I'm most passionate about creating systems of information that support complete workflows--factoring the entire lifecycle of the topic or process at hand.
 
