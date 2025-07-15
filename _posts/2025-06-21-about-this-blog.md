@@ -13,7 +13,7 @@ Used this generous template from [@chadbaldwin](https://github.com/chadbaldwin):
 
 ## Steps
 To get the same blog setup you see here: 
-1. Follow these steps: [https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) <br>The rest of this is totally optional stuff I did in addition:
+1. Follow these steps: [https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) <br>Those steps will gove you this whole setup. The rest of the steps here are additional things I did to match what you see here.
 2. Remove some noise: 
 	1. **Remove RSS buttons** <br>If you don't want the RSS feed stuff, comment out the following line under **plugins** in the **_config.yml**: `- jekyll-feed`
 	2. **Remove the extra homepage link** from the nav <br>Notice that a link to your index page shows up twice on every page: in the top left and on the top right. To remove the redundant index page nav item on the top right, convert all your <font color="#FF7A32">headers</font> in `index.html` to <font color="#FF7A32">bold</font> (Haven't had a chance to check if there's a smarter workaround.) 
