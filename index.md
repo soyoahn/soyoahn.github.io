@@ -1,6 +1,6 @@
 **Technical Writer + Knowledge Manager + Game Producer**
 
-My blogs tend to veer towards cringe but I could really use the outlet, so here I am. 
+The idea of me blogging has always felt cringeworthy but I could really use the outlet, so here I am. 
 
 This [blog](2025/06/21/about-this-blog.html) will be a personal and professional catch-all to keep notes that I can easily share with a link. :)
 
