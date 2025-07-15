@@ -2,7 +2,7 @@
 
 I could really use the outlet, so here I go blogging again. 
 
-This [blog](2025/06/21/about-this-blog.html) will be a personal and professional catch-all to keep notes that I can easily share with a link. :)
+This [space](2025/06/21/about-this-blog.html) will be a personal and professional catch-all to keep notes that I can easily share with a link. :)
 
 **About Me**
 
