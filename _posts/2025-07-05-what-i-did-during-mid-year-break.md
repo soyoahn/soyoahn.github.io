@@ -39,9 +39,10 @@ Problems:
 </ul>
 </details>
 
+<p>
 We got home and put together our newly acquired twin Vevelstad bed, started the bedtime routine at 7:30pm, got the kid in bed in his sister's room by 9:30pm, repeat. 
-
-Overall this went way more smoothly than either of expected (perpetually knocking on wood). I planned the week on the assumption that bedtimes would be hard and that I'd be operating on truly zero sleep. A little bummed that I didn't plan an "if all goes well" contingency to make more out of the week, but the most important thing got done (albeit on the first day), so. Uh, victory.
+</p>
+Overall this went way more smoothly than either of us expected (perpetually knocking on wood). I planned the week on the assumption that bedtimes would be hard and that I'd be operating on truly zero sleep. A little bummed that I didn't plan an "if all goes well" contingency to make more out of the week, but the most important thing got done (albeit on the first day), so. Uh, victory.
 
 
 ## Get more outdoor plants {#plants}
