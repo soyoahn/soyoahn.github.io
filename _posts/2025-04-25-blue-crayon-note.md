@@ -18,7 +18,7 @@ But when the dryer was done
 The inside was... blue.
 
 #### Okay, now the inside of the dryer is blue.
-We did our best to clean it, but there was still some left.
+We did our best to clean it.
 
 The inside of the dryer is still a little blue (da ba dee). 
 
