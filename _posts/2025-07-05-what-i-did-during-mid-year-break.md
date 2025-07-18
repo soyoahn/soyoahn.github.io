@@ -39,9 +39,10 @@ Problems:
 </ul>
 </details>
 
+<p>
 We got home and put together our newly acquired twin Vevelstad bed, started the bedtime routine at 7:30pm, got the kid in bed in his sister's room by 9:30pm, repeat. 
-
-Overall this went way more smoothly than either of expected (perpetually knocking on wood). I planned the week on the assumption that bedtimes would be hard and that I'd be operating on truly zero sleep. A little bummed that I didn't plan an "if all goes well" contingency to make more out of the week, but the most important thing got done (albeit on the first day), so. Uh, victory.
+</p>
+Overall this went way more smoothly than either of us expected (perpetually knocking on wood). I planned the week on the assumption that bedtimes would be hard and that I'd be operating on truly zero sleep. A little bummed that I didn't plan an "if all goes well" contingency to make more out of the week, but the most important thing got done (albeit on the first day), so. Uh, victory.
 
 
 ## Get more outdoor plants {#plants}
@@ -57,7 +58,7 @@ Stumbled upon and finished this book:
 
 [![User Friendly: How the hidden rules of design are changing the way we live, work, and play](/img/posts/2025/user-friendly-kuang-fabricant.jpg)](https://www.mcdbooks.com/books/user-friendly)
 
-I need to say more about this book later, but I'll jot down a few notes now from the good ol' stream of consciousness: 
+I need to say more about this book later, but I'll jot down a few notes now from the ol' stream of consciousness: 
 - Industrial Design is 100% the field I should've studied and pursued. Where the design goals are around safety, usability, and failure prevention. This practice appears to be not quite as susceptible to non-user-serving agendas that all other design practices inevitably tend to fall into. 
 - I remembered that my original dream was to design human factors for car interfaces. Why and when did I totally forget about that dream? 
 - UX and Product Design practitioners are experiencing their "Oppenheimer" moment--reckoning with all the fallout that ease of use and devising frictionless engagement has wrought. (Fallout examples: attention/distraction crisis, tech and social media addictions, loss of skills and the ability to quickly react to unexpected problems because of certain types of automation)
