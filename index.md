@@ -13,13 +13,6 @@ I'm a technical writer based in Los Angeles and the mom of two toddlers. We have
 
 I've had brief stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
 
-_Why'd that happen?_ Mostly luck and great managers. Also, **I care (a lot, about everything) and I'm curious**. I love anticipating needs and solving problems (trite but true). When I think I understand something, I consider the words from yet another use case/user role/tangential workflow and iterate until I have a clear enough picture of the system. I'm pretty sure that this internal motivation is what landed me all the cool opportunities in my life. 
+I love learning the deep innards of a system--the design rationales, tech constraints, policy origin stories--and anticipating needs and solving problems (trite but true). 
 
-
-**Professional Passion: Helping People and Achieving Holistic, Error-Preventative Workflows**
-
-I'm most passionate about creating systems of information that support complete workflows--factoring the entire lifecycle of the topic or process.
-
-I think it's futile to design an architecture and infrastructure before first addressing at least 2 to 3 customers' most dire information needs reasonably well. I always prefer solving a few specific problems first, then designing the system based on understanding what's important to my <font color="#F21B1B">specific users</font>. By doing this, I learn critical things about my users, my devs (and doc contributers), what is or isn't important, and get an informed idea of which documentation designs and processes simply won't work for the org. 
-
-Start simple by creating something useful, earning trust, and then doing the bigger things. Once you've done that for a few months, you can build the whole system to slot more things into!
+I always prefer solving a few specific problems first, then designing the system based on understanding what's important to my <font color="#F21B1B">specific users</font>. By learning about my users + creators and what is or isn't important, I gain an informed idea to design information that fits the needs of all users in the system. The hardest part is learning what is or isn't important--and this is why **gaining firsthand expertise is critical to my process**.
