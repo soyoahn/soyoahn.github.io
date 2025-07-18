@@ -12,5 +12,5 @@ What's Now:
 - Still in L.A., family life is still wonderful and I'm grateful for that. 
 - I'm thinking about getting back into jewelry-making--something I loved in high school, and soldering kits + pliers are about $150 all-in so why not? Early birthday present for myself, maybe. 
 
-What's a now page? So glad you asked: [https://nownownow.com/about](https://nownownow.com/about). 
-Last updated July 18, 2025 
+What's a now page? So glad you asked: [https://nownownow.com/](https://nownownow.com/). I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
+Last updated July 18, 2025. 
