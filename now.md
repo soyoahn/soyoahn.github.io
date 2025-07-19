@@ -10,7 +10,7 @@ What's Now:
 
 Depressing Stuff Happening Now:   
 - Having a slight existential crisis. It's hard to watch the world burn and see wasted human potential everywhere.
-- I desperately crave time with kindred spirits but I crave time alone more at the moment. 
+- I crave time with kindred spirits but I crave time alone more.
 - For the first time in my life, I don't know what's next and I'm crazed with the fear of uncertainty. 
 - I feel like I'm supposed to be doing else but it's very hard to continue believing in myself. I don't know how to break out of this yet. 
 
