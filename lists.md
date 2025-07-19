@@ -28,5 +28,5 @@ layout: default
 
 
 ## <font color="#038C73">To Read, Recommended By Others (That I Won't Ever Get To Reading If I Don't Put It Here)</font>
-- https://basecamp.com/shapeup/shape-up.pdf // Is this good or grift? https://www.hbs.edu/faculty/Pages/item.aspx?num=60709
-- https://putthison.com/you-are-boring-so-so-boring/
+- [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? [https://www.hbs.edu/faculty/Pages/item.aspx?num=60709](https://www.hbs.edu/faculty/Pages/item.aspx?num=60709)
+- [https://putthison.com/you-are-boring-so-so-boring/](https://putthison.com/you-are-boring-so-so-boring/)
