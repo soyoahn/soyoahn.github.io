@@ -16,6 +16,10 @@ layout: default
 - Still in L.A., family life is still wonderful and I'm grateful for that. 
 - I'm thinking about getting back into jewelry-making--something I loved in high school. Soldering kits + pliers are about $150 all-in so why not? Early birthday present for myself, maybe. 
 
+## Social Things I'm Doing
+- [Music League](https://musicleague.com/) 
+-  Book club at work
+
 ## TMI/Depressing Stuff Happening Now (A section I might omit in the future but for now no one's reading this so why the heck not)   
 - Having a slight existential crisis. It's hard to watch the world burn and see wasted human potential everywhere.
 - I crave time with kindred spirits but I crave time alone more.
