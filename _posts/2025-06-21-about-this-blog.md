@@ -32,8 +32,8 @@ In your GitHub site's root folder (`_username_.github.io`), create a `writingsam
 		``` 
 		{% endraw %}
 		
-		[Live Example](https://github.com/soyoahn/soyoahn.github.io/blob/main/writingsamples.md?plain=1)  - Note: Writing Samples is just one example. You could make a "Resume" or "Portfolio" one if you prefer! Just change the naming in those two files, including the filenames. 
+	[Live Example](https://github.com/soyoahn/soyoahn.github.io/blob/main/writingsamples.md?plain=1)  - Note: Writing Samples is just one example. You could make a "Resume" or "Portfolio" one if you prefer! Just change the naming in those two files, including the filenames. 
 		
-		^^^ I don't know why this markdown formatting is so wonky, but I'll have to fix it later. 
+^^^ I don't know why this markdown formatting is so wonky, but I'll have to fix it later. 
 		
 ✨ What's Next: Someday I'll sit down and update the styles to make it my own!
