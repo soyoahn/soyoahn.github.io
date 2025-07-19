@@ -6,10 +6,8 @@ layout: default
 # What's Now
 
 ## Work
-- I've had full autonomy for most of my career. In my latest career move, I don't have it and it's destroying my mental state. **I'm still not sure how much I'm supposed to adapt.** (This company was supposed to be the land of milk and honey, where "rare, responsible people"--I'm borrowing Netflix's term, but the company is not Netflix--would have enough autonomy to experiment and try big things. But unfortunately I joined right when the company decided to do a massive u-turn and is in the process of overcorrecting itself in various ways.) 
-- I'll admit it: I made a huge mistake by succumbing to the sweeping "me" mentality of The Great Resignation.
-- I've been scouring various slack and discord communities to figure out whether "things" have shifted permanently (and how much I need to change... everything about myself), or if there are pockets of corporate America where ICs can still make a difference without playing the performative corporate game. I guess that's what everyone wants to know--how much of the current state is a passing fad and how much time and energy to invest in adapting. Are there any more writing & design-adjacent jobs where one spends most of their time doing **real work**. (Rather than talking about doing work, making guesses about whether the work will be worth it, and then months later deciding to do or abort the work. Why are we doing so much of this lately?)
-- Why am I so unwilling to spend time doing bullshit tasks? Is it ego? (It might be--I really don't know.) If someone recognizes this as a naive version of their former selves and you have insight, please share. I actually don't know. 
+- Trying to stay focused and not getting distracted by wanting to work the way I prefer to work.
+- Trying to figure out my next career move. I'm not happy with the way things are, and I'm not sure what kind of training I need to move towards the next thing (whatever the next thing is). 
 
 ## Personal
 - Reading Gideon the Ninth by Tamsyn Muir
