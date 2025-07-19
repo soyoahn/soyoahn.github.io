@@ -9,7 +9,7 @@ What's Now:
 - I'm thinking about getting back into jewelry-making--something I loved in high school. Soldering kits + pliers are about $150 all-in so why not? Early birthday present for myself, maybe. 
 
 Depressing Stuff Happening Now:   
-- Having a slight existential crisis. It's hard watching the world burn and seeing wasted human potential everywhere. **What I could use right now is your recommendations (books, music, movies that have changed your life/perspective/stress levels).** 
+- Having a slight existential crisis. It's hard to watch the world burn and see wasted human potential everywhere.
 - I desperately crave time with kindred spirits but I crave time alone more at the moment. 
 - For the first time in my life, I don't know what's next and I'm crazed with the fear of uncertainty. 
 - I feel like I'm supposed to be doing else but it's very hard to continue believing in myself. I don't know how to break out of this yet. 
