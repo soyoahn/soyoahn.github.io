@@ -11,7 +11,7 @@ I'm a technical writer based in Los Angeles and the mom of two toddlers. We have
 
 **Crowning Achievements**
 
-I've had brief stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
+In recent years, I've had brief stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
 
 I love learning the deep innards of a system--the design rationales, tech constraints, policy origin stories--and using all of the context to inform my work. 
 
