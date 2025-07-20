@@ -19,6 +19,9 @@ layout: default
 - A Prayer for the Crown-Shy by Becky Chambers
 - A Psalm for the Wild-Built by Becky Chambers
 - On Writing by Stephen King
+- Legends & Lattes by Travis Baldree
+- Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
+- Press Reset: Ruin and Recovery in the Video Game Industry by Jason Schreier
 - My Name Is Barbra (via audiobook narrated by Barbra Streisand)
 
 ## <font color="#038C73">Things I Want To Do</font>
