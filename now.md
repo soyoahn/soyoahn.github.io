@@ -15,7 +15,7 @@ layout: default
 - I'm thinking about getting back into jewelry-making--something I loved in high school. Soldering kits + pliers are about $150 all-in so why not? Early birthday present for myself, maybe. 
 
 ## Social Things I'm Doing
-- [Music League](https://musicleague.com/) 
+- [Music League](https://musicleague.com/) with a friend's group of friends
 - Book club at work
 
 ## Heavy Things 
