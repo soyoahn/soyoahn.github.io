@@ -2,10 +2,30 @@
 
 > Here are some stories from my time as a producer.
 
-## <font color="#6EF0B6">Case Study: Player Testing Data</font>
-*Story coming soon...*
+## <font color="#423D75">Case Study: User Testing</font>
+I was asked to work with game directors to pick our next map for postlaunch production, based on user testing feedback. 
 
-## <font color="#6EF0B6">Case Study: Build Executables</font>
-*Story coming soon...*
+- The director said the data wasn't useful because you couldn't tell who was giving feedback (important context about the tester's playstyle and experienc level), so you'd see the feedback grouped together, like: "too big" "just right" "snipers" "close combat"--all in one anonymized block. So I asked to see the feedback, tracked down where the data came from, and asked for the raw data. 
+- The raw data wasn't enough (it gave a list of maps tested per day, but no information about which order the maps were tested, which made comments like "I liked the first one better" actually useless. To re-represent the data, I asked for a key of which participants played which maps, in which order, on which days. 
+- I then used some Excel magic to lay out all the feedback comments with the context of which maps they were actually talking about. (I gave this information and feedback to user testing so they can improve if they wished to.) 
+- The thing that makes me feel proud about this is that this was the state of user testing for years, and I was the first person to (1) ask what useless meant, and (2) figure out what was happening and solve the problem. 
+
+It was incredibly difficult trying to figure out how to provide a visual for this without reveal anything about the testing methods, so please bear with me: 
+A snippet of the original report: 
+![This is an image of the original data--impossible to know which map they are talking about because the map order per day wasn't presented in the original report.](/img/posts/2025/user-data-case-study-original.png)
+*It wasn't possible to know which map was first or second without additional information that wasn't provided in the original report.*
+
+A snippet of my version of the report: 
+![This is an image of my version of the data--I've given more readable columns and made it clear which map was first and second on days 1 and 2 of testing per participant.](/img/posts/2025/user-data-case-study-mine.png)
+*I wish I could share more of my spreadsheet here because it's freaking beautiful.*
+
+## <font color="#423D75">Case Study: Build Executables</font>
+When devs built their levels locally, there was also an option for the type of executable you wanted to run (Test, Demo, Ship, etc). 
+- Because one of these executables were required to be selected at build time, many devs assumed (naturally so) that they were also selecting they type of executable they wanted to build for, and thought they were *only* building that executable.  
+- I noticed that when I was at devs' desks, they would close their game and rebuild the map just to run a different executable. Hearing that this was a pain, I investigated why we don't build all the executables at build (e.g., the tradeoffs for how long it would take versus how much it costs devs to have to rebuild each time). 
+- Then I learned that they were all already being built! I can't remember if I discovered this on my own by checking the timestamp on those executables on my local machine, of if I asked an engineer. 
+- Upon realizing this, I was able to update all the documentation and do deskside evangelization in the kindest and most discreet way possible (some devs had not realized this for years and I didn't want them to grieve those hours wasted over the years too badly). 
+
+This type of discovery is why I love watching users work in real time, and why I'll always ask for opportunities to do this type of shadowing and get the chance to build real relationships with the people I'm supposed to be serving.  
 
 ---
