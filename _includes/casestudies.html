@@ -10,23 +10,21 @@ I was asked to work with decision makers to pick our next map for postlaunch pro
 - The raw data helped with each participant's data, but it still only gave the list of maps tested per day, but no information about which order the maps were tested, which made comments like "I liked the first one better," completely unusable. To re-represent the data, I asked for a key (the test plan) to get information about which participants played which maps, in which order, on which days. 
 - I then used some Excel magic to lay out all the feedback comments per participant, with full context of which maps they were actually talking about. (I gave this information and feedback to user testing so that they could improve their reports going forward if they wanted to.) 
 - The thing I'm most proud about is that this was the state of user testing for years, and I was the first person (that we knew of) to (1) ask what "the data's not useful" meant, and (2) figure out what was happening and solve the problem. <br><br>It was incredibly difficult trying to figure out how to provide a visual for this without revealing anything about the testing methods, so please bear with me: <br><br>A snippet of the original report:
-<blockquote>
-  <img src="/img/posts/2025/user-data-case-study-original.png" alt="This is an image of the original data--impossible to know which map they are talking about because the map order per day wasn't presented in the original report."><br>
-  <em>It wasn't possible to know which map was first or second without additional information that wasn't provided in the original report.</em>
-</blockquote>
-<br><br>A snippet of my version of the report:
-<blockquote>
-  <img src="/img/posts/2025/user-data-case-study-mine.png" alt="This is an image of my version of the data--I've given more readable columns and made it clear which map was first and second on days 1 and 2 of testing per participant."><br>
-  <em>I wish I could share more of my spreadsheet here because it's freaking beautiful.</em>
-</blockquote>
+&nbsp;&nbsp;&nbsp;&nbsp;> ![This is an image of the original data--impossible to know which map they are talking about because the map order per day wasn't presented in the original report.](/img/posts/2025/user-data-case-study-original.png)  
+&nbsp;&nbsp;&nbsp;&nbsp;> *It wasn't possible to know which map was first or second without additional information that wasn't provided in the original report.*
+
+&nbsp;&nbsp;&nbsp;&nbsp;A snippet of my version of the report:  
+&nbsp;&nbsp;&nbsp;&nbsp;> ![This is an image of my version of the data--I've given more readable columns and made it clear which map was first and second on days 1 and 2 of testing per participant.](/img/posts/2025/user-data-case-study-mine.png)  
+&nbsp;&nbsp;&nbsp;&nbsp;> *I wish I could share more of my spreadsheet here because it's freaking beautiful.*
 
 ## <font color="#423D75">Case Study: Build Executables</font>
 When devs built their levels locally, there was also an option for the type of executable you wanted to run (Test, Demo, Ship, etc). 
-- Because one of these executables were required to be selected at build time, many devs assumed (naturally so) that they were also selecting they type of executable they wanted to build for, and thought they were *only* building that executable.  
-- I noticed that when I was at devs' desks, they would close their game and rebuild the map just to run a different executable. Hearing that this was a pain, I investigated why we don't build all the executables at build (e.g., the tradeoffs for how long it would take versus how much it costs devs to have to rebuild each time). 
-- Then I learned that they were all already being built! I can't remember if I discovered this on my own by checking the timestamp on those executables on my local machine, of if I asked an engineer. 
+- Because a value for this field was required to be selected at build time (I think it was multi-select, but I can't remember), many devs assumed (naturally so) that they were also selecting they type of executable they wanted to build for, and thought they were *only* building that executable.  
+- I noticed that when I was at devs' desks, they would close their game and **rebuild** the map just to run a different executable. Hearing that this was a pain, I investigated why we don't build all the executables at build time (in other words, the tradeoffs for how long it would take to build them all every time, versus how much it costs devs to have to rebuild each time). 
+- Then I learned that they were all already being built at build time! I can't remember if I discovered this on my own by checking the timestamp on those executables on my local machine, of if I asked an engineer. 
 - Upon realizing this, I was able to update all the documentation and do deskside evangelization in the kindest and most discreet way possible (some devs had not realized this for years and I didn't want them to grieve those hours wasted over the years too badly). 
+- In retrospect, I wish I'd also asked the tools engineer to change the inline help text to something like: *Build generates all game exes. Select the default one to launch when the build's done:* ... or something like that. 
 
-This type of discovery is why I love watching users work in real time, and why I'll always ask for opportunities to do this type of shadowing and get the chance to build real relationships with the people I'm supposed to be serving.  
+This type of discovery is why I love watching users work in real time, and why I'll always ask for opportunities to do this type of shadowing and build real relationships with the people I'm supposed to be serving.  
 
 ---
