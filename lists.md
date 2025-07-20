@@ -23,7 +23,7 @@ layout: default
 
 ## <font color="#038C73">Things I Want To Do</font>
 - Get back into jewelry making (soldering and hammering little pieces)
-- Keep making kimchi (I keep music that this is my backup plan in the event of a layoff)
+- Keep making kimchi (I keep musing that this is my backup plan in the event of a layoff)
 - I've been involved in some sort of singing (musical theater, choir, singing group, something) just about since I was born, up until ~2011. I'd love to start singing again. 
 
 
