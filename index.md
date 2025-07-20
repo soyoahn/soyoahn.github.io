@@ -11,8 +11,8 @@ I'm a technical writer based in Los Angeles and the mom of two toddlers. We have
 
 **Crowning Achievements**
 
-In recent years, I've had brief stints as a business analyst, game content producer, and technical producer. These opportunities spontaneously appeared out of my regular technical writing job. 
+In recent years, I've side quested into roles as a business analyst, game content producer, and technical producer. These opportunities sprang out of my regular technical writing job. 
 
-I love learning the deep innards of a system--the design rationales, tech constraints, policy origin stories--and using all of the context to inform my work. 
+I love learning the deep innards of a system--the design rationales, tech constraints, policy origin stories--using all of the context to inform my work. 
 
-In every new knowledge area, I prefer solving a few specific problems first, then designing the system based on understanding what's important to my <font color="#F21B1B">specific users</font>. By learning about my users + creators and what is or isn't important, I gain an informed idea to design information that fits the needs of all users in the system. The hardest part is learning what is or isn't important--and this is why gaining **firsthand expertise steeped in realistic context is critical to my process**.
+In every new knowledge area, I attempt to solve a few specific problems well first, which is the quickest path to meaningfully understanding what's important to my <font color="#F21B1B">specific users</font>. By learning about my users + creators and what is or isn't important, I can design information that fits the needs of all users in the system. The hardest part is learning what is or isn't important--and this is why gaining **firsthand expertise steeped in realistic context is critical to my process**.
