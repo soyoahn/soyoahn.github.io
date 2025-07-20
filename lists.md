@@ -25,7 +25,7 @@ layout: default
 - My Name Is Barbra (via audiobook narrated by Barbra Streisand)
 
 ## <font color="#038C73">Fun, New Skills</font>
-- Making kimchi. I'm really good at this now! 
+- 2025: Making kimchi. I'm really good at this now! 
 
 ## <font color="#038C73">Places</font>
 Vasquez Rocks is a regular haunt
@@ -34,6 +34,6 @@ Sequoia National Park is not so far but still pretty far
 ## <font color="#038C73">Eats</font>
 I had a 3-course dessert meal by accident at a Hungarian restaurant in Encino and it was so memorable that I created a section here called *Eats* just to talk about it.
 
-## <font color="#038C73">To Read, Recommended By Others (That I Won't Ever Get To Reading If I Don't Put It Here)</font>
+## <font color="#038C73">To Consume, Recommended By Others</font>
 - [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? [https://www.hbs.edu/faculty/Pages/item.aspx?num=60709](https://www.hbs.edu/faculty/Pages/item.aspx?num=60709)
 - [https://putthison.com/you-are-boring-so-so-boring/](https://putthison.com/you-are-boring-so-so-boring/)
