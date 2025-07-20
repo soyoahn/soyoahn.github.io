@@ -27,7 +27,7 @@ layout: default
 ## <font color="#038C73">Fun, New Skills</font>
 - 2025: Making kimchi. I'm really good at this now! 
 - 2024: Embroidery. I am not good at this yet.
-- 2024: Oil painting. Holy crap it is fun because the paint takes a long time to dry sp you can change things.
+- 2024: Oil painting. Holy crap it is fun because the paint takes a long time to dry so you can adjust things.
 
 ## <font color="#038C73">Places</font>
 - Vasquez Rocks is a regular haunt
