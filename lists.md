@@ -28,8 +28,8 @@ layout: default
 - 2025: Making kimchi. I'm really good at this now! 
 
 ## <font color="#038C73">Places</font>
-Vasquez Rocks is a regular haunt
-Sequoia National Park is not so far but still pretty far
+- Vasquez Rocks is a regular haunt
+- Sequoia National Park is not so far but still pretty far
 
 ## <font color="#038C73">Eats</font>
 I had a 3-course dessert meal by accident at a Hungarian restaurant in Encino and it was so memorable that I created a section here called *Eats* just to talk about it.
