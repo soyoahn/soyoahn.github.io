@@ -7,7 +7,7 @@ layout: default
 
 ## Work
 - Still at Riot Games and confronting some unique-to-me challenges there. 
-- I had the great luck of moving back into technical writing, but with a whole lot less autonomy and freedom to try things that I'm used to.
+- I had the great luck of moving back into technical writing, but with a whole lot less autonomy and less freedom to try things than I'm used to.
 
 ## Personal
 - Reading Gideon the Ninth by Tamsyn Muir
