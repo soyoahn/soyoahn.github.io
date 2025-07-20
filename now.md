@@ -20,7 +20,7 @@ layout: default
 
 ## Heavy Things 
 // I might omit this section in the future but for now no one's reading this so why not)   
-- It's hard to watch the world burn and see wasted human potential everywhere. (Especially thinking about the younger generation lacking motivation and the types of training and mentorship like I had.)
+- It's hard to watch the world burn and see wasted human potential everywhere. (Especially thinking about the younger generation lacking motivation and the types of training and mentorship like I had.) People with incredible talent and potential shouldn't be permanently rejected by society just because they learned how to play the game too late. 
 - I think I need to be a producer again. That level of impact and constant problem solving (out of true, intrinsic necessity!) is hard to forget and give up. I crave chewing on those problems daily.
 
 
