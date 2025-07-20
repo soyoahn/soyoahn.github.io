@@ -19,7 +19,7 @@ layout: default
 - Book club at work
 
 ## TMI/Depressing Stuff Happening Now (A section I might omit in the future but for now no one's reading this so why the heck not)   
-- Having a slight existential crisis. It's hard to watch the world burn and see wasted human potential everywhere.
+- Having a slight existential crisis. It's hard to watch the world burn and see wasted human potential everywhere. (Especially thinking about the younger generation lacking motivation and the types of training and mentorship like I had.)
 - I crave time with kindred spirits but I crave time alone more.
 - I think I need to be a producer again. That level of impact and constant problem solving (out of true, intrinsic necessity!) is hard to forget and give up. I crave chewing on those problems daily.
 
