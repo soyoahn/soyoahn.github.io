@@ -6,8 +6,8 @@ layout: default
 # What's Now
 
 ## Work
-- Trying to stay focused and not getting distracted by wanting to work the way I prefer to work.
-- Trying to figure out my next career move. I'm not happy with the way things are, and I'm not sure what kind of training I need to move towards the next thing (whatever the next thing is). 
+- Still at Riot Games and confronting some unique-to-me challenges there. 
+- I had the great luck of moving back into technical writing, but with a whole lot less autonomy and freedom to try things that I'm used to.
 
 ## Personal
 - Reading Gideon the Ninth by Tamsyn Muir
@@ -16,14 +16,13 @@ layout: default
 
 ## Social Things I'm Doing
 - [Music League](https://musicleague.com/) 
--  Book club at work
+- Book club at work
 
 ## TMI/Depressing Stuff Happening Now (A section I might omit in the future but for now no one's reading this so why the heck not)   
 - Having a slight existential crisis. It's hard to watch the world burn and see wasted human potential everywhere.
 - I crave time with kindred spirits but I crave time alone more.
-- For the first time in my life, I don't know what's next and I'm crazed with the fear of uncertainty. 
-- I feel like I'm supposed to be doing something else but it's very hard to continue believing in myself. I don't know how to break out of this yet. 
+- I think I need to be a producer again. That level of impact and constant problem solving (out of true, intrinsic necessity!) is hard to forget and give up. I crave chewing on those problems daily.
 
 
 What's a **now** page? So glad you asked: [https://nownownow.com/](https://nownownow.com/). <br>I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
-Last updated July 18, 2025. 
+Last updated July 19, 2025. 
