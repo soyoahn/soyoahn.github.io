@@ -9,8 +9,6 @@ My 2017 portfolio site, complete with a background image I took at Mount Rainier
 
 ![There's a crudely scrawled diagram at the top with stick figures depicting the author's journey from college to their first job at IBM. There's also a picture of an indignant cat. The page itself has a background image--a 10% opacity image of the author's own photo of the top of Mount Rainier.](/img/posts/2025/oldportfolio.png)
 
-✨ Handmade as if the website came from an eager beginner on Etsy.
-
 I also liked this college summary I put in my about page: 
 
 **Some highlights and random memories of my undergrad career at the University of Washington (Class of 2009)**
