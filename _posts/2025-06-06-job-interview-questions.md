@@ -34,6 +34,7 @@ Yes. (This isn't a comprehensive list, but these are ones I don't want to forget
 
 ### What Do You Know About Your Users?
 - Who are your customers and what are their biggest pain points? How are their pain points being addressed today?
+- What's an example of a current top-of-mind docs need for the team?
 - What documents are successful today? Where is knowledge weak and where is knowledge strong? 
 - How is dev support done today? Who supports your users with problems they're having with the proprietory tools I'd be documenting? How's the relationship going between those two groups? 
 - (For Internal Docs) When's the last time you shared your docs externally? What teams need to do this and why? 
