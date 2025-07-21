@@ -22,7 +22,7 @@ Yes. (This isn't a comprehensive list, but these are ones I don't want to forget
 
 ### Team Structure
 - How many direct reports does my functional manager have?
-- (If the answer to the previous question is that I'd be the only one: What percentage of their success or failure is directly dependent on what I do?) // Here, I'm trying to suss out whether the manager will be risk-averse and overly controlling because my potential failure is too tied to their performance metrics. Let me know if there's a better way to do that!)
+- (If the answer to the previous question is that I'd be the only one: What percentage of their success or failure is directly dependent on what I do?) // Here, I'm trying to suss out whether the manager will be risk-averse and overly controlling because my potential failure is too tied to their performance. Let me know if there's a better way to do that!
 
 ### What's Important To You? 
 - How are performance reviews done and how important are they to you? 
