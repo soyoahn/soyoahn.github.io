@@ -9,10 +9,10 @@ This [space](2025/06/21/about-this-blog.html) will be a personal and professiona
 I'm a technical writer based in Los Angeles and the mom of two toddlers. We have one brown tabby cat and a growing collection of houseplants (<s>19</s> [26](2025/07/05/what-i-did-during-mid-year-break.html#plants) now... I'd love to 2x this number in the next year or so). 
 
 
-**Crowning Achievements**
+**Career Highlights**
 
 In recent years, I've side quested into roles as a business analyst, game content producer, and technical producer. These opportunities sprang out of my regular technical writing job. 
 
 I love learning the deep innards of a system--the design rationales, tech constraints, policy origin stories--using all of the context to inform my work. 
 
-In every new knowledge area, I attempt to solve a few specific problems well first, which is the quickest path to meaningfully understanding what's important to my <font color="#F21B1B">specific users</font>. By learning about my users + creators and what is or isn't important, I can design information that fits the needs of all users in the system. The hardest part is learning what is or isn't important--and this is why gaining **firsthand expertise steeped in realistic context is critical to my process**.
+In every new knowledge area, I attempt to solve a few specific problems well first, which is the quickest path to meaningfully gain a sense of what's important to my <font color="#F21B1B">specific users</font>. By learning about my users + creators and what is or isn't important, I can strive to design information that fits the their needs. The hardest part is learning what is or isn't important--and this is why gaining **firsthand expertise steeped in realistic context is critical to my process**.
