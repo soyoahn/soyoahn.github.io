@@ -20,6 +20,10 @@ Yes. (This isn't a comprehensive list, but these are ones I don't want to forget
     - Let's run an example scenario of that! Let's say that the navigation is all over the place and users complain that they rarely know what they're looking for. I want to rearchitect the knowledge center and add some metadata. Who would need to approve before I can begin the work? 
     - Let's run another scenario! I want to run an audit of all our existing knowledge and how it's being used and shared today. I think this audit will take one month of dedicated work if I want to get good enough information. How should I go about doing this audit? Who do I need to check with? How would I obtain access to all the areas where information might exist? 
 
+### Team Structure
+- How many direct reports does my functional manager have?
+- (If the answer to the previous question is that I'd be the only one: What percentage of their success or failure is directly dependent upon my success or failure?) // Here, I'm trying to suss out whether the manager will be risk-averse and overly controlling because my potential failure is too tied to their performance metrics. Let me know if there's a better way to do that!)
+
 ### What's Important To You? 
 - How are performance reviews done and how important are they to you? 
 - What does success look like? Who determines whether things are successful? 
