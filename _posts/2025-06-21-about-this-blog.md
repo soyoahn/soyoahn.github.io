@@ -1,7 +1,7 @@
 ---
 tags: metablog
 ---
-## Get This Blog Setup
+## Dupe This Blog Setup
 I wanted a simple, free, ad-free, login-free place to post things and reconnect with people without any noisy social networking stuff.
 
 Used this generous template from [@chadbaldwin](https://github.com/chadbaldwin): 
