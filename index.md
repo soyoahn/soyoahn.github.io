@@ -11,7 +11,7 @@ I'm a technical writer based in Los Angeles and the mom of two toddlers. We have
 
 **Career Highlights**
 
-In recent years, I've side quested into roles as a business analyst, game content producer, and technical producer. These opportunities sprang out of my regular technical writing job. 
+In recent years, I've polymorphed into roles as a business analyst, game content producer, and technical producer. These opportunities sprang out of my regular technical writing job. 
 
 I love learning the deep innards of a system--the design rationales, tech constraints, policy origin stories--using all of the context to inform my work. 
 
