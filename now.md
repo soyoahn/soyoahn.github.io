@@ -17,6 +17,10 @@ layout: default
 ## Social Things I'm Doing
 - [Music League](https://musicleague.com/) with a friend's group of friends
 - Book club at work
+- Someone at work started a social club for local folks--I joined it but haven't attended events yet
+
+## This Site
+- I still haven't customized the CSS from the template yet. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop versio (3) Possibly change the main font. 
 
 ## Heavy Things 
 // I might omit this section in the future but for now no one's reading this so why not)   
