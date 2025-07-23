@@ -34,8 +34,10 @@ I had a few project ideas but they seemed too small:
 
 I don't need to belabor the rest--I messed up this time around. Simple as. 
 
-## ✨ Lessons Learned and Checklist for Next Hackathon: 
-1. **Only pitch ideas that I can actually help implement**. It is a hackathon, after all; not a document-a-thon. Because I don't do production at this company and don't have expertise in how things are done here, this means: writing, contributing ideas, building a physical experience, video editing, webpage building, slack workflows, file management, and whatever else I can learn. For the next hackathon, I shouldn't forget that I can also help facilitate playtests and build things for people as they check in their work. I could also help unblock issues with central things like Perforce. I noticed later that lots of people were having trouble with Perforce and I could've helped unload the communication & support burden a bit so they could continue focusing on iterating. 
+## ✨ Lessons Learned and Checklist for Next Year: 
+1. **Only pitch ideas that I can actually help implement**. It is a hackathon, after all; not a document-a-thon. 
+<ul><li>Because I don't do production at this company and don't have expertise in how things are done here, this means: writing, contributing ideas, building a physical experience, video editing, webpage building, slack workflows, file management, and whatever else I can learn.</li>
+<li>For the next hackathon, I shouldn't forget that I can also help facilitate playtests and build things for people as they check in their work. I could also help unblock issues with central things like Perforce. I noticed later that lots of people were having trouble with Perforce and I could've helped unload the communication & support burden a bit so they could continue focusing on iterating. One thing I've been dying to do since I got here was to relieve the support burden. D'oh!</li></ul> 
 2. **Join a project that excites me.** Should go without saying, but just in case. 
 3. **Line up 1-3 backup projects within the <font color="red">two weeks</font> before hackathon.** Stash these on a page or calendar reminder so I don't forget. 
 4. **If no one is project managing, offer to do it.** I've been slapped on the wrist quite a bit this year for taking the initiative and volunteering for projects in general ("this is not your lane" vibes),
