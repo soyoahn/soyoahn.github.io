@@ -38,7 +38,7 @@ I don't need to belabor the rest--I messed up this time around. Simple as.
 
 On Day 1, shortly after finding out mine was dead, I heard about a project that really excited me, but I worried about joining last minute and being dead weight. **I cannot tell you the weight of my regret.** That's all. Absolute missed opportunity to learn so much that I've been curious about. Or maybe not--maybe there were no convos happening in the physical room and it was all in DMs like a lot of work is done these days? I guess I'll have to ask around and see exactly what I missed out on so I can learn the mistake more deeply for next time.  
 
-## ✨ Lessons Learned and Checklist for Next Year: 
+## ✨ Lessons Learned and Checklist for Next Year
 1. **Only pitch ideas that I can actually help implement**. It is a hackathon, after all; not a document-a-thon. 
 <br><br>Because I don't do production at this company and don't have expertise in how things are done here, this means: writing, contributing ideas, building a physical experience, video editing, webpage building, slack workflows, file management, and whatever else I can learn.<br><br>
 For the next hackathon, I shouldn't forget that I can also help facilitate playtests and build things for people as they check in their work. I could also help unblock issues with central things like Perforce. I noticed later that lots of people were having trouble with Perforce and I could've helped unload the communication & support burden a bit so they could continue focusing on iterating. One thing I've been dying to do since I got here was to relieve the support burden. D'oh!<br><br>
