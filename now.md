@@ -11,8 +11,8 @@ layout: default
 
 ## Personal
 - Reading Gideon the Ninth by Tamsyn Muir
-- Still in L.A., family life is still wonderful and I'm grateful for that. 
-- I'm thinking about getting back into jewelry-making--something I loved in high school. Soldering kits + pliers are about $150 all-in so why not? Early birthday present for myself, maybe. 
+- Still in L.A., family life is still wonderful. Grateful. 
+- Trying to do personal projects that fulfill me outside of work so I still feel mentally fulfilled when that need can't be met at work. 
 
 ## Social Things I'm Doing
 - [Music League](https://musicleague.com/) with a friend's group of friends
