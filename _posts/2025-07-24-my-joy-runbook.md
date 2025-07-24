@@ -11,7 +11,7 @@ When feeling super bad, try these things and don't skip steps: <br>
 ** ⏱ Completion time: 1-2h** | Might seem like lot now, but it sure beats being in your funk for days. 
 
 ## 1️⃣ Do a Productive Wallow
-1. Listen: [I Am... I Said (Neil Diamond)](https://www.youtube.com/watch?v=tA5bFJt9Wp0) (3m 35s)
+1. 🎶 **Listen**: [I Am... I Said (Neil Diamond)](https://www.youtube.com/watch?v=tA5bFJt9Wp0) (3m 35s)
 
 ## 2️⃣ Heal
 1. **If wfh**: Water the plants 🪴. If it's time for a comprehensive watering sesh, do the full deep water + soak. If the plants don't need water, go for a bike ride. (30m)<br>
