@@ -8,7 +8,7 @@ tags: personal
 This is meant for me, but I recommending trying to start your own "joy runbook" as you collect inspiration, advice, and ideas that work for you when you fall into a funk.
 
 When feeling super bad, try these things and don't skip steps: <br>
-**Completion time: ⏲️1-2h** | Might seem like lot now, but it sure beats being in your funk for days. 
+**U+023F1 Completion time: 1-2h** | Might seem like lot now, but it sure beats being in your funk for days. 
 
 ## 1️⃣ Do a Productive Wallow
 1. Listen: [I Am... I Said (Neil Diamond)](https://www.youtube.com/watch?v=tA5bFJt9Wp0) (3m 35s)
