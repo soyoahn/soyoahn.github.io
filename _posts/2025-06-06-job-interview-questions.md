@@ -1,14 +1,10 @@
 ---
+title: Job Interview Questions
 tags: career
 ---
 
-## Job Interview Questions
-> Early career folks, look away! 
-
----
-
-## Do you have any questions for me? 
-Yes. (This isn't a comprehensive list, but these are ones I don't want to forget for my next career move.) 
+# Do you have any questions for me? 
+This isn't a comprehensive list, but these are ones I don't want to forget for my next career move.
 
 ### What Is My Role, Actually?
 - What are your goals and vision for the docs and what would be my specific role in it? 
