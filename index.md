@@ -4,13 +4,10 @@ I could really use the outlet, so here I go blogging again.
 
 This [space](2025/06/21/about-this-blog.html) will be a personal and professional catch-all to keep notes that I can easily share with a link. 
 
-**About Me--Adding Random Stuff As I Think Of Them**
+**About Me**
+> Adding Random Stuff As I Think Of Them
 
-I'm a technical writer based in Los Angeles and the mom of two toddlers. 
-
-I adore our growing collection of houseplants (<s>19</s> [26](2025/07/05/what-i-did-during-mid-year-break.html#plants) now... I'd love to 2x this number in the next year or so). 
-
-I prefer consuming media cold when I can: avoiding trailers and reviews of any kind so I can experience it fresh and without influence. Btw, it never occurred to me to do this before I met my husband who's [a narrative writer](https://www.linkedin.com/in/chazp). He won't even look at yelp reviews. He likes to give everything and everyone complete and non-reductive dignity in their work and this is one of the things I love most about him.
+I'm a technical writer based in Los Angeles and the mom of two toddlers. My husband's [a narrative writer](https://www.linkedin.com/in/chazp). We have one brown tabby cat and a growing collection of houseplants (<s>19</s> [26](2025/07/05/what-i-did-during-mid-year-break.html#plants) now... the more the merrier).
 
 **Career Highlights**
 
