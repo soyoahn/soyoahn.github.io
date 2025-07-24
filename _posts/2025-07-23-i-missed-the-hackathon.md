@@ -15,7 +15,7 @@ There are many things outside my control, but one thing I could have done was to
 
 In the end, rather than set up a call to get an update the week before the hackathon (and potentially join a different project), I decided that I could just lay low and document whatever the engineer ended up doing, and perhaps grab his p4 shelf to try out some settings and do some light design work if it came to it. Instead, the project was canceled without a heads up. 
 
-All I have to show for this year is a notion page with a small db of reference for the thing I imagined we originally wanted to build. 
+All I have to show for this year is a notion page with a small db of reference for the thing I imagined we originally wanted to build:
 
 ![notion page for our project](/img/posts/2025/apruchnicki-failed-hackathon.png)
 
