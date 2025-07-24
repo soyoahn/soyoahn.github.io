@@ -3,7 +3,6 @@ title: Job Interview Questions
 tags: career
 ---
 
-## Do you have any questions for me? 
 This isn't a comprehensive list, but these are ones I don't want to forget for my next career move.
 
 ### What Is My Role, Actually?
