@@ -23,7 +23,7 @@ This was the most heinous failing.
 
 I planned on not really feeling the hackathon this year and wanting to contribute "only docs." 
 
-What I *hadn't* planned on was feeling a last-minute urge to Do Some Shit(tm). I kept saying I'd keep an eye on backup projects (and also told my dev this early on so they wouldn't feel too pressured). I didn't keep tabs on those backup projects. Mind you, there was the car wreck and our whole family was sick just a couple weeks ago, but still--I didn't prioritize myself and didn't daydream about what I wanted to accomplish this hackathon. So I didn't get it done.
+What I *hadn't* planned on was that last-minute urge to Do Some Shit(tm). I kept saying I'd keep an eye on backup projects (and also told my dev this early on so they wouldn't feel too pressured). I didn't keep tabs on those backup projects. Mind you, there was the car wreck and our whole family was sick just a couple weeks ago, but still--I didn't prioritize myself and didn't daydream about what I wanted to accomplish this hackathon. So I didn't get it done.
 
 ## Failure 3: I didn't pursue my own project interests
 
