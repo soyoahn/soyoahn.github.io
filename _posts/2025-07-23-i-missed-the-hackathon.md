@@ -2,7 +2,7 @@
 tags: personal
 ---
 
-### I missed my company's annual hackathon (am bummed)
+### I did a whoopsie and missed my company's annual hackathon
 ---
 
 My company hosts an internal hackathon every year. As someone who routinely complains about (I know, I need to stop) not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to [animate](/files/fun/apruchnicki-spine-animations.mp4) in [Spine](https://esotericsoftware.com/)!--it's janky--I realized halfway through that I filtered out some key controls to smooth between frames--but I love him.)  
