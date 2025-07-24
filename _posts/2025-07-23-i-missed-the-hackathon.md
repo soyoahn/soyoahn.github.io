@@ -7,19 +7,19 @@ tags: personal
 
 My company hosts an internal hackathon every year. As someone who routinely complains about (I know, I need to stop) not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to [animate](/files/fun/apruchnicki-spine-animations.mp4) in [Spine](https://esotericsoftware.com/)!)  
 
-Unfortunately, the project I signed up for this year fell through, so I didn't participate much. But I could have. And this blog post will chronicle why I didn't, so I can remember what not to do for the next one. 
+Unfortunately, the project I signed up for this year fell through, so I didn't participate much. But I could have. And this blog post chronicles why I didn't, so I can remember what to do for the next one. 
 
-## Failure 1: I didn't set up a project intro call
+## Failure 1: I didn't set up a project intro call 
 
 There are many things outside my control, but one thing I could have done was to set up an intro call to learn what the developer's goals and intents were for the project in advance. Originally I learned that docs would be needed and we had some basic goals and design ideas. 
 
 In the end, rather than set up a call to get an update the week before the hackathon (and potentially join a different project), I decided that I could just lay low and document whatever the engineer ended up doing, and perhaps grab his p4 shelf to try out some settings and do some light design work if it came to it. Instead, the project was canceled without a heads up. 
 
-All I have to show for this year is a notion page with a small db of reference for the thing I imagined we originally wanted to build:
-
-![notion page for our project](/img/posts/2025/apruchnicki-failed-hackathon.png)
+![notion page for our project](/img/posts/2025/apruchnicki-failed-hackathon.png "*Made a notion page for the project with a small db of reference for the thing we hoped to do.*")
 
 ## Failure 2: I didn't prepare contingency plans
+
+This was the most heinous failing. 
 
 I planned on not really feeling the hackathon this year and wanting to contribute "only docs." 
 
