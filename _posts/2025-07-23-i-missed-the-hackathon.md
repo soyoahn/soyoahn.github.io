@@ -5,7 +5,7 @@ tags: personal
 ### I missed my company's annual hackathon and feel sad about it
 ---
 
-My company hosts an internal hackathon every year. As someone who routinely complains about (I know, I need to stop) not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to [animate](/files/fun/apruchnicki-spine-animations.mp4) in [Spine](https://esotericsoftware.com/)!)  
+My company hosts an internal hackathon every year. As someone who routinely complains about (I know, I need to stop) not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to [animate](/files/fun/apruchnicki-spine-animations.mp4) in [Spine](https://esotericsoftware.com/)!--it's janky--I realized halfway through that I filtered out some key controls to smooth between frames--but I love him.)  
 
 Unfortunately, the project I signed up for this year fell through, so I didn't participate much. But I could have. And this blog post chronicles why I didn't, so I can remember what to do for the next one. 
 
