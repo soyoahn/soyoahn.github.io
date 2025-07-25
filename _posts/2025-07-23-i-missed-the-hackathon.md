@@ -5,15 +5,15 @@ tags: personal
 ### I did a whoopsie and missed my company's annual hackathon
 ---
 
-My company hosts an internal hackathon every year. As someone who routinely complains about (I know, I need to stop) not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to [animate](/files/fun/apruchnicki-spine-animations.mp4) in [Spine](https://esotericsoftware.com/)!--it's janky--I realized halfway through that I filtered out some key controls to smooth between frames--but I love him.)  
+My company hosts an internal hackathon every year. As someone who routinely complains about (I know, I need to stop) not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to animate in [Spine](https://esotericsoftware.com/)! ([Last year's contribution](/files/fun/apruchnicki-spine-animations.mp4) | Note: The animation is janky... I realized halfway through that I filtered out some key controls to smooth between frames, but I love him.)  
 
 Unfortunately, the project I signed up for this year fell through, so I didn't participate much. But I could have. And this blog post chronicles why I didn't, so I can remember what to do for the next one. 
 
 ## Failure 1: I didn't set up a project intro call 
 
-There are many things outside my control, but one thing I could have done was to set up an intro call to learn what the developer's goals and intents were for the project in advance. Originally I learned that docs would be needed and we had some basic goals and design ideas. 
+I should've set up an intro call to learn what the developer's goals and intents were for the project. Originally I learned that docs would be needed and we had some basic goals and design ideas. Sometimes what's conveyed in a DM isn't the same energy as what's conveyed in person, and a kickoff meeting is absolutely needed to determine someone's general sentiment about a project. 
 
-In the end, rather than set up a call to get an update the week before the hackathon (and potentially join a different project), I decided that I could just lay low and document whatever the engineer ended up doing, and perhaps grab his p4 shelf to try out some settings and do some light design work if it came to it. Instead, the project was canceled without a heads up. 
+The project was canceled without a heads up, and that wasn't a total surprise. 
 
 ![notion page for our project](/img/posts/2025/apruchnicki-failed-hackathon.png "*Made a notion page for the project with a small db of reference for the thing we hoped to do.*")
 
@@ -21,22 +21,25 @@ In the end, rather than set up a call to get an update the week before the hacka
 
 This was the most heinous failing. 
 
-I planned on not really feeling the hackathon this year and wanting to contribute "only docs." 
+I planned on not really feeling the hackathon this year and wanted to contribute "only docs." 
 
-What I *hadn't* planned on was that last-minute urge to Do Some Shit(tm). I kept saying I'd keep an eye on backup projects (and also told my dev this early on so they wouldn't feel too pressured). I didn't keep tabs on those backup projects. Mind you, there was the car wreck and our whole family was sick just a couple weeks ago, but still--I didn't prioritize myself and didn't daydream about what I wanted to accomplish this hackathon. So I didn't get it done.
+What I *hadn't* planned on was that last-minute urge to Do Some Shit(tm). I didn't keep tabs on backup projects. 
+
+Life *was* pretty crazy though (car wreck and our whole family was sick just a couple weeks ago), so I'm not going to to be too hard on myself for this one.
 
 ## Failure 3: I didn't pursue my own project interests
 
-I had a few project ideas but they seemed too small: 
-1. **Mini-toastmasters:** Set up a system/community for folks to practice giving presentations and pitches.
-2. **Ward skins crafting:** Like creating your character in a game, but instead it's ward skins. 
-3. **Threads-to-Docs, an intake machine:** Slack retains messages for 1 year. This system would quickly preserve the info-laden threads in persistent docs so the knowledge isn't lost. I know people want to use AI for this, but this would be a low-tech, high quality stopgap. I agree this could be highly automated, and perhaps that could've been discovered for hackathon. I think there was a project that was doing something very similar to this--I could've joined theirs. 
+<font color="#BF416F">Edit: My ideas were kind of terrible, I removed them. 😅</font>
 
-I don't need to belabor the rest--I messed up this time around. Simple as. 
+Maybe hackathon isn't for me because I'm just not a designer, artist, narrative person, or coder. Come to think of it, I can't really do anything. 
+
+I'd better get good at something. Maybe this is why I'm so depressed. Once upon a time, it was useful to be a good understander and interpreter of things. That's just not a valued skill by itself anymore, in this economy.
 
 ## Failure 4: Don't be embarrassed to join a group
 
 On Day 1, shortly after finding out mine was dead, I heard about a project that really excited me, but I worried about joining last minute and being dead weight. **I cannot tell you the weight of my regret.** That's all. Absolute missed opportunity to learn so much that I've been curious about. Or maybe not--maybe there were no convos happening in the physical room and it was all in DMs like a lot of work is done these days? I guess I'll have to ask around and see exactly what I missed out on so I can learn the mistake more deeply for next time.  
+
+<font color="#BF416F">*Edit:* I think I would've just been dead weight. And that's okay--perhaps the hackathon is simply not for me. No need to feel embarrassed.</font>
 
 ## ✨ Lessons Learned and Checklist for Next Year
 1. **Only pitch ideas that I can actually help implement**. It is a hackathon, after all; not a document-a-thon. 
@@ -48,3 +51,10 @@ For the next hackathon, I shouldn't forget that I can also help facilitate playt
  but hackathons are **different from regular work life** so I can offer it if they need it and if I have enough knowledge to do stuff. (Reminder for future self: I don't know how to build a dedicated server
  and connect clients for playtesting here (something I could do at the drop of a hat at my former studio), but I *do* know how to resolve file conflicts and unblock general tech and p4 issues, and help communicate logistical things that people need to be aware of (like room changes, schedule updates, consideration of room decor/the physical experience, and special hackathon events/anything the team might miss because they're so heads town)--so I should keep that in mind next time I'm feeling sheepish about joining a larger team.) <br><br>
 5. **Don't worry about feeling like dead weight--go ahead and join a large team if the project sounds fun.** Classic reminder to myself that no one is thinking about you! Just go and live your best life. *Especially during hackathon.*
+
+
+## ✨ Actual Event Post-Mortem
+<font color="#BF416F">Alright, the event is now completely over. Here are my raw takeaways: 
+* Next time, don't participate if I can't contribute in more ways than just project manager or "scribe." I'll only feel more useless.
+* Focus on finding a team where I can offer a useful perspective to contribute ideas or physical execution. 
+* Work on improving a few skills: Video Production, <will add more over time as I think of them></font>
