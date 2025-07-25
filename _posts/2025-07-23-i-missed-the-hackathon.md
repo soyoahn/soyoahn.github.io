@@ -42,7 +42,7 @@ On Day 1, shortly after finding out mine was dead, I heard about a project that 
 <font color="#BF416F"><strong>Edit:</strong> I think I would've just been dead weight. And that's okay--perhaps the hackathon is simply not for me. No need to feel embarrassed.</font>
 
 ## ✨ Lessons Learned and Checklist for Next Year
-1. **Only pitch ideas that I can actually help implement**. It is a hackathon, after all; not a document-a-thon. 
+1. **Only pitch ideas that I can actually help implement**. It *is* a hackathon, after all; not a document-a-thon. 
 <br><br>Because I don't do production at this company and don't have expertise in how things are done here, this means: writing, contributing ideas, building a physical experience, video editing, webpage building, slack workflows, file management, and whatever else I can learn.<br><br>
 For the next hackathon, I shouldn't forget that I can also help facilitate playtests and build things for people as they check in their work. I could also help unblock issues with central things like Perforce. I noticed later that lots of people were having trouble with Perforce and I could've helped unload the communication & support burden a bit so they could continue focusing on iterating. One thing I've been dying to do since I got here was to relieve the support burden. D'oh!<br><br>
 2. **Join a project that excites me and feels ZINGY--not just one where I think I could be useful.** Should go without saying, but just in case. <br><br>
