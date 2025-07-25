@@ -10,6 +10,8 @@ This is meant for me, but I recommending trying to start your own "joy runbook" 
 When feeling super bad, try these things and don't skip steps: <br>
 **⏱ Completion time: 1-2h** | Might seem like lot now, but it sure beats being in your funk for days. 
 
+Before you begin: Open a fresh window, minimize everything else, close Slack, and start your one task. Stick at it and only it for 15 minutes. If you're still feeling the funk, do the following steps.
+
 ## <font color="#5298EE">1️⃣ Wallow</font>
 1. 🎶 **Listen**: [I Am... I Said (Neil Diamond)](https://www.youtube.com/watch?v=tA5bFJt9Wp0) (3m 35s)
 
