@@ -29,7 +29,7 @@ Life *was* pretty crazy though (car wreck and our whole family was sick just a c
 
 ## Failure 3: I didn't pursue my own project interests
 
-<font color="#BF416F">Edit: My ideas were kind of terrible, I removed them. 😅</font>
+<font color="#BF416F"><strong>Edit:</strong> My ideas were kind of terrible, I removed them. 😅</font>
 
 Maybe hackathon isn't for me because I'm just not a designer, artist, narrative person, or coder. Come to think of it, I can't really do anything. 
 
@@ -39,7 +39,7 @@ I'd better get good at something. Maybe this is why I'm so depressed. Once upon 
 
 On Day 1, shortly after finding out mine was dead, I heard about a project that really excited me, but I worried about joining last minute and being dead weight. **I cannot tell you the weight of my regret.** That's all. Absolute missed opportunity to learn so much that I've been curious about. Or maybe not--maybe there were no convos happening in the physical room and it was all in DMs like a lot of work is done these days? I guess I'll have to ask around and see exactly what I missed out on so I can learn the mistake more deeply for next time.  
 
-<font color="#BF416F">*Edit:* I think I would've just been dead weight. And that's okay--perhaps the hackathon is simply not for me. No need to feel embarrassed.</font>
+<font color="#BF416F"><strong>Edit:</strong> I think I would've just been dead weight. And that's okay--perhaps the hackathon is simply not for me. No need to feel embarrassed.</font>
 
 ## ✨ Lessons Learned and Checklist for Next Year
 1. **Only pitch ideas that I can actually help implement**. It is a hackathon, after all; not a document-a-thon. 
@@ -55,7 +55,9 @@ For the next hackathon, I shouldn't forget that I can also help facilitate playt
 
 ## ✨ Actual Event Post-Mortem
 <font color="#BF416F">Alright, the event is now completely over. Here are my raw takeaways: 
-* Next time, don't participate if I can't contribute in more ways than just "project manager" or "scribe." I'll only feel more useless and possibly slow things down. There just aren't a ton of things that 
-need to be collated into a doc during hackathon. All the important details exist in chat and can be turned into docs after the event. So if I want to participate, do **not** seek a scribe role. That's the the way for a hackathon.
-* Focus on finding a team where I can offer a useful perspective to contribute ideas or physical execution. 
-* Work on improving a few skills: Video Production, <will add more over time as I think of them></font>
+<ul>
+<li>Next time, don't participate if I can't contribute in more ways than just "project manager" or "scribe." I'll only feel more useless and possibly slow things down. There just aren't a ton of things that
+need to be collated into a doc during a hackathon. All the important details exist in chat anyway and can be turned into docs after the event. So if I want to participate, do **not** seek a scribe role. That's the the way for a hackathon.</li>
+<li>Focus on finding a team where I can offer a useful perspective to contribute ideas or physical execution.</li>
+<li>Work on improving a few skills: Video Production... will add more over time as I think of them.</li>
+</ul></font>
