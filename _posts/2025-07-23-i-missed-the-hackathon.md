@@ -55,6 +55,6 @@ For the next hackathon, I shouldn't forget that I can also help facilitate playt
 
 ## ✨ Actual Event Post-Mortem
 <font color="#BF416F">Alright, the event is now completely over. Here are my raw takeaways: 
-* Next time, don't participate if I can't contribute in more ways than just project manager or "scribe." I'll only feel more useless.
+* Next time, don't participate if I can't contribute in more ways than just "project manager" or "scribe." I'll only feel more useless and possibly slow things down.
 * Focus on finding a team where I can offer a useful perspective to contribute ideas or physical execution. 
 * Work on improving a few skills: Video Production, <will add more over time as I think of them></font>
