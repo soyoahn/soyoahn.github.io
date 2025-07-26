@@ -41,5 +41,4 @@ I had a 3-course dessert meal by accident at a Hungarian restaurant in Encino an
 - [Crockpot Butternut Squash Lentil Soup](https://pinchofyum.com/the-best-detox-crockpot-lentil-soup/print/41824)
 
 ## <font color="#038C73">To Consume, Recommended By Others</font>
-- [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? [https://www.hbs.edu/faculty/Pages/item.aspx?num=60709](https://www.hbs.edu/faculty/Pages/item.aspx?num=60709)
-
+- [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? 
