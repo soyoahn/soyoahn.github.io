@@ -42,5 +42,4 @@ I had a 3-course dessert meal by accident at a Hungarian restaurant in Encino an
 
 ## <font color="#038C73">To Consume, Recommended By Others</font>
 - [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? [https://www.hbs.edu/faculty/Pages/item.aspx?num=60709](https://www.hbs.edu/faculty/Pages/item.aspx?num=60709)
-- [https://putthison.com/you-are-boring-so-so-boring/](https://putthison.com/you-are-boring-so-so-boring/)
 
