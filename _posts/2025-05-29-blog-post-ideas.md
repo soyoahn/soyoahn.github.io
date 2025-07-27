@@ -2,7 +2,7 @@
 tags: metablog
 ---
 
-## Backlog of Blog Post Ideas
+## Backlog
 
 > 🤔 I've noticed a trend... I always start a new blog when I'm trying to reach out and connect to the world. 
 > Once I'm feeling connected or whatever, I abandon the blog. 
