@@ -12,5 +12,5 @@ Misting my zebra fern is a very calming experience. I wondered if any studies ha
 **Summary (one sentence)**: They compared a word processing task (control group) with the plant transplanting task (experimental group), arguing that the computer task "needs continuous physical activity, like the \[plant\] transplanting task." 
 
 **Critique**: Instead, I wish their control group was some other hands-on activity (like making balls out of play dough) so that the plant aspect was significant to the results--and not just the circustance of being away from a computer, doing something with one's hands. 
-<br>
+<br><br>
 {%- include blurb-critique.html -%}
