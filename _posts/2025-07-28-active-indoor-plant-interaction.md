@@ -2,7 +2,7 @@
 tags: critique
 ---
 
-# Scientific Study: Interaction with Indoor Plants vs a Computer Task
+# Scientific Study: Interaction with Indoor Plants 🪴 vs a Computer Task 🖥️
 ---
 
 Misting my zebra fern is a very calming experience. I wondered if any studies had been done on the psychological effects of plant care and found this study among the top results: 
