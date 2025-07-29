@@ -4,7 +4,7 @@ I could really use the outlet, so here I go blogging again.
 
 This [space](2025/06/21/about-this-blog.html) will be a personal and professional catch-all to keep notes that I can easily share with a link. 
 
-**Writers beware:** Some blog entries will be Sentence case and others will be Title Case and I'm not going to worry about it here. 🕊️
+*Beware of Style Discrepancies:* Some blog entries will be Sentence case and others will be Title Case and I'm not going to worry about it here. 🕊️
 
 **About Me**
 
