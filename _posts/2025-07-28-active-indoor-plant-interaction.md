@@ -13,7 +13,4 @@ tags: three-sentence-critiques
 
 **Critique (one sentence)**: Upon first read, I wish their control group was some other hands-on activity, such as making balls out of play dough (so it's active work with the hands but not much more than that) so that the plant aspect would be more meaningful to the results.  
 
-<hr>
-<br>
- 
 {%- include blurb-critiques.html -%}
