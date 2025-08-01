@@ -10,9 +10,9 @@ layout: default
 - I had the great luck of moving back into technical writing (from marketing-adjacent writing), but with a whole lot less autonomy and less freedom to "just try things" than I've been used to my whole 17-year career.
 
 ## Personal
-- Reading Gideon the Ninth by Tamsyn Muir
-- Still in L.A., family life is still wonderful. Grateful. 
-- Trying to do personal projects that fulfill me outside of work so I still feel mentally fulfilled when that need can't be met at work. 
+- Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir and 😰 Parable of the Sower by Octavia Butler 
+- Still in L.A. 
+- Trying to do fulfilling personal projects--trying to gain some kind of identity outside of work
 
 ## Social Things I'm Doing
 - [Music League](https://musicleague.com/) with a friend's group of friends
