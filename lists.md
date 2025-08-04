@@ -34,11 +34,7 @@ layout: default
 - Vasquez Rocks is a regular haunt
 - Sequoia National Park is not so far but still pretty far
 
-## <font color="#038C73">Eats</font>
-I had a 3-course dessert meal by accident at a Hungarian restaurant in Encino and it was so memorable that I created a section here called *Eats* just to talk about it.
-
-## <font color="#038C73">Recipes</font>
-- [Oven Bread](https://butterwithasideofbread.com/wprm_print/easy-homemade-bread-recipe) from *Butter with a side of bread*
+## <font color="#038C73">Recipes<font>
 - [Crockpot Butternut Squash Lentil Soup](https://pinchofyum.com/the-best-detox-crockpot-lentil-soup/print/41824) from *Pinch of Yum*
 
 ## <font color="#038C73">To Consume, Recommended By Others</font>
