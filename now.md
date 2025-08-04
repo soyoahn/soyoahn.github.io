@@ -20,7 +20,7 @@ layout: default
 - Someone at work started a social club for local folks--I joined it but haven't attended events yet
 
 ## This Site
-- I still haven't customized the CSS from the template yet. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
+- Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
 
 ## Heavy Things 
 // I might omit this section in the future but for now no one's reading this so why not)   
@@ -30,4 +30,4 @@ layout: default
 ---
 
 What's a **now** page? So glad you asked: [https://nownownow.com/](https://nownownow.com/). <br>I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
-Last updated July 19, 2025. 
+Last updated August 4, 2025. 
