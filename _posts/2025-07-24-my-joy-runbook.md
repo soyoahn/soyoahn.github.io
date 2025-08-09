@@ -5,7 +5,7 @@ tags: personal
 # My Joy Runbook
 ---
 
-A place to collect inspiration, advice, and ideas to set me back on a good path I've fallen into a funk.
+A place to collect inspiration, advice, and ideas to set me back on a good path when I've fallen into a funk.
 
 When feeling super bad, try these things and don't skip steps: <br><br>
 **⏱ Completion time: 1-2h** | Might seem like lot now, but it sure beats being in your funk for days. 
