@@ -10,8 +10,7 @@ layout: default
 - I had the great luck of moving back into technical writing (from marketing-adjacent writing), but with a whole lot less autonomy and less freedom to "just try things" than I've been used to my whole 17-year career.
 
 ## Personal
-- Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir and 😩 Parable of the Sower by Octavia Butler 
-- Parable of the Talents (#2 Earthseed) by Octavia Butler
+- Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir and Parable of the Talents (#2 Earthseed) by Octavia Butler
 - Still in L.A. 
 - Trying to do fulfilling personal projects--trying to gain some kind of identity outside of work
 
