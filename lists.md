@@ -7,6 +7,7 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2025
+- Parable of the Sower (#1 Earthseed) by Octavia Butler
 - Gideon the Ninth (#1 The Locked Tomb) by Tamsyn Muir
 - User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play by Cliff Kuang and Robert Fabricant
 - Dawn by Octavia Butler
