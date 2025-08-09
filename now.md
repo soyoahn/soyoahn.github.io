@@ -11,6 +11,7 @@ layout: default
 
 ## Personal
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir and 😩 Parable of the Sower by Octavia Butler 
+- Parable of the Talents (#2 Earthseed) by Octavia Butler
 - Still in L.A. 
 - Trying to do fulfilling personal projects--trying to gain some kind of identity outside of work
 
