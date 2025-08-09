@@ -24,6 +24,6 @@ When feeling super bad, try these things and don't skip steps: <br><br>
 
 ## <font color="#86A793">3️⃣ Go Forth and Conquer</font>
 1. **Read**: [Fear is the mind killer](https://www.goodreads.com/quotes/2-i-must-not-fear-fear-is-the-mind-killer-fear-is) 
-2. Now start the next task that needs doing. 
+2. Now start the task that needs doing. 
 
 Did something else to get you square? Put it on this page. 
