@@ -10,7 +10,7 @@ This [space](2025/06/21/about-this-blog.html) will be a personal and professiona
 
 I'm a technical writer based in Los Angeles and the mom of two toddlers. My husband's a [narrative writer](https://www.linkedin.com/in/chazp). We have one brown tabby cat and a growing collection of houseplants (<s>19</s> [26](2025/07/05/what-i-did-during-mid-year-break.html#plants) now). 
 
-I don't (and won't) use generative AI for writing, art, and ideation. I'd rather phone a friend. I *have* used it to do simple tasks like transform html to markdown and will sometimes use it to help me process large amounts of literal rows of data.
+I don't (and won't) use generative AI for writing, art, and ideation. I'd rather phone a friend. I *have* used it to do simple tasks like transform html to markdown and will sometimes use it to help me process large amounts of literal rows of data. I might use it for editing someday but not now, not yet. 
 
 **Career Highlights**
 
