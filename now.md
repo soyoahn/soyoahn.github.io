@@ -32,4 +32,4 @@ layout: default
 ---
 
 What's a **now** page? So glad you asked: [https://nownownow.com/](https://nownownow.com/). <br>I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
-Last updated August 4, 2025. 
+Last updated August 28, 2025. 
