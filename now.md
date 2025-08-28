@@ -6,17 +6,20 @@ layout: default
 # What's Now
 
 ## Work
-- Still at Riot Games and confronting some unique-to-me challenges there. (Some of it's me, some of it's the org.  Trying to make it fit.)
+- Still at Riot Games and confronting some unique-to-me challenges there. (Some of it's me, some of it's the org.  Trying to make it work.)
 - I had the great luck of moving back into technical writing (from marketing-adjacent writing), but with a whole lot less autonomy and less freedom to "just try things" than I've been used to my whole 17-year career.
 
 ## Personal
-- Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir and Parable of the Talents (#2 Earthseed) by Octavia Butler
+- Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
+- Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler 
 - Still in L.A. 
 - Trying to do fulfilling personal projects--trying to gain some kind of identity outside of work
+- Learning some American Sign Language with the Lingvano app
 
 ## Social Things I'm Doing
-- [Music League](https://musicleague.com/) with a friend's group of friends
+- [Music League](https://musicleague.com/) with a friend's group of friends, round 2
 - Book club at work
+- Korean speaking practice group at work
 - Someone at work started a social club for local folks--I joined it but haven't attended events yet
 
 ## This Site
