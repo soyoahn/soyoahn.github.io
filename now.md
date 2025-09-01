@@ -7,7 +7,6 @@ layout: default
 
 ## Work
 - Still at Riot Games and confronting some unique-to-me challenges there. Doing my best to try to make it work.
-- I had the great luck of moving back into technical writing (from marketing-adjacent writing), but with a whole lot less autonomy and less freedom to "just try things" than I've been used to my whole 17-year career. (I'm nearly past this part, but will remain frustrated just a few moments longer.)
 
 ## Personal
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
