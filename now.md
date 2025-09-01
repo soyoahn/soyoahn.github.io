@@ -6,8 +6,8 @@ layout: default
 # What's Now
 
 ## Work
-- Still at Riot Games and confronting some unique-to-me challenges there. (Some of it's me, some of it's the org.  Trying to make it work.)
-- I had the great luck of moving back into technical writing (from marketing-adjacent writing), but with a whole lot less autonomy and less freedom to "just try things" than I've been used to my whole 17-year career.
+- Still at Riot Games and confronting some unique-to-me challenges there. Doing my best to try to make it work.
+- I had the great luck of moving back into technical writing (from marketing-adjacent writing), but with a whole lot less autonomy and less freedom to "just try things" than I've been used to my whole 17-year career. (I'm nearly past this part, but will remain frustrated just a few moments longer.)
 
 ## Personal
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
@@ -20,7 +20,6 @@ layout: default
 - [Music League](https://musicleague.com/) with a friend's group of friends, round 2
 - Book club at work
 - Korean speaking practice group at work
-- Someone at work started a social club for local folks--I joined it but haven't attended events yet
 
 ## This Site
 - Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
@@ -32,4 +31,4 @@ layout: default
 ---
 
 What's a **now** page? So glad you asked: [https://nownownow.com/](https://nownownow.com/). <br>I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
-Last updated August 28, 2025. 
+Last updated August 31, 2025. 
