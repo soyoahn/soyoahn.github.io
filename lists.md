@@ -8,7 +8,7 @@ layout: default
 ## <font color="#038C73">Books Read</font>
 2025
 - **Parable of the Sower (#1 Earthseed) by Octavia Butler** <font color="gray">{ Loved it. Prophetic. }</font>
-- **Gideon the Ninth (#1 The Locked Tomb) by Tamsyn Muir** <font color="gray">{ Absolutely loved it! Almost gave up, but it gets good 60% in. }</font>
+- **Gideon the Ninth (#1 The Locked Tomb) by Tamsyn Muir** <font color="gray">{ So funny. Absolutely loved it! Almost gave up, but it gets good 60% in. }</font>
 - **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play by Cliff Kuang and Robert Fabricant** <font color="gray">{ A must-read for everyone living in the world today to become “informed, critical consumers of design.” }</font>
 - **Dawn by Octavia Butler** <font color="gray">{ It wasn't for me }</font>
 - **Pride and Prejudice by Jane Austin** <font color="gray">{ Finally read this. Not sure how I feel about it. Great writing, but I don't like that this type of storytelling became a trend. Darcy isn't "perfect" he's unrealistic to a boring degree. }</font>
