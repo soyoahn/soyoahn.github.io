@@ -57,7 +57,7 @@ For the next hackathon, I shouldn't forget that I can also help facilitate playt
 <font color="#BF416F">Alright, the event is now completely over. Here are my raw takeaways: 
 <ul>
 <li>Next time, don't participate if I can't contribute in more ways than just "project manager" or "scribe." I'll only feel more useless and possibly slow things down. There just aren't a ton of things that
-need to be collated into a doc during a hackathon. All the important details exist in chat anyway and can be turned into docs after the event. So if I want to participate, do **not** seek a scribe role. That's the the way for a hackathon.</li>
+need to be collated into a doc during a hackathon. All the important details exist in chat anyway and can be turned into docs after the event. So if I want to participate, do **not** seek a scribe role. That's not the way for a hackathon.</li>
 <li>Focus on finding a team where I can offer a useful perspective to contribute ideas or physical execution.</li>
 <li>Work on improving a few skills: Video Production... will add more over time as I think of them.</li>
 </ul></font>
