@@ -37,7 +37,7 @@ I'd better get good at something. Maybe this is why I'm so depressed. Once upon 
 
 ## Failure 4: Don't be embarrassed to join a group
 
-On Day 1, shortly after finding out mine was dead, I heard about a project that really excited me, but I worried about joining last minute and being dead weight. **I cannot tell you the weight of my regret.** That's all. Absolute missed opportunity to learn so much that I've been curious about. Or maybe not--maybe there were no convos happening in the physical room and it was all in DMs like a lot of work is done these days? I guess I'll have to ask around and see exactly what I missed out on so I can learn the mistake more deeply for next time.  
+On Day 1, shortly after finding out thay my original project was dead, I heard about a project that really excited me, but I worried about joining last minute and being dead weight. **I cannot tell you the weight of my regret.** That's all. Absolute missed opportunity to learn so much that I've been curious about. Or maybe not--maybe there were no convos happening in the physical room and it was all in DMs like a lot of work is done these days? I guess I'll have to ask around and see exactly what I missed out on so I can learn the mistake more deeply for next time.  
 
 <font color="#BF416F"><strong>Edit:</strong> I think I would've just been dead weight. And that's okay--perhaps the hackathon is simply not for me. No need to feel embarrassed.</font>
 
