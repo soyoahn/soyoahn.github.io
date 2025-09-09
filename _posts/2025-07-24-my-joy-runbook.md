@@ -19,7 +19,7 @@ When feeling super bad, try these things and don't skip steps: <br><br>
 1. Drink water.
 2. Touch grass. <br>**If wfh**: Water the plants 🪴. If it's time for a comprehensive watering sesh, do the full deep water + soak. If the plants don't need water, go for a bike ride. (30m)<br>
 **If at the office**: Get a hot beverage ☕ and take a **walk outside**--don't just sit inside. (30m)
-3. 🔉 **Listen**: To something fun or a good interview. (30m) <br>Options: [Bullseye with Jesse Thorn](https://maximumfun.org/podcasts/bullseye-with-jesse-thorn/)<br>
+3. 🔉 **Listen**: To something fun or a good interview. (30m)
 4. Feeling refreshed? Skip to 3️⃣. <br>If you still need a little more, take a few minutes to learn something new (30-45m)  <br>Options: EdX, [BBC Radio 4 - In Our Time](https://www.bbc.co.uk/programmes/b006qykl), Video production tutorials, Jewelry making or wood working tutorials
 
 ## <font color="#86A793">3️⃣ Go Forth and Conquer</font>
