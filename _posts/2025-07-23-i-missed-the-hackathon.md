@@ -5,7 +5,7 @@ tags: personal
 ### I did a whoopsie and missed my company's annual hackathon
 ---
 
-My company hosts an internal hackathon every year. As someone who routinely complains about (I know, I need to stop) not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to animate in [Spine](https://esotericsoftware.com/)! ([Last year's contribution](/files/fun/apruchnicki-spine-animations.mp4) Note: The animation is janky... I realized halfway through that I filtered out some key controls to smooth between frames, but I love him.)  
+My company hosts an internal hackathon every year. As someone who routinely complains about not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to animate in [Spine](https://esotericsoftware.com/)! [My Pengu animations](/files/fun/apruchnicki-spine-animations.mp4)--the animation is janky... I realized halfway through that I filtered out some key controls, but I love him.)  
 
 Unfortunately, the project I signed up for this year fell through, so I didn't participate much. But I could have. And this blog post chronicles why I didn't, so I can remember what to do for the next one. 
 
