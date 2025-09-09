@@ -21,7 +21,7 @@ The project was canceled without a heads up, and that wasn't a total surprise.
 
 This was the most heinous failing. 
 
-I planned on not really feeling the hackathon this year and wanted to contribute "only docs." 
+I planned on not really feeling the hackathon this year and that I'd only want to contribute docs. 
 
 What I *hadn't* planned on was that last-minute urge to Do Some Shit(tm). I didn't keep tabs on backup projects. 
 
