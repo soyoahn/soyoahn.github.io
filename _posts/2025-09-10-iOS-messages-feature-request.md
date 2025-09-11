@@ -4,7 +4,7 @@ tags: personal
 
 # Mental Health | iOS Messages Feature Request
 ---
-Did you know that you can send Apple feature requests? [https://www.apple.com/feedback/](https://www.apple.com/feedback/)
+Did you know that you can send feature requests to Apple through a nice, dedicated form? [https://www.apple.com/feedback/](https://www.apple.com/feedback/)
 
 For example, I just submitted this one: (this is pretty personal) 
 
