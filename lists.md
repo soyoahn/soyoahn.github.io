@@ -14,6 +14,8 @@ layout: default
 - **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play by Cliff Kuang and Robert Fabricant** <font color="gray">{ A must-read for everyone living in the world today to become “informed, critical consumers of design.” }</font>
 - **Dawn by Octavia Butler** <font color="gray">{ It wasn't for me }</font>
 - **Pride and Prejudice by Jane Austin** <font color="gray">{ Finally read this. Not sure how I feel about it. Great writing, but I don't like that this type of storytelling became a trend. Darcy isn't "perfect" he's unrealistic to a boring degree. }</font>
+- **Taslking As Fast As I Can (via audiobook read by Lauren Graham)** <font color="gray">{ Surprisingly resonant chapter about concern for a distraction-addicted world. I didn't think I'd like this but this book made me a huge fan of Lauren Graham. }</font>
+- **The Third Gilmore Girl (via audiobook read by Kelly Bishop)**) <font color="gray">{ I'm currently a sucker for these show business-related commute reads }</font>
 - **This Inevitable Ruin (Dungeon Crawler Carl #7) by Matt Dinneman (via audiobook narrated by Jeff Hays)** <font color="gray">{ Lots of things had to happen to get here and it didn't disappoint. }</font>
 - **The Lord of the Rings by J.R.R. Tolkien** <font color="gray">{ Finally read this. } </font>
 
