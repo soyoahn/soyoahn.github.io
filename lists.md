@@ -8,7 +8,7 @@ layout: default
 ## <font color="#038C73">Books Read</font>
 2025
 - **The Stranger by Albert Camus** <font color="gray">{ Dreadful. What did I just read? Like King Lear's Cordelia--Meursault fails to care to realize that we live in a society. A cautionary tale for an increasing number of people in this terribly alienating mask of a society we live in now. }</font>
-- **Animal Farm by George Orwell** (re-read) <font color="gray">{ Everyone should revisit this book. }</font>- **Animal Farm by George Orwell** (re-read) <font color="gray">{ Everyone should revisit this book. }</font>- **Animal Farm by George Orwell** (re-read) <font color="gray">{ Everyone should revisit this book. }</font>
+- **Animal Farm by George Orwell** (re-read) <font color="gray">{ Everyone should revisit this book. }</font>
 - **Parable of the Sower (#1 Earthseed) by Octavia Butler** <font color="gray">{ Loved it. Prophetic. }</font>
 - **Gideon the Ninth (#1 The Locked Tomb) by Tamsyn Muir** <font color="gray">{ So funny. Absolutely loved it! Almost gave up, but it gets good 60% in. }</font>
 - **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play by Cliff Kuang and Robert Fabricant** <font color="gray">{ A must-read for everyone living in the world today to become “informed, critical consumers of design.” }</font>
