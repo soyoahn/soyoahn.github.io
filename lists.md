@@ -44,7 +44,7 @@ layout: default
 
 ## <font color="#038C73">Recipes<font>
 - [Crockpot Butternut Squash Lentil Soup](https://pinchofyum.com/the-best-detox-crockpot-lentil-soup/print/41824) from *Pinch of Yum*
-- [Easy Gooey Brownies](https://handletheheat.com/wprm_print/best-ever-chewy-brownies) from *Handle the Heat*
+- [Easy Chewy Brownies](https://handletheheat.com/wprm_print/best-ever-chewy-brownies) from *Handle the Heat*
 
 ## <font color="#038C73">To Consume, Recommended By Others</font>
 - [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? 
