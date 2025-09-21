@@ -21,6 +21,7 @@ layout: default
 - Book club at work
 - Korean speaking practice group at work
 - School's back, so lots of time with other parents and our littles
+- Going into the office more--nice to see people and get some audiobook time.
 
 ## This Site
 - Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
