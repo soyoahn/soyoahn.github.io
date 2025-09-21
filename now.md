@@ -6,9 +6,10 @@ layout: default
 # What's Now
 
 ## Work
-- Still at Riot Games and confronting some unique-to-me challenges there. Doing my best to try to make it work.
+- Ups and downs
 
 ## Personal
+- Commute audiobook: Canticle for Leibowitz by Walter Miller
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler 
 - Still in L.A. 
