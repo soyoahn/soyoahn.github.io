@@ -20,6 +20,7 @@ layout: default
 - [Music League](https://musicleague.com/) with a friend's group of friends, round 2
 - Book club at work
 - Korean speaking practice group at work
+- School's back, so lots of time with other parents and our littles
 
 ## This Site
 - Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
