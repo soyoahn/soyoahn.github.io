@@ -29,7 +29,7 @@ layout: default
 ## Heavy Things 
 // I might omit this section in the future but for now no one's reading this so why not)   
 - It's hard to watch the world burn and see wasted human potential everywhere. (Especially worried about the younger generation.) People with incredible talent and potential shouldn't be permanently rejected by society just because they learned how to play the game too late. 
-- People are being lazier, more impatient, meaner, and more dishonest. What's their motivation to be/do better? There's none, right? How do we fix this?
+- Are people getting lazier, more impatient, meaner, and more dishonest? What's their motivation when they're being paid far below a living wage to squander all their time on unfulfilling work? Wtf are we doing, as a society? 
 ---
 
 What's a **now** page?: [https://nownownow.com/](https://nownownow.com/). <br>I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
