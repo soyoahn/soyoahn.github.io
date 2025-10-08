@@ -9,7 +9,6 @@ layout: default
 - Ups and downs
 
 ## Personal
-- Commute audiobook: Canticle for Leibowitz by Walter Miller
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler 
 - Still in L.A. 
