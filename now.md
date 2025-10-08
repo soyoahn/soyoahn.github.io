@@ -6,7 +6,7 @@ layout: default
 # What's Now
 
 ## Work
-- Ups and downs
+- Ups mostly!
 
 ## Personal
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
