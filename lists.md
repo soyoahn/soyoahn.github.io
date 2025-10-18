@@ -7,6 +7,7 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2025
+- **Ubik** by Philip K. Dick (re-read)
 - **Of Mice and Men** by John Steinbeck <font color="gray">{ }</font>
 - **A Canticle for Leibowitz** by Walter M. Miller Jr. <font color="gray">{ :(((((( }</font>
 - **The Metamorphosis by Franz Kafka** <font color="gray">{ This was required reading in high school but I didn't understand it then. Is it possible to understand it without having lived enough number of years and without having witnessed a fair share of personal tragedies? }</font>
