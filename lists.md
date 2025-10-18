@@ -7,9 +7,9 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2025
-- **Ubik** by Philip K. Dick (re-read)
-- **Of Mice and Men** by John Steinbeck <font color="gray">{ }</font>
-- **A Canticle for Leibowitz** by Walter M. Miller Jr. <font color="gray">{ :(((((( }</font>
+- **Ubik by Philip K. Dick** (re-read)
+- **Of Mice and Men by John Steinbeck** <font color="gray">{ }</font>
+- **A Canticle for Leibowitz by Walter M. Miller Jr.** <font color="gray">{ :(((((( }</font>
 - **The Metamorphosis by Franz Kafka** <font color="gray">{ This was required reading in high school but I didn't understand it then. Is it possible to understand it without having lived enough number of years and without having witnessed a fair share of personal tragedies? }</font>
 - **The Stranger by Albert Camus** <font color="gray">{ Dreadful. What did I just read? Like King Lear's Cordelia--Meursault cannot realize that he lives in a society. A cautionary tale for an increasing number of people in this terribly alienating mask of a society we live in now. }</font>
 - **Animal Farm by George Orwell** (re-read) <font color="gray">{ Everyone should revisit this book. }</font>
