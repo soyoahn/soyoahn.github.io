@@ -7,8 +7,8 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2025
-- **Master Man by Leo Tolstoy**
-- **The Death of Ivan Ilyich by Leo Tolstoy** 
+- **Master Man by Leo Tolstoy** (short story)
+- **The Death of Ivan Ilyich by Leo Tolstoy** (novella)
 - **Ubik by Philip K. Dick** (re-read)
 - **Of Mice and Men by John Steinbeck** <font color="gray">{ }</font>
 - **A Canticle for Leibowitz by Walter M. Miller Jr.** <font color="gray">{ :(((((( }</font>
