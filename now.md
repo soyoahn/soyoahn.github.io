@@ -5,8 +5,7 @@ layout: default
 
 # What's Now
 
-## Week of 10/20/2025
-- One of my busiest weeks of recent memory: field trip, trunk-or-treat car decor, making two Halloween costumes, making painted shell thingies to give away for trunk-or-treat, performance self-evals are due, and tons of work deadlines. 
+Soooooooo tired.
 
 ## Work
 - Ups mostly!
