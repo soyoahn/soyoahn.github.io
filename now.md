@@ -36,4 +36,4 @@ Soooooooo tired.
 ---
 
 What's a **now** page?: [https://nownownow.com/](https://nownownow.com/). <br>I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
-Last updated September 21, 2025. 
+Last updated November 4, 2025. 
