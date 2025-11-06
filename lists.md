@@ -7,6 +7,7 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2025
+- **Wind in the Willows by Kenneth Grahame**
 - **Master Man by Leo Tolstoy** (short story)
 - **The Death of Ivan Ilyich by Leo Tolstoy** (novella)
 - **Ubik by Philip K. Dick** (re-read)
