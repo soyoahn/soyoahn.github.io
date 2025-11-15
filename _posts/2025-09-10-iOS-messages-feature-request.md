@@ -12,4 +12,4 @@ I have a family member who sends me very upsetting messages almost daily. I've n
 
 "Silence Notifications From <specific people" is very useful but not enough because I can still see the last couple lines from the person, and if the words are pretty terrible, it's very hard to focus on work/kids/life, etc. 
 
-Currently, I'm using my hand to hide the words but sometimes I forget. Always hiding the preview text would be ideal. 
+Currently, I'm squinting to hide the words (to check other messages) but sometimes I forget. Always hiding the preview text would be ideal. 
