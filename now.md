@@ -12,7 +12,6 @@ Soooooooo tired.
 
 ## Personal
 - Reading Legacy of Orïsha series by Tomi Adeyemi
-- Reading Barefoot Gen by Keiji Nakazawa
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler 
 - Still in L.A. 

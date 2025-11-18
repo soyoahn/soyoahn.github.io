@@ -11,6 +11,7 @@ layout: default
 - **Master Man by Leo Tolstoy** (short story)
 - **The Death of Ivan Ilyich by Leo Tolstoy** (novella)
 - **Ubik by Philip K. Dick** (re-read)
+- **Barefoot Gen (#1) by Keiji Nakazawa** (comic book) 
 - **Of Mice and Men by John Steinbeck** <font color="gray">{ }</font>
 - **A Canticle for Leibowitz by Walter M. Miller Jr.** <font color="gray">{ :(((((( }</font>
 - **The Metamorphosis by Franz Kafka** <font color="gray">{ This was required reading in high school but I didn't understand it then. Is it possible to understand it without having lived enough number of years and without having witnessed a fair share of personal tragedies? }</font>
@@ -20,7 +21,7 @@ layout: default
 - **Gideon the Ninth (#1 The Locked Tomb) by Tamsyn Muir** <font color="gray">{ So funny. Absolutely loved it! Almost gave up, but it gets good 60% in. }</font>
 - **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play by Cliff Kuang and Robert Fabricant** <font color="gray">{ A must-read for everyone living in the world today to become “informed, critical consumers of design.” }</font>
 - **Dawn by Octavia Butler** <font color="gray">{ It wasn't for me }</font>
-- **Pride and Prejudice by Jane Austin** <font color="gray">{ The most appealing thing about Darcy and Elizabeth is their desire for true companionship in one another--of whom they can endlessly learn and grow with. They complete each other and mutually broaden the other's perspective and horizons (the movies tend to only show Lizzie bettering Darcy, but the book makes clear that Lizzie's super excited about the knowledge and thinking Darcy can share with her). Everyone should strive for this type of happiness. }</font>
+- **Pride and Prejudice by Jane Austin** <font color="gray">{ The most appealing thing about Darcy and Elizabeth is their desire for true companionship in one another--of whom they can endlessly learn and grow with. They complete each other and mutually broaden the other's perspectives and horizons (the movies tend to only show Lizzie bettering Darcy, but the book makes clear that Lizzie's super excited about the knowledge and thinking Darcy can share with her). Everyone should strive for this type of happiness. }</font>
 - **Talking As Fast As I Can (via audiobook read by Lauren Graham)** <font color="gray">{ Surprisingly resonant chapter about concern for a distraction-addicted world. I didn't think I'd like this but this book made me a huge fan of Lauren Graham. }</font>
 - **The Third Gilmore Girl (via audiobook read by Kelly Bishop)** <font color="gray">{ I'm currently a sucker for these show business-related commute reads }</font>
 - **This Inevitable Ruin (Dungeon Crawler Carl #7) by Matt Dinneman (via audiobook narrated by Jeff Hays)** <font color="gray">{ Lots of things had to happen to get here and it didn't disappoint. }</font>
