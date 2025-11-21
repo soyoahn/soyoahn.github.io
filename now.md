@@ -20,9 +20,9 @@ Soooooooo tired.
 - Learning some American Sign Language with the Lingvano app
 
 ## Social Things I'm Doing
-- [Music League](https://musicleague.com/) with a friend's group of friends, round 2
+- [Music League](https://musicleague.com/) with a friend's group of friends, round 3
 - Book club at work
-- -Korean speaking practice group at work-
+- <s>Korean speaking practice group at work</s>
 - School's back, so lots of time with other parents and our littles
 - Going into the office more--nice to see people and get some audiobook time.
 
