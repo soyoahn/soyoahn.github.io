@@ -7,11 +7,11 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2025
-- **Wind in the Willows by Kenneth Grahame** (okay I understand Mr. Toad's Wild Ride now) 
-- **Master Man by Leo Tolstoy** (short story)
-- **The Death of Ivan Ilyich by Leo Tolstoy** (novella)
-- **Ubik by Philip K. Dick** (re-read... still kind of confusing.)
-- **Barefoot Gen (#1) by Keiji Nakazawa** (a harrowing comic book) 
+- **Wind in the Willows by Kenneth Grahame** <font color="gray">(okay I understand Mr. Toad's Wild Ride now)</font>
+- **Master Man by Leo Tolstoy** <font color="gray">(short story)</font>
+- **The Death of Ivan Ilyich by Leo Tolstoy** <font color="gray">(novella)</font>
+- **Ubik by Philip K. Dick** <font color="gray">(re-read... still kind of confusing.)</font>
+- **Barefoot Gen (#1) by Keiji Nakazawa** <font color="gray">(a harrowing comic book)</font>
 - **Of Mice and Men by John Steinbeck** <font color="gray">{ what perfect writing. this one was harrowing too. }</font>
 - **A Canticle for Leibowitz by Walter M. Miller Jr.** <font color="gray">{ :(((((( }</font>
 - **The Metamorphosis by Franz Kafka** <font color="gray">{ This was required reading in high school but I didn't understand it then. Is it possible to understand it without having lived enough number of years and without having witnessed a fair share of personal tragedies? }</font>
