@@ -11,9 +11,10 @@ Soooooooo tired.
 - Ups mostly!
 
 ## Personal
-- Reading Legacy of Orïsha series by Tomi Adeyemi
-- Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
-- Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler 
+- Reading Against the Machine by Paul Kingsnorth as my commute audiobook read
+- Reading The Last House on Needless Street by Catriona Ward for work bookclub. It's spooky! 
+- Paused reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir -- saving for the holidays
+- Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler -- saving for when I have more capacity for depression
 - Still in L.A. 
 - Trying to do fulfilling personal projects--trying to gain some kind of identity outside of work
 - Learning some American Sign Language with the Lingvano app
@@ -21,7 +22,7 @@ Soooooooo tired.
 ## Social Things I'm Doing
 - [Music League](https://musicleague.com/) with a friend's group of friends, round 2
 - Book club at work
-- Korean speaking practice group at work
+- -Korean speaking practice group at work-
 - School's back, so lots of time with other parents and our littles
 - Going into the office more--nice to see people and get some audiobook time.
 
