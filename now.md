@@ -12,7 +12,6 @@ Soooooooo tired.
 
 ## Personal
 - Reading Against the Machine by Paul Kingsnorth as my commute audiobook read
-- Reading The Last House on Needless Street by Catriona Ward for work bookclub. It's spooky! 
 - Paused reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir -- saving for the holidays
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler -- saving for when I have more capacity for depression
 - Still in L.A. 
