@@ -7,7 +7,7 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2025
-- **The Last House on Needless Street by Catriona Ward** <font color="gray">(ultimate pageturner)</font>
+- **The Last House on Needless Street by Catriona Ward** <font color="gray">(utter pageturner)</font>
 - **Wind in the Willows by Kenneth Grahame** <font color="gray">(okay I understand Mr. Toad's Wild Ride now)</font>
 - **Master Man by Leo Tolstoy** <font color="gray">(short story)</font>
 - **The Death of Ivan Ilyich by Leo Tolstoy** <font color="gray">(novella)</font>
