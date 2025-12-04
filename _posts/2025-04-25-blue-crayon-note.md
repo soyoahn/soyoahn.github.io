@@ -1,5 +1,5 @@
 ---
-tags: metablog
+tags: idk
 ---
 
 ## Blue Crayon Note
