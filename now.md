@@ -11,7 +11,7 @@ Soooooooo tired.
 - Ups mostly!
 
 ## Personal
-- Reading Against the Machine by Paul Kingsnorth as my commute audiobook read
+- Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Paused reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir -- saving for the holidays
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler -- saving for when I have more capacity for depression
 - Still in L.A. 

@@ -7,6 +7,7 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2025
+- **Against the Machine by Paul Kingsnorth** 
 - **The Last House on Needless Street by Catriona Ward** <font color="gray">{ book club read, utter pageturner }</font>
 - **Wind in the Willows by Kenneth Grahame** <font color="gray">{ okay I understand Mr. Toad's Wild Ride now }</font>
 - **Master Man by Leo Tolstoy** <font color="gray">(short story)</font>
