@@ -2,10 +2,6 @@
 title: Portfolio
 layout: default
 ---
-{%- include casestudies.html -%}
-
-{%- include writingsamples.html -%}
-<button onclick="topFunction()" id="buttonTop" title="Go to top">Top</button>
 <script>
 //SCROLL TO TOP
 
@@ -24,3 +20,8 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+
+{%- include casestudies.html -%}
+
+{%- include writingsamples.html -%}
+<button onclick="topFunction()" id="buttonTop" title="Go to top">Top</button>
