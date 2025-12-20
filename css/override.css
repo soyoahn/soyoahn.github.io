@@ -64,3 +64,28 @@ hr {
     background: #FFCCCC !important;
     color: #030633 !important;
 }
+
+/*CSS for Custom GO TO TOP button added to this space's custom Main Layout*/  
+#buttonTop {    
+  display: none;    
+  position: fixed;    
+  bottom: 30px;    
+  right: 30px;    
+  z-index: 99;    
+  font-size: 16px;    
+  font-weight: 600;  
+  border: none;    
+  outline: none;    
+  background-color: #555;    
+  color: white;    
+  cursor: pointer;    
+  padding: 20px 16px;    
+  border-radius: 50%;  
+  opacity: 0.8;  
+  transition: 0.3s;  
+}    
+    
+#buttonTop:hover {    
+  background-color: black;    
+  color: white;  
+}    
