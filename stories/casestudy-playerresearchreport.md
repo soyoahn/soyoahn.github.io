@@ -1,4 +1,4 @@
-## <font color="#0FB493">Case Study: Making Production Decisions Based On User Testing</font>
+<strong><font color="#0FB493">Case Study: Making Production Decisions Based On User Testing</font></strong>
 🎮🧪 I was asked to work with decision makers to pick our next map for postlaunch production, based on user testing feedback. 
 
 - **Problem**: Decision makers informed me that the data wasn't useful because you couldn't tell who was giving feedback (thus missing important context about the corresponding tester's playstyle and experience level), and instead, you'd see the feedback grouped together, like: "too big" "just right" "snipers" "close combat"--all in one anonymized block. 
