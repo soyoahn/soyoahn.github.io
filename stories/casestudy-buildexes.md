@@ -1,0 +1,9 @@
+## <font color="#0FB493">Case Study: Build Executables</font>
+🛠️ When you build your levels locally, you also pick which executable you want to *run* (**Test.exe** - good for debugging, **Demo.exe** - good for checking performance, **Ship.exe**, etc). 
+- Because you could select only one value for this field at build time, many devs assumed (naturally so) that they were also selecting the type of executable they wanted to build, and thought they were *only* building that executable.  
+- **Problem**: I noticed that when I was at devs' desks, they would close their game and **rebuild** the map just to run a different executable. Hearing that this was a pain, I investigated why we don't build all the executables at build time (in other words, I was curious about the tradeoffs for how long it would take to **build all executables every time**, versus how much it costs devs to have to rebuild each time they wanted to build a different one). 
+- Then I learned that they were **all** *already* being built at build time! I can't remember if I discovered this on my own by checking the timestamp on those executables on my local machine, or whether I asked an engineer. 
+- Upon realizing this, I was able to update all the documentation and do deskside evangelization in the kindest and most discreet way possible (some devs had not realized this for years and I didn't want them to grieve those hours wasted over the years too badly). 
+- In retrospect, I wish I'd also asked the tools engineer to change the inline help text to something like: *Build generates all game exes. Select the default one to launch when the build's done:* ... or something like that. 
+
+**This type of discovery is why I love watching users work in real time, and why I'll always ask for opportunities to do this type of shadowing and build real relationships with the people I'm supposed to be serving.**
