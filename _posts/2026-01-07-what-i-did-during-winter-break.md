@@ -21,7 +21,7 @@ Lots of plans, lots of plans.
 ✨ Grateful that we are all still alive (so far)? 
 
 
-**So all that good, huh?**
+**6 days of fun over the break**
 
 There were some good things too in the few days in between when everyone was well.
 * Walked East Beach at St Simons and collected seashells with my daughter
