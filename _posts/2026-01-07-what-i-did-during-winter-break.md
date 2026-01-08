@@ -17,8 +17,7 @@ Lots of plans, lots of plans.
 * Just when Kid #2 was all better, it was time to do our big trip to southern Georgia to visit my in-laws. For New Year's, we ended up going to St. Augustine, FL--not realizing that the northeastern area of Florida was heavily spiking in flu cases. 
 * Got hit with the illness a couple days after visiting St. Augustine. I am now on Day 6 of my own illness! In these six days I've experienced almost every cold/flu/cough symptom (except rash or runny nose).
 * Had to call out sick for the first few days of 2026 because despite pain meds and all--my brain can't do anything without tremendous strain and effort. 
-
-✨ Grateful that we are all still alive (so far)? 
+* Husband is having to single parent two kids while I'm incapacitated.
 
 
 **6 days of fun over the break**
