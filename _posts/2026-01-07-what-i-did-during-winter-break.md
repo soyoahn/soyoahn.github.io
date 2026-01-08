@@ -23,7 +23,7 @@ Lots of plans, lots of plans.
 
 **6 days of fun over the break**
 
-There were some good things too in the few days in between when everyone was well.
+There were some good things too in the few days in between where everyone was well.
 * Walked East Beach at St Simons and collected seashells with my daughter
 * Watched the kids dig holes in the sand, endlessly
 * Found several starfish at Gould's Inlet
