@@ -6,8 +6,11 @@ layout: default
 # Lists
 
 ## <font color="#038C73">Books Read</font>
+2026
+- **The Hobbit by JRR Tolkien** <font color="gray">{ <strong>*spoilers*</strong> Loved LotR so much... didn't enjoy this, but probably would have in grade school. Really disliked Thorin (but luckily we have Balin to make up for it), Smaug died so abruptly, didn't like Gandalf in this one, and there were some bizarre plot points (hated the Arkenstone stuff). My favorite part was when Beorn followed the group to Mirkwood for his ponies--that seemed very realistic and I love that he was very no-half-measures about it. Why couldn't Gandalf just articulate why he was able to keep his borrowed horse and intentionally leave everyone in the dark? He could have just said that Beorn made an exception for him. 🤷🏻‍♀️ Frustrating. }</font>
+
 2025
-- **Against the Machine by Paul Kingsnorth** 
+- **Against the Machine by Paul Kingsnorth** <font color="gray">{ he should have leaned on the environmental stuff he knows best. he brought up a lot of other things that weakened his argument and alienates a lot of potential would-be supporters. appreciated the thorough explanation and illustration of enclosure. }</font>
 - **The Last House on Needless Street by Catriona Ward** <font color="gray">{ book club read, utter pageturner }</font>
 - **Wind in the Willows by Kenneth Grahame** <font color="gray">{ okay I understand Mr. Toad's Wild Ride now }</font>
 - **Master Man by Leo Tolstoy** <font color="gray">(short story)</font>

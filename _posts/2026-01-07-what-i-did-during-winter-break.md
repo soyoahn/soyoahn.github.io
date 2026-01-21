@@ -27,8 +27,10 @@ There were some good things too in the few days in between where everyone was we
 * Watched the kids dig holes in the sand, endlessly
 * Found several starfish at Gould's Inlet
 * Met the sweetest golden retriever, Molly
-* Saw dolphins!
+* Saw dolphins just outside the marsh!
 * Visited the fort at St. Augustine
 * All grandparents got hugs from all kids
 
 Fin.
+
+**Update: The worst of that heinous illness lasted 12 days. Now just coughing up mucus and in recovery mode. 
