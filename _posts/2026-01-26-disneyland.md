@@ -4,7 +4,7 @@ tags: idk
 
 ## 
 
-> I'm planning a 1-day trip to Disneyland for our daughter's birthday. 
+> 1-day trip to Disneyland 
 > Capturing some notes so I don't forget later. 
 ---
 
