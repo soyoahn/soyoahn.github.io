@@ -17,6 +17,7 @@ Always check these sites before booking:
 * **Discounts**: [https://disneyland.disney.go.com/offers-discounts/](https://disneyland.disney.go.com/offers-discounts/)
 * **Hours & Events Calendar**: [https://disneyland.disney.go.com/calendars/day/#/disneyland/](https://disneyland.disney.go.com/calendars/day/#/disneyland/)
   * Fireworks don't happen every day, for example. If a particular event is important, book on a day that has them. 
+  * Some nights, the park will close early for After-Hours Special Events.
   * Expand *Closed for Refurbishment* to check what's closed for refurbishment. 
 * **Check Crowds**: these sites are not perfect, but it's more data to look at to help make your decision
   * Is it packed: [https://www.isitpacked.com/disneyland-crowd-forecast-predictor-calendar/](https://www.isitpacked.com/disneyland-crowd-forecast-predictor-calendar/)
@@ -24,7 +25,7 @@ Always check these sites before booking:
   * Queue Times: [https://queue-times.com/en-US/parks/16/calendar/](https://queue-times.com/en-US/parks/16/calendar/)
   * Thrill Data: [https://www.thrill-data.com/trip-planning/crowd-calendar/disneyland](https://www.thrill-data.com/trip-planning/crowd-calendar/disneyland)
 * *Dining Reservations*: [https://disneyland.disney.go.com/dining/](https://disneyland.disney.go.com/dining/) or the Disneyland app (login required on both)
-  * For example, if you have a must-have dining experience at a sit-down restaurant, you ought to check availability--you can book 60 days in advance or book outside that window and set an alarm 60 days out to book your dining.
+  * For example, if you have a must-have dining wish at a sit-down restaurant, you ought to check availability--you can book 60 days in advance or book outside that window and set an alarm 60 days out to book your dining.
 
 ### 2. Book your hotel and whatever other logistics
 I don't have a hack for this yet.
