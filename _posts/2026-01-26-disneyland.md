@@ -1,13 +1,14 @@
 ---
 tags: idk
 ---
-[Link Text](https://www.example.com/)
+
 ## 
 
 > I'm planning a 1-day trip to Disneyland for our daughter's birthday. 
 > Capturing some notes so I don't forget later. 
 ---
-Note: I'm not doing Lighting Pass because we have two small kids who aren't tall enough for most Lighting Pass-eligible rides yet. We're going just for the one day.
+
+Note: I'm not doing Lighting Pass because we have two small kids who aren't tall enough for most Lighting Pass-eligible rides yet. We're going just for the 1 Day, 1 Park.
 
 ### 1. Pick the date(s)
 As of this writing, park tickets are priced to specific days and you need to reserve the day at time of purchase. (And actively change the reservation if you need to.) 
