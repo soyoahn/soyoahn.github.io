@@ -18,7 +18,7 @@ Always check these sites before booking:
 * **Hours & Events Calendar**: [https://disneyland.disney.go.com/calendars/day/#/disneyland/](https://disneyland.disney.go.com/calendars/day/#/disneyland/)
   * Fireworks don't happen every day, for example. If a particular event is important, book on a day that has them. 
   * Expand *Closed for Refurbishment* to check what's closed for refurbishment. 
-* **Check Crowds**: these sites are not perfect, but it's more data to look at to help your decision
+* **Check Crowds**: these sites are not perfect, but it's more data to look at to help make your decision
   * Is it packed: [https://www.isitpacked.com/disneyland-crowd-forecast-predictor-calendar/](https://www.isitpacked.com/disneyland-crowd-forecast-predictor-calendar/)
 	* Remember though, a day might be less busy because the park has shorter hours that day or lacks certain events.
   * Queue Times: [https://queue-times.com/en-US/parks/16/calendar/](https://queue-times.com/en-US/parks/16/calendar/)
