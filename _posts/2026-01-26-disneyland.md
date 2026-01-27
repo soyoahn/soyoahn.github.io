@@ -24,7 +24,7 @@ Always check these sites before booking:
   * Queue Times: [https://queue-times.com/en-US/parks/16/calendar/](https://queue-times.com/en-US/parks/16/calendar/)
   * Thrill Data: [https://www.thrill-data.com/trip-planning/crowd-calendar/disneyland](https://www.thrill-data.com/trip-planning/crowd-calendar/disneyland)
 * *Dining Reservations*: [https://disneyland.disney.go.com/dining/](https://disneyland.disney.go.com/dining/) or the Disneyland app (login required on both)
-  * For example, if you have a must-have dining reservation, you ought to check availability--you can book 60 days in advance or book outside that window and set an alarm 60 days out to book your dining.
+  * For example, if you have a must-have dining experience at a sit-down restaurant, you ought to check availability--you can book 60 days in advance or book outside that window and set an alarm 60 days out to book your dining.
 
 ### 2. Book your hotel and whatever other logistics
 I don't have a hack for this yet.
