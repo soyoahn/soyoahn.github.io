@@ -45,7 +45,7 @@ I don't have a hack for this yet.
 Example: In this scenario, we've picked a mid-week school day, booked a hotel for the night before the big day, and plan to drive home afterwards.
 Check ride heights in advance for kiddos. 
 
-✨ This is probably a little too packed. 
+✨ This plan is probably a little too packed. 
 
 1. 6:30am - Have the car packed and have a light breakfast at hotel
 2. 7:15am - Drive out to the parking structure, get on tram, get through security
