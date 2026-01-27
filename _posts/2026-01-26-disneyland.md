@@ -45,7 +45,7 @@ I don't have a hack for this yet.
 Example: In this scenario, we've picked a mid-week school day, booked a hotel for the night before the big day, and plan to drive home afterwards.
 Check ride heights in advance for kiddos. 
 
-This is probably a little too packed. 
+✨ This is probably a little too packed. 
 
 1. 6:30am - Have the car packed and have a light breakfast at hotel
 2. 7:15am - Drive out to the parking structure, get on tram, get through security
@@ -58,8 +58,6 @@ This is probably a little too packed.
 10. 7pm - 8pm - Adventureland (must-rides: Jungle Cruise, Enchanted Tiki Room) - this places us very close to the hub/main street.
 11: 8pm - Find a spot to watch Paint the Night. **8:30pm - Paint the Night parade** main street is the best viewing; paths from it's a small world → matterhorn → main street
 12: 9pm - 10pm - Explore Star Wars area, maybe do Astro Blasters and/or Autopia
-
-✨ Let's do this thing! I'm going to edit this post as I go; possibly striking out and adding links as I (hopefully) complete the entries. 
 
 ![Map to rough out the general plan and train stops](/img/posts/2026/disneyland.png "Map to rough out the general plan and train stops")
 
