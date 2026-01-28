@@ -56,17 +56,17 @@ Example: In this scenario, we've picked a mid-week school day, booked a hotel fo
 
 ✨ This plan is probably a little too packed. 
 
-<font color="gray">6:30am</font> - Have the car packed and have a light breakfast at hotel
-<font color="gray">7:15am</font> - Drive out to the parking structure, get on tram, get through security
-<font color="D6117D">8:00am</font> - Beeline to Peter Pan's Flight and whatever other Fantasyland rides
-<font color="D6117D">9:00am</font> - Plaza Inn reservation for character dining breakfast
-<font color="D6117D">10am</font> - 12pm - **Fantasyland** (All the dark rides + Storybook Canal Boats + Casey Jr)
-<font color="19B019">12pm - 3pm</font> - **New Orleans Square** (must-rides: Haunted Mansion, Pirates of the Caribbean, Disneyland Railroad) + **Get Lunch** (Cafe Orleans) + **30+ minute nap** + 🚂 Take the train from <font color="red">New Orleans Square</font> to <font color="red">Mickey's Toontown</font>. 
-<font color="19B019">3pm - 5pm</font> - **Toontown** (must-rides: Mickey & Minnie's Runaway Railway, visit houses) + 🚂 Take the train from <font color="red">Toontown</font> to <font color="red">New Orleans Square</font> to get to Bayou Country.
-<font color="53C2BF">5pm - 7pm</font> - **Bayou Country** (must-rides: **Winnie the Pooh**) + **Get Dinner** (Tiana's Palace or Hungry Bear) 
-<font color="53C2BF">7pm - 8pm</font> - **Adventureland** - skippable - (must-rides: Jungle Cruise, Enchanted Tiki Room) - this places us very close to the hub/main street for the parade.
-<font color="53C2BF">8pm</font> - Find a spot to watch Paint the Night. **8:30pm - Paint the Night parade** main street is the best viewing; paths from it's a small world → matterhorn → main street. Grab treats at **Jolly Holiday**
-<font color="53C2BF">9pm - 10pm</font> - Depending on the time, either go home or explore Star Wars area (just look at the things) or Tomorrowland (do Astro Blasters and/or Autopia)
+1. <font color="gray">6:30am</font> - Have the car packed and have a light breakfast at hotel
+2. <font color="gray">7:15am</font> - Drive out to the parking structure, get on tram, get through security
+3. <font color="D6117D">8:00am</font> - Beeline to Peter Pan's Flight and whatever other Fantasyland rides
+4. <font color="D6117D">9:00am</font> - Plaza Inn reservation for character dining breakfast
+5. <font color="D6117D">10am</font> - 12pm - **Fantasyland** (All the dark rides + Storybook Canal Boats + Casey Jr)
+6. <font color="19B019">12pm - 3pm</font> - **New Orleans Square** (must-rides: Haunted Mansion, Pirates of the Caribbean, Disneyland Railroad) + **Get Lunch** (Cafe Orleans) + **30+ minute nap** + 🚂 Take the train from <font color="red">New Orleans Square</font> to <font color="red">Mickey's Toontown</font>. 
+7. <font color="19B019">3pm - 5pm</font> - **Toontown** (must-rides: Mickey & Minnie's Runaway Railway, visit houses) + 🚂 Take the train from <font color="red">Toontown</font> to <font color="red">New Orleans Square</font> to get to Bayou Country.
+8. <font color="53C2BF">5pm - 7pm</font> - **Bayou Country** (must-rides: **Winnie the Pooh**) + **Get Dinner** (Tiana's Palace or Hungry Bear) 
+9. <font color="53C2BF">7pm - 8pm</font> - **Adventureland** - skippable - (must-rides: Jungle Cruise, Enchanted Tiki Room) - this places us very close to the hub/main street for the parade.
+10. <font color="53C2BF">8pm</font> - Find a spot to watch Paint the Night. **8:30pm - Paint the Night parade** main street is the best viewing; paths from it's a small world → matterhorn → main street. Grab treats at **Jolly Holiday**
+11. <font color="53C2BF">9pm - 10pm</font> - Depending on the time, either go home or explore Star Wars area (just look at the things) or Tomorrowland (do Astro Blasters and/or Autopia)
 
 ### 5. Food wish list
 1. Kettle corn or caramel corn (daughter's #1)
