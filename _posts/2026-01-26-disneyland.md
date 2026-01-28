@@ -58,7 +58,7 @@ Example: In this scenario, we've picked a mid-week school day, booked a hotel fo
 
 1. <font color="gray">6:30am</font> - Have the car packed and have a light breakfast at hotel
 2. <font color="gray">7:15am</font> - Drive out to the parking structure, get on tram, get through security
-3. <font color="D6117D">8:00am</font> - Beeline to Peter Pan's Flight and whatever other Fantasyland rides
+3. <font color="D6117D">8:00am</font> - Beeline to Peter Pan's Flight, Alice in Wonderland (the two longest waits) and whatever other Fantasyland rides
 4. <font color="D6117D">9:00am</font> - Plaza Inn reservation for character dining breakfast
 5. <font color="D6117D">10am</font> - 12pm - **Fantasyland** (All the dark rides + Storybook Canal Boats + Casey Jr)
 6. <font color="19B019">12pm - 3pm</font> - **New Orleans Square** (must-rides: Haunted Mansion, Pirates of the Caribbean, Disneyland Railroad) + **Get Lunch** (Cafe Orleans) + **30+ minute nap** + 🚂 Take the train from <font color="red">New Orleans Square</font> to <font color="red">Mickey's Toontown</font>. 
