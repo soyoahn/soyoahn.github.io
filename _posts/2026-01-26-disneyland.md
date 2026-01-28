@@ -11,7 +11,7 @@ tags: idk
 Note: I'm not doing Lighting Pass because we have two small kids who aren't tall enough for most Lighting Pass-eligible rides yet. We're going just for the 1 Day, 1 Park.
 
 ### 1. Pick the date(s)
-As of this writing, park tickets are priced to specific days and you need to reserve the dates at time of purchase. (And actively change the reservation if you need to.) 
+As of this writing, park tickets are priced to specific days and you need to reserve the dates at time of purchase. (And actively change the reservation if you need to later.) 
 
 Always check these sites before booking: 
 * **Discounts**: [https://disneyland.disney.go.com/offers-discounts/](https://disneyland.disney.go.com/offers-discounts/)
@@ -19,7 +19,7 @@ Always check these sites before booking:
   * Fireworks don't happen every day, for example. If a particular event is important, book on a day that has them. 
   * Some nights, the park will close early for After-Hours Special Events.
   * Expand *Closed for Refurbishment* to check what's closed for refurbishment. 
-* **Check Crowds**: these sites are not perfect, but it's more data to look at to help make your decision
+* **Check Crowds**: these sites are not perfect, but it's more data to look at to help you make decisions
   * Is it packed: [https://www.isitpacked.com/disneyland-crowd-forecast-predictor-calendar/](https://www.isitpacked.com/disneyland-crowd-forecast-predictor-calendar/)
 	* Remember though, a day might be less busy because the park has shorter hours that day or lacks certain events.
   * Queue Times: [https://queue-times.com/en-US/parks/16/calendar/](https://queue-times.com/en-US/parks/16/calendar/)
