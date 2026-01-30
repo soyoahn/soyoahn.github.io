@@ -11,6 +11,7 @@ layout: default
 
 2025
 - **Against the Machine by Paul Kingsnorth** <font color="gray">{ he should have leaned on the environmental stuff he knows best. he brought up a lot of other things that weakened his argument and alienates a lot of potential would-be supporters. appreciated the thorough explanation and illustration of enclosure. }</font>
+- **Brave New World by Aldous Huxley ** (re-read) <font color="gray">{ hmm, didn't hold up for me. definitely enjoyed this more in high school than present day }</font>
 - **The Last House on Needless Street by Catriona Ward** <font color="gray">{ book club read, utter pageturner }</font>
 - **Wind in the Willows by Kenneth Grahame** <font color="gray">{ okay I understand Mr. Toad's Wild Ride now }</font>
 - **Master Man by Leo Tolstoy** <font color="gray">(short story)</font>
@@ -56,7 +57,7 @@ layout: default
 
 ## <font color="#038C73">Recipes<font>
 - [Crockpot Butternut Squash Lentil Soup](https://pinchofyum.com/the-best-detox-crockpot-lentil-soup/print/41824) from *Pinch of Yum*
-- [Easy Chewy Brownies](https://handletheheat.com/wprm_print/best-ever-chewy-brownies) from *Handle the Heat*
+- [Easy Chewy Brownies](https://handletheheat.com/wprm_print/best-ever-chewy-brownies) from *Handle the Heat* 
 
 ## <font color="#038C73">To Consume, Recommended By Others</font>
 - [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? 
