@@ -41,6 +41,7 @@ I don't have a hack for this yet.
 * Misc packing list: 
   * Water bottles for everyone
   * Portable sound soother
+  * Snacks (5 small apples, 4 bananas, goldfish, made good granola bites)
   * Wet wipes (for quick cleanup after snacks and meals)
   * Quick dry towel, just in case
   * Change of clothes for the kids, just in case
