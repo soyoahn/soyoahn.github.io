@@ -25,7 +25,7 @@ Always check these sites before booking:
   * Queue Times: [https://queue-times.com/en-US/parks/16/calendar/](https://queue-times.com/en-US/parks/16/calendar/)
   * Thrill Data: [https://www.thrill-data.com/trip-planning/crowd-calendar/disneyland](https://www.thrill-data.com/trip-planning/crowd-calendar/disneyland)
 * *Dining Reservations*: [https://disneyland.disney.go.com/dining/](https://disneyland.disney.go.com/dining/) or the Disneyland app (login required on both)
-  * For example, if you have a must-have dining wish at a sit-down restaurant, you ought to check availability--you can book 60 days in advance (can be cancelled up to 2 hrs or 24 hrs, depending on the place, before the actual reservation at the time of this writing) or book outside that window and set an alarm 60 days out to book your dining.
+  * For example, if you have a must-have dining wish at a sit-down restaurant, you ought to check availability--you can book 60 days in advance (can be cancelled up to 2 hrs or 24 hrs, depending on the place, before the actual reservation at the time of this writing to avoid a $10/pp penalty fee) or book outside that window and set an alarm 60 days out to book your dining.
 * *Weather (?)*: Depending on how far out the date is, I *suppose* you could check the forecast!
 
 ### 2. Book your hotel and whatever other logistics
