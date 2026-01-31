@@ -60,7 +60,7 @@ Example: In this scenario, we've picked a mid-week school day, booked a hotel fo
 2. <font color="gray">7:15am</font> Drive out to the parking structure, get on tram, get through security
 3. <font color="D6117D">8:00am</font> Beeline to Peter Pan's Flight, Alice in Wonderland (the two longest waits) and whatever other Fantasyland rides we can fit (Snow White, Storybook Land Canal Boats, Casey Jr)
 4. <font color="D6117D">9:00am</font> Plaza Inn reservation for character dining breakfast (I wish I'd booked this for 9:30am or 10am instead)
-5. <font color="D6117D">10am - 12pm</font> **Fantasyland** (All the dark rides + Storybook Canal Boats + Casey Jr) **OR** Move onto New Orleans Square if it's too busy or if the kids want to move on
+5. <font color="D6117D">10am - 12pm</font> **Fantasyland** (All the dark rides + Storybook Canal Boats + Casey Jr) **OR** Move onto New Orleans Square if it's too busy or if the kids want to move on (drop by **Jolly Holiday** on the way to Bayou/New Orleans)
 6. <font color="19B019">12pm - 3pm</font> **New Orleans Square** (must-rides: Haunted Mansion, Pirates of the Caribbean, Disneyland Railroad) + **Get Lunch** (Cafe Orleans) + **30+ minute nap** + 🚂 Take the train from <font color="red">New Orleans Square</font> to <font color="red">Mickey's Toontown</font>. 
 7. <font color="19B019">3pm - 5pm</font> **Toontown** (must-rides: Mickey & Minnie's Runaway Railway, visit houses) + 🚂 Take the train from <font color="red">Toontown</font> to <font color="red">New Orleans Square</font> to get to Bayou Country.
 8. <font color="53C2BF">5pm - 7pm</font> **Bayou Country** (must-rides: **Winnie the Pooh**) + **Get Dinner** (Tiana's Palace or Hungry Bear) 
