@@ -11,7 +11,7 @@ layout: default
 
 2025
 - **Against the Machine by Paul Kingsnorth** <font color="gray">{ he should have leaned on the environmental stuff he knows best. he brought up a lot of other things that weakened his argument and alienates a lot of potential would-be supporters. appreciated the thorough explanation and illustration of enclosure. }</font>
-- **Brave New World by Aldous Huxley ** (re-read) <font color="gray">{ hmm, didn't hold up for me. definitely enjoyed this more in high school than present day }</font>
+- **Brave New World by Aldous Huxley** (re-read) <font color="gray">{ hmm, didn't hold up for me. definitely enjoyed this more in high school than present day }</font>
 - **The Last House on Needless Street by Catriona Ward** <font color="gray">{ book club read, utter pageturner }</font>
 - **Wind in the Willows by Kenneth Grahame** <font color="gray">{ okay I understand Mr. Toad's Wild Ride now }</font>
 - **Master Man by Leo Tolstoy** <font color="gray">(short story)</font>
