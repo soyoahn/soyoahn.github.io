@@ -4,7 +4,7 @@ tags: idk
 
 ## 
 
-> 1-day trip to Disneyland 
+> 1-Day Trip to Disneyland 
 > Capturing some notes so I don't forget later. 
 ---
 
@@ -68,6 +68,9 @@ Example: In this scenario, we've picked a mid-week school day, booked a hotel fo
 9. <font color="53C2BF">7pm - 8pm</font> **Adventureland** - skippable - (must-rides: Jungle Cruise, Enchanted Tiki Room) - this places us very close to the hub/main street for the parade.
 10. <font color="53C2BF">8pm</font> Find a spot to watch Paint the Night. **8:30pm - Paint the Night parade** main street is the best viewing; paths from it's a small world → matterhorn → main street. Grab treats at **Jolly Holiday**
 11. <font color="53C2BF">9pm - 10pm</font> Depending on the time, either go home or explore Star Wars area (just look at the things) or Tomorrowland (do Astro Blasters and/or Autopia)
+
+Whenever the kids nap, mom or dad can go check out a single rider line: 
+* [Disneyland - Single Rider](https://disneyland.disney.go.com/attractions/disneyland/#/single-rider-line/sort=location/)
 
 ### 5. Food wish list
 1. Kettle corn or caramel corn (daughter's #1)
