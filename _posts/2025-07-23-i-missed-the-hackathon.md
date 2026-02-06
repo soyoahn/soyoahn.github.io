@@ -32,7 +32,7 @@ What I *hadn't* planned on was that last-minute urge to Do Some Shit™. I didn'
 
 ## 3: I didn't pursue my own project interests
 
-I only looked for projects where I might be useful with my current dayjob's skillset, rather than going for a project I was interested in (or dreaming up and recruiting for my own). 
+I only looked for projects that could use my current job's skillsets, rather than going for a project I was interested in (or dreaming up and recruiting for my own). 
 
 ## 4: Don't be embarrassed to join a group
 
