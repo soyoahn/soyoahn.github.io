@@ -7,39 +7,36 @@ tags: personal
 
 My company hosts an internal hackathon every year. As someone who routinely complains about not having enough autonomy, you'd think I'd be first in line for this. (Last year, I learned how to animate in [Spine](https://esotericsoftware.com/)! [My Pengu animations](/files/fun/apruchnicki-spine-animations.mp4)--the animation is janky... I realized halfway through that I filtered out some key controls, but I love him.)  
 
-Unfortunately, the project I signed up for this year fell through, so I didn't participate much. But I could have. And this blog post chronicles why I didn't, so I can remember what to do for the next one. 
+Unfortunately, the project I signed up for this year fell through, so I didn't participate much. But I could have. 
 
-## Failure 1: I didn't set up a project intro call 
+This blog post chronicles **what went wrong**, so I can remember what to do for the next one. 
 
-I should've set up an intro call to learn what the developer's goals and intents were for the project. Originally I learned that docs would be needed and we had some basic goals and design ideas. Sometimes what's conveyed in a DM isn't the same energy as what's conveyed in person, and a kickoff meeting is absolutely needed to determine someone's general sentiment about a project. 
 
-The project was canceled without a heads up, and that wasn't a total surprise. 
+## 1: There was no project intro call 
+
+A kickoff meeting is always needed to gauge someone's general sentiment about a project. If someone isn't setting up, be the person to set it up. 
+
+Hackathons aren't real life; if you accidentally overstep, it's not a big deal.
+
+I did make a page that outlined the thing we hoped to do:
 
 ![notion page for our project](/img/posts/2025/apruchnicki-failed-hackathon.png "*Made a notion page for the project with a small db of reference for the thing we hoped to do.*")
 
-## Failure 2: I didn't prepare contingency plans
+## 2. No contingency plans
 
-This was the most heinous failing. 
+I planned on not really feeling the hackathon this year and predicted that I'd only want to contribute docs. 
 
-I planned on not really feeling the hackathon this year and that I'd only want to contribute docs. 
+What I *hadn't* planned on was that last-minute urge to Do Some Shit™. I didn't keep tabs on backup projects. 
 
-What I *hadn't* planned on was that last-minute urge to Do Some Shit(tm). I didn't keep tabs on backup projects. 
+## 3: I didn't pursue my own project interests
 
-Life *was* pretty crazy though (car wreck and our whole family was sick just a couple weeks ago), so I'm not going to to be too hard on myself for this one.
+I only looked for projects where I might be useful with my current dayjob's skillset, rather than going for a project I was interested in (or dreaming up and recruiting for my own). 
 
-## Failure 3: I didn't pursue my own project interests
+## 4: Don't be embarrassed to join a group
 
-<font color="#BF416F"><strong>Edit:</strong> My ideas were kind of terrible, I removed them. 😅</font>
+On Hackathon Day One, shortly after finding out that my original project was dead, I heard about a different one that really excited me, but I worried about joining last minute and being dead weight. 
 
-Maybe hackathon isn't for me because I'm just not a designer, artist, narrative person, or coder. Come to think of it, I can't really do anything. 
-
-I'd better get good at something. Maybe this is why I'm so depressed. Once upon a time, it was useful to be a good understander and interpreter of things. That's just not a valued skill by itself anymore, in this economy.
-
-## Failure 4: Don't be embarrassed to join a group
-
-On Day 1, shortly after finding out thay my original project was dead, I heard about a project that really excited me, but I worried about joining last minute and being dead weight. **I cannot tell you the weight of my regret.** That's all. Absolute missed opportunity to learn so much that I've been curious about. Or maybe not--maybe there were no convos happening in the physical room and it was all in DMs like a lot of work is done these days? I guess I'll have to ask around and see exactly what I missed out on so I can learn the mistake more deeply for next time.  
-
-<font color="#BF416F"><strong>Edit:</strong> I think I would've just been dead weight. And that's okay--perhaps the hackathon is simply not for me. No need to feel embarrassed.</font>
+Takeaway: Don't act weird, don't make people feel like they need to manage your feelings. Just join if you really want to and look for ways to remove friction. 
 
 ## ✨ Lessons Learned and Checklist for Next Year
 1. **Only pitch ideas that I can actually help implement**. It *is* a hackathon, after all; not a document-a-thon. 
