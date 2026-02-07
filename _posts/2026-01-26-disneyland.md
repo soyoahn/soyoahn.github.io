@@ -1,5 +1,5 @@
 ---
-tags: idk
+tags: personal
 ---
 
 ## 1-Day Trip to Disneyland 
