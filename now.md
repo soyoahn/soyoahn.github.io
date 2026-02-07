@@ -5,12 +5,8 @@ layout: default
 
 # What's Now
 
-So tired. And so sick of coughing. 
-
-## Work
-- Perhaps nothing will ever beat pre-Covid era. Need to adapt to whatever the current thing is.
-
-## Personal
+## Daily Life
+- Coughing constantly
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler -- saving for when I have more capacity for depression
