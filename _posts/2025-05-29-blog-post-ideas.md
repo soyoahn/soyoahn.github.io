@@ -17,6 +17,7 @@ Musings about this wild craft.
 * A few recipes (my visual method)
 * Why you need a technical writer who cares about the whole information experience (example: docs migration - updating systems outside of docs system with updated links) 
 * My checklist before taking on any other job. [Started here: [Job Interview Questions](../../06/06/job-interview-questions.html)]
+* Content reuse in Confluence vs Notion (my synced blocks soapbox)
 * Just a long post/rant explaining that it is partly your job as a tech writer to *get your docs read*. If they're not being read, you should reconsider the content and how you're presenting the info. (You probably aren't winning the cost/reward tradeoff for your users.)
 
 ### My Game Dev Journey 
@@ -24,7 +25,7 @@ Answers to common questions so I can just share a link.
 * How I got here, how I moved to multiplayer production (spoiler: luck, probably)
 * Why I left a dream job
 * Why I love doing internal technical writing in games and how I think it's different from other tech writing (or should be)
-
+* How technical writing bolstered my prod work
 
 ### Motherhood
 Hey, it's a huge part of who I am now. How could I _not_ write about it?
