@@ -18,14 +18,15 @@ layout: default
 - **The Death of Ivan Ilyich by Leo Tolstoy** <font color="gray">(novella)</font>
 - **Ubik by Philip K. Dick** <font color="gray">{ re-read... still kind of confusing and not sure whether any of it makes sense. }</font>
 - **Barefoot Gen (#1) by Keiji Nakazawa** <font color="gray">{ a harrowing comic book written by an artist-survivor of Hiroshima }</font>
-- **Of Mice and Men by John Steinbeck** <font color="gray">{ what perfect writing. this one was harrowing too. }</font>
+- **Of Mice and Men by John Steinbeck** <font color="gray">(novella) { what perfect writing. this one was harrowing too. }</font>
 - **A Canticle for Leibowitz by Walter M. Miller Jr.** <font color="gray">{ more impactful when you learn the author's bio }</font>
-- **The Metamorphosis by Franz Kafka** <font color="gray">{ This was required reading in high school but I didn't understand it then. Is it possible to understand it without having lived enough number of years and without having witnessed a fair share of personal tragedies? }</font>
-- **The Stranger by Albert Camus** <font color="gray">{ Dreadful. What did I just read? Like King Lear's Cordelia--Meursault cannot realize that he lives in a society. A cautionary tale for an increasing number of people in this terribly alienating mask of a society we live in now. }</font>
+- **The Metamorphosis by Franz Kafka** <font color="gray">(novella) { This was required reading in high school but I didn't understand it then. Is it possible to understand it without having lived enough number of years and without having witnessed a fair share of personal tragedies? }</font>
+- **The Stranger by Albert Camus** <font color="gray">(novella) { Dreadful. What did I just read? Sadly, I know someone like this. }</font>
 - **Animal Farm by George Orwell** (re-read) <font color="gray">{ Everyone should revisit this book. }</font>
 - **Parable of the Sower (#1 Earthseed) by Octavia Butler** <font color="gray">{ Loved Lauren.This book gives me nightmares. Too prophetic. }</font>
 - **Gideon the Ninth (#1 The Locked Tomb) by Tamsyn Muir** <font color="gray">{ Book club read. So funny. Absolutely loved it! Almost gave up, but it gets good ~60% in. }</font>
 - **User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play by Cliff Kuang and Robert Fabricant** <font color="gray">{ A must-read for everyone living in the world today to become “informed, critical consumers of design.” }</font>
+- **Bartleby, the Scrivener by Herman Melville** <font color="gray">(short story) This put me on an absurdism kick. One of my favorite reads of the year.</font>
 - **Dawn by Octavia Butler** <font color="gray">{ Book club read. It wasn't for me }</font>
 - **Pride and Prejudice by Jane Austin** <font color="gray">{ The most appealing thing about Darcy and Elizabeth is their desire for true companionship in one another--of whom they can endlessly learn and grow with. They complete each other and mutually broaden the other's perspectives and horizons (the movies tend to only show Lizzie bettering Darcy, but the book makes clear that Lizzie's super excited about the knowledge and thinking Darcy can share with her). Everyone should strive for this type of happiness. }</font>
 - **Talking As Fast As I Can (via audiobook read by Lauren Graham)** <font color="gray">{ Surprisingly resonant chapter about concern for a distraction-addicted world. I didn't think I'd like this but this book made me a huge fan of Lauren Graham. }</font>
@@ -55,9 +56,9 @@ layout: default
 - Vasquez Rocks is a regular haunt
 - Sequoia National Park is not so far but still pretty far
 
-## <font color="#038C73">Recipes<font>
-- [Crockpot Butternut Squash Lentil Soup](https://pinchofyum.com/the-best-detox-crockpot-lentil-soup/print/41824) from *Pinch of Yum*
-- [Easy Chewy Brownies](https://handletheheat.com/wprm_print/best-ever-chewy-brownies) from *Handle the Heat* 
+## <font color="#038C73">Some Favorite Recipes<font>
+- [Chewy Brownies](https://handletheheat.com/chewy-brownies/) from *Handle the Heat* - Best brownie recipes I've tried yet, but I'm still looking. I thought I craved a chewy brownie, but perhaps fudgey is the type I want? 
+- [Maple-Sweetened Banana Muffins](https://cookieandkate.com/healthy-banana-muffins-recipe/) from *Cookie and Kate* - I love several of her recipes! 
 
 ## <font color="#038C73">To Consume, Recommended By Others</font>
 - [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? 
