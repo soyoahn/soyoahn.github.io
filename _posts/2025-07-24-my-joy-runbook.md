@@ -2,7 +2,7 @@
 tags: personal
 ---
 
-# My Joy Runbook
+# A Joy Runbook
 ---
 
 A place to collect inspiration, advice, and ideas to set me back on a good path when I've fallen into a funk.
