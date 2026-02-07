@@ -2,13 +2,13 @@
 tags: personal
 ---
 
-## 1-Day Trip to Disneyland 
+## Disneyland (1 day, 1 park)
 
 > Capturing some notes so I don't forget later. 
 
 ---
 
-Note: We're not doing the Lighting Pass because we have two small kids who aren't tall enough for most Lighting Pass-eligible rides yet. We're going just for the 1 Day, 1 Park.
+Note: We're not doing Lighting Passes because we have two small kids who aren't tall enough for most Lighting Pass-eligible rides yet. 
 
 ### <font color="#BF59F4">1. Pick the date(s)</font>
 As of this writing, park tickets are priced to specific days and you need to reserve the dates at time of purchase. (And actively change the reservation if you need to later.) 
