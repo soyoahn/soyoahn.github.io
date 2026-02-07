@@ -5,6 +5,7 @@ tags: idk
 ## 1-Day Trip to Disneyland 
 
 > Capturing some notes so I don't forget later. 
+
 ---
 
 Note: We're not doing the Lighting Pass because we have two small kids who aren't tall enough for most Lighting Pass-eligible rides yet. We're going just for the 1 Day, 1 Park.
