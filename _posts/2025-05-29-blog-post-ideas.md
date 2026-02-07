@@ -25,7 +25,7 @@ Answers to common questions so I can just share a link.
 * How I got here, how I moved to multiplayer production (spoiler: luck, probably)
 * Why I left a dream job
 * Why I love doing internal technical writing in games and how I think it's different from other tech writing (or should be)
-
+* How technical writing bolstered my prod work
 
 ### Motherhood
 Hey, it's a huge part of who I am now. How could I _not_ write about it?
