@@ -1,5 +1,5 @@
 ---
-tags: idk
+tags: slice-of-life
 ---
 
 ## Blue Crayon Note
