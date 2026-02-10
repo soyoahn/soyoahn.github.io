@@ -2,7 +2,7 @@
 tags: metablog
 ---
 
-## Backlog
+## Backlog of blog post ideas
 
 > 🤔 I've noticed a trend... I always start a new blog when I'm trying to reach out and connect to the world. 
 > Once I'm feeling connected or whatever, I abandon the blog. 
@@ -13,8 +13,6 @@ tags: metablog
 Musings about this wild craft.
 * Internal Style Guide: I'd like to share my quickest version of a contributor's guide. And the reasoning behind why mine is a quick one pager.
 * Docs requested by the reader (just send me an email request or a comment and I'll try to make it happen). The only downside to internal docs writing is that it's hard to generate shareable professional samples for future jobs. 
-* Since I get asked all the time: What I think about AI (spoiler: Please don't use it to outsource any of your thinking. Your neuroplastic brain will adapt to all your cut corners and it won't be pretty.) 
-* A few recipes (my visual method)
 * Why you need a technical writer who cares about the whole information experience (example: docs migration - updating systems outside of docs system with updated links) 
 * My checklist before taking on any other job. [Started here: [Job Interview Questions](../../06/06/job-interview-questions.html)]
 * Content reuse in Confluence vs Notion (my synced blocks soapbox)
@@ -39,6 +37,7 @@ If I can share whatever docs I'm writing for myself, I'll just share it here.
 * Touring preschools for choice programs
 * Other parenthood stuff like our potty training playbook 
 * The bullet list of parenting philosophy (spoiler: let kids experience boredom, help them reach out of their comfort zones, remember they are so little and our crazy schedules are incomprehensible to them--allot 15 extra minutes between everything so you can give them 5min to explore that weird bug on the sidewalk)
+* A few baking recipes (my visual method)
 * Backgammon setup and quick reference
 * Gin Rummy quick reminder
 * How I'd Build My Dream Community (If I Would Accept Just A Tiny Bit Of Social Discomfort To Reap Theoretical Benefits)
