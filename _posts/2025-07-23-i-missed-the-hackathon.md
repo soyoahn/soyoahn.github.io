@@ -38,7 +38,7 @@ I only looked for projects that could use my current job's skillsets, rather tha
 
 On Hackathon Day One, shortly after finding out that my original project was dead, I heard about a different one that really excited me, but I worried about joining last minute and being dead weight. 
 
-Takeaway: Don't act weird, don't make people feel like they need to manage your feelings. Just join if you really want to and look for ways to remove friction. 
+Next time: Don't act weird, don't make people feel like they need to manage your feelings. Just join if you really want to and look for ways to remove friction. 
 
 ## ✨ Lessons Learned and Checklist for Next Year
 1. **Only pitch ideas that I can actually help implement**. It *is* a hackathon, after all; not a document-a-thon. 
