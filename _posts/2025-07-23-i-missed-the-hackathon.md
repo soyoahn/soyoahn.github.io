@@ -16,7 +16,7 @@ This blog post chronicles **what went wrong**, so I can remember what to do for 
 
 A kickoff meeting is always needed to gauge someone's general sentiment about a project. 
 
-If someone isn't setting it up, be the person to set it up. 
+Next time: If someone isn't setting it up, be the person to set it up. 
 
 Hackathons aren't real life; if you accidentally overstep, it's not a big deal.
 
