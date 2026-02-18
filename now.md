@@ -7,8 +7,9 @@ layout: default
 
 ## Daily Life
 - Coughing
-- Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
+- Reading Wuthering Heights by Emily Bronte for bookclub
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
+- Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler
 - Trying to do fulfilling personal projects--trying to gain some kind of identity outside of work
 - <s>Learning some American Sign Language with the Lingvano app</s>
