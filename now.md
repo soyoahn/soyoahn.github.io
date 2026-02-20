@@ -7,7 +7,7 @@ layout: default
 
 ## Daily Life
 - Coughing
-- Reading Wuthering Heights by Emily Bronte for bookclub
+- Reading Wuthering Heights by Emily Bronte for book club
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler
@@ -15,7 +15,7 @@ layout: default
 - <s>Learning some American Sign Language with the Lingvano app</s>
 
 ## Social Things I'm Doing
-- [Music League](https://musicleague.com/) with a friend's group of friends, round 3
+- [Music League](https://musicleague.com/) with a friend's group of friends, round 4
 - Book club at work
 - <s>Korean speaking practice group at work</s>
 - <s>School's back, so lots of time with other parents and our littles</s>
@@ -33,4 +33,4 @@ layout: default
 ---
 
 What's a **now** page?: [https://nownownow.com/](https://nownownow.com/). <br>I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
-Last updated December 20, 2025. 
+Last updated February 19, 2026. 
