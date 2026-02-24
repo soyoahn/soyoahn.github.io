@@ -28,10 +28,10 @@ Always check these sites before booking:
   * For example, if you have a must-have dining wish at a sit-down restaurant, you ought to check availability--you can book 60 days in advance (can be cancelled up to 2 hrs or 24 hrs, depending on the place, before the actual reservation at the time of this writing to avoid a $10/pp penalty fee) or book outside that window and set an alarm 60 days out to book your dining.
 * *Weather (?)*: Depending on how far out the date is, I *suppose* you could check the forecast!
 
-### 2. <font color="#FF5003">Book your hotel and whatever other logistics</font>
+### <font color="#FF5003">2. Book your hotel and whatever other logistics</font>
 I don't have a hack for this yet.
 
-### 3. <font color="#FC9020">Small kids stuff</font>
+### <font color="#FC9020">3. Small kids stuff</font>
 * Stroller size restrictions - [https://disneyland.disney.go.com/faq/parks/strollers/](https://disneyland.disney.go.com/faq/parks/strollers/)
 * Pack for rain (stroller rain cover, rain coats, rain boots) or sun (sunscreen, hats, sunglasses, fan), depending on the weather
 * Nights can get *cold* - pack a warm layer
@@ -48,7 +48,7 @@ I don't have a hack for this yet.
   * Power bank(s)
   * For the car: Toothbrushes, toothpaste, PJs
 
-### 4. <font color="#853DEE">Plan a brief itinerary</font>
+### <font color="#853DEE">4. Plan a brief itinerary</font>
 Example: In this scenario, we've picked a mid-week school day, booked a hotel for the night before the big day, and plan to drive home afterwards.
 
 ✅ Check ride heights in advance for kiddos. <br>
@@ -72,7 +72,7 @@ Example: In this scenario, we've picked a mid-week school day, booked a hotel fo
 Whenever the kids nap, mom or dad can go check out a single rider line: 
 * [Disneyland - Single Rider](https://disneyland.disney.go.com/attractions/disneyland/#/single-rider-line/sort=location/)
 
-### 5. <font color="#7D5BEA">Food wish list</font>
+### <font color="#7D5BEA">5. Food wish list</font>
 1. Kettle corn or caramel corn (daughter's #1)
 2. Jolly Holiday treats + grilled cheese w/tomato soup
 3. Little Red Wagon corn dog
