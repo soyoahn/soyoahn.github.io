@@ -2,7 +2,7 @@
 tags: personal
 ---
 
-## Disneyland (1 day, 1 park)
+## Disneyland with toddlers (1 day, 1 park)
 
 > Capturing some notes so I don't forget later. 
 

@@ -57,7 +57,7 @@ layout: default
 - Sequoia National Park is not so far but still pretty far
 
 ## <font color="#038C73">Some Favorite Recipes<font>
-- [Chewy Brownies](https://handletheheat.com/chewy-brownies/) from *Handle the Heat* - Best brownie recipes I've tried yet, but I'm still looking. I thought I craved a chewy brownie, but perhaps fudgey is the type I want? 
+- [Chewy Brownies](https://handletheheat.com/chewy-brownies/) from *Handle the Heat* - Best brownie recipe I've tried yet, but I'm still looking. I thought I craved a chewy brownie, but perhaps fudgey is the type I want? 
 - [Maple-Sweetened Banana Muffins](https://cookieandkate.com/healthy-banana-muffins-recipe/) from *Cookie and Kate* - I love several of her recipes! 
 
 ## <font color="#038C73">To Consume, Recommended By Others</font>
