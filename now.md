@@ -6,7 +6,6 @@ layout: default
 # What's Now
 
 ## Daily Life
-- Coughing
 - Reading Wuthering Heights by Emily Bronte for book club
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
