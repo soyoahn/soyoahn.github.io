@@ -1,7 +1,3 @@
----
-layout: default
-title: Gallery
----
 <div class="gallery">
   {% for item in site.data.gallery %}
     {% include gallery-item.html
@@ -11,5 +7,3 @@ title: Gallery
     %}
   {% endfor %}
 </div>
-
----
