@@ -6,6 +6,7 @@ layout: default
 # What's Now
 
 ## Daily Life
+- Crossing my fingers for various kindergarten admissions stuff and lotteries for the 2026-27 school year. 
 - Reading Wuthering Heights by Emily Bronte for book club
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
@@ -22,6 +23,7 @@ layout: default
 
 ## This Site
 - Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
+- Need to add my UI string samples somehow. I think I lost the ones from IBM (it was probably too long ago anyway), but the rest of my samples are from internal, homegrown software. 🤔
 
 ## What's On My Mind Lately
 - Enclosure of the human right to use one's brain. 
@@ -31,5 +33,5 @@ layout: default
 
 ---
 
-What's a **now** page?: [https://nownownow.com/](https://nownownow.com/). <br>I love this--it feels like the first entry in a Dungeon Anarchist Cookbook. 
-Last updated February 19, 2026. 
+What's a **now** page?: [https://nownownow.com/](https://nownownow.com/). <br>
+Last updated March 13, 2026. 
