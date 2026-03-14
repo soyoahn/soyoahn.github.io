@@ -1,16 +1,25 @@
----
-layout: default
-title: Gallery
----
 {%- assign iwdocs = site.data.iwdocs -%}
-<div class="iwdocs">
-  {% for item in site.data.iwdocs %}
-    {% include iwdocs-item.html
-      image=item.image
-      title=item.title
-      description=item.description
-    %}
-  {% endfor %}
-</div>
 
----
+# <font color="#D9593D">Game Artist and Designer-Facing Docs</font>
+
+I had to pick some innocuous examples from Infinity Ward since all of this work was internal, on homegrown studio tools.
+
+**Forward wrapping UV mapping to brush faces**
+![Screenshot snippet of a hotkey workflow](files/writingsamples/forward-wrapping-uv-mapping-to-brush-faces.jpg)
+Technically, the hotkey to forward wrap the UV mapping was just Alt + Middle Click. However, it was far more useful to show the entire flow for context. I set up these examples and considered the best ways to annotate the screenshots.
+
+**Adding to a spline of targeted entities**
+![Screenshot snippet of a hotkey workflow](files/writingsamples/add-ent-along-spline.jpg)
+A visual doc for level designers. I set up the examples and considered the best ways to indicate usage clues through the annotations.
+
+**Iterating on images in a textureset**
+![Screenshot snippet of simple workflow](files/writingsamples/iterating-on-images.jpg)
+This is a typical example of how I kept documentation very visual for my artist audience. I decided which asset and edit example to use, to illustrate this clearly and simply.
+
+**Measuring tool (Rule tool) **
+![Screenshot snippet of simple workflow](writingsamples/measuring-tool.jpg)
+This is a typical example of how I kept documentation very visual and intuitive for my audience. 
+
+**Increasing subdivisions on patches**
+![Screenshot snippet of simple workflow](writingsamples/patches-increase-subdivisions.jpg)
+This was a snippet of a page where I put used the Confluence "include" macro to include every hotkey and quick, repetitive workflow on a single page that could be Ctrl+F searched. Walking around the studio, this page could be frequently sighted--opened and off to half of a screen at designers' and environment artists' computers. 
