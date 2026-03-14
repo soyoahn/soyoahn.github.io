@@ -33,7 +33,7 @@ layout: default
 - **Talking As Fast As I Can (via audiobook read by Lauren Graham)** <font color="gray">{ Surprisingly resonant chapter about concern for a distraction-addicted world. I didn't think I'd like this but this book made me a huge fan of Lauren Graham. }</font>
 - **The Third Gilmore Girl (via audiobook read by Kelly Bishop)** <font color="gray">{ I'm currently a sucker for these show business-related commute reads }</font>
 - **This Inevitable Ruin (Dungeon Crawler Carl #7) by Matt Dinneman (via audiobook narrated by Jeff Hays)** <font color="gray">{ Lots of things had to happen to get here and it didn't disappoint. }</font>
-- **The Lord of the Rings by J.R.R. Tolkien** <font color="gray">{ Finally read this and loved it. Reading it actually made me appreciate the films and screenplay even more. } </font>
+- **The Lord of the Rings by J.R.R. Tolkien** <font color="gray">{ Finally read this and loved it. Reading it actually made me appreciate the films and screenplays even more. } </font>
 
 2024
 - **Mort by Terry Pratchett** <font color="gray">{ It has its moments, but generally whatever. }</font>
