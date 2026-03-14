@@ -23,7 +23,7 @@ layout: default
 
 ## This Site
 - Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
-- Need to add my UI string samples somehow. I think I lost the ones from IBM (it was probably too long ago anyway), but the rest of my samples are from internal, homegrown software. 🤔
+- Need to add my UI string samples somehow. I think I lost the ones from IBM (it was probably too long ago anyway), but the rest of my samples are from internal, homegrown software and I forgot to take screenshots before I left those companies. 🤔
 
 ## What's On My Mind Lately
 - Enclosure of the human right to use one's brain. 
