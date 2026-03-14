@@ -29,7 +29,7 @@ Always check these sites before booking:
 * *Weather (?)*: Depending on how far out the date is, I *suppose* you could check the forecast!
 
 ### <font color="#FF5003">2. Book your hotel and whatever other logistics</font>
-I don't have a hack for this yet.
+Book a hotel that's as close to the parks as possible. 
 
 ### <font color="#FC9020">3. Small kids stuff</font>
 * Stroller size restrictions - [https://disneyland.disney.go.com/faq/parks/strollers/](https://disneyland.disney.go.com/faq/parks/strollers/)
