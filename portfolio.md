@@ -2,7 +2,7 @@
 title: Portfolio
 layout: default
 ---
-{%- include iw-docs.html -%}
+{%- include gallery.md -%}
 
 {%- include casestudies.html -%}
 
