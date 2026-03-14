@@ -1,0 +1,19 @@
+- title: Forward wrapping UV mapping to brush faces
+  image: ../../files/writingsamples/forward-wrapping-uv-mapping-to-brush-faces.jpg
+  description: Technically, the hotkey to forward wrap the UV mapping was just Alt + Middle Click. However, it was far more useful to show the entire flow for context. I set up these examples and considered the best ways to annotate the screenshots.
+
+- title: Adding to a spline of targeted entities
+  image: ../../files/writingsamples/add-ent-along-spline.jpg
+  description: A visual doc for level designers. I set up the examples and considered the best ways to indicate usage clues through the annotations.
+
+- title: Iterating on images in a textureset
+  image: ../../files/writingsamples/iterating-on-images.jpg
+  description: This is a typical example of how I kept documentation very visual for my artist audience. I decided which asset and edit example to use, to illustrate this clearly and simply.
+  
+- title: Measuring tool (Rule tool) 
+  image: ../../files/writingsamples/measuring-tool.jpg
+  description: This is a typical example of how I kept documentation very visual and intuitive for my audience. 
+  
+- title: Increasing subdivisions on patches
+  image: ../../files/writingsamples/patches-increase-subdivisions.jpg
+  description: This was a snippet of a page where I put used the Confluence "include" macro to include every hotkey and quick, repetitive workflow on a single page that could be Ctrl+F searched. Walking around the studio, this page could be frequently sighted--opened and off to half of a screen at designers' and environment artists' computers. 
