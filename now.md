@@ -19,7 +19,7 @@ layout: default
 - Book club at work
 - <s>Korean speaking practice group at work</s>
 - <s>School's back, so lots of time with other parents and our littles</s>
-- Going into the office more--nice to see people and get some audiobook time.
+- Going into the office more--nice to see people and get some audiobook time on the commute.
 
 ## This Site
 - Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
