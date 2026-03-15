@@ -2,6 +2,8 @@
 title: Portfolio
 layout: default
 ---
+{%- include aboutportfolio.html -%}
+
 {%- include fakeapidocs.html -%}
 
 {%- include iwdocs.html -%}
