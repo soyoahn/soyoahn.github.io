@@ -2,6 +2,8 @@
 title: Portfolio
 layout: default
 ---
+{%- include fakeapidocs.html -%}
+
 {%- include iwdocs.html -%}
 
 {%- include casestudies.html -%}
