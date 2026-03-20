@@ -1,0 +1,5 @@
+{%- assign playersupportarticles = site.data.playersupportarticles -%}
+
+# <font color="black">Player Support Articles</font> {#playersupportarticles}
+
+[Samples from various articles, in a PDF](files/apruchnicki-riotgamesplayersupportarticles.pdf)
