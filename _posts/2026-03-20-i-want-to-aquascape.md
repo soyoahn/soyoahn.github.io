@@ -30,7 +30,7 @@ Welp, I'm five months into my third pregnancy and this *insane* urge to start an
 
 I'm watching a lot of [MD Fish Tanks](https://www.youtube.com/watch?v=d1Uwr0lK9pc) and [The Small Scape](https://www.youtube.com/watch?v=VxqfdC5vk5Q), but I need to just sit down and plan my aquarium. 
 
-I know I want to attempt a no-water-change aquarium. 
+I know I want to attempt a no-water-change ecosystem tank this time. 
 Maybe I'll fill in the details on this blog post over time: 
 
 ✅ **What to get:**
