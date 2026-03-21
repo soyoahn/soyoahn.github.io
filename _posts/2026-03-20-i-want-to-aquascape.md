@@ -13,10 +13,12 @@ After the baby came, I let the tank fester totally untouched for half a year… 
 People always tell you about how great snails are for controlling algae, but they never tell you about the mountain of waste they produce. 
 
 **What went wrong**
+
 My tank deteriorated rather quickly:
-* I wasn't ready for how much waste the snail produced. 
+* I wasn't ready for how much waste the snail produced
 * I didn't have the right substrate
 * I think my tap water wasn't great
+* The filter's current was too strong for the Betta, causing it stress
 * Not sure if it's a thing, but I think the driftwood I used was leeching too much tannins into the water? 
 
 ![A 5-gallon, lightly planted aquarium with a nice betta fish.](/img/posts/2026/betta.jpg)<br>
