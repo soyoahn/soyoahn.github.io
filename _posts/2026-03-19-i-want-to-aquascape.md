@@ -20,7 +20,7 @@ My tank deteriorated rather quickly:
 * Not sure if it's a thing, but I think the driftwood I used was leeching too much tannins into the water? 
 
 ![A 5-gallon, lightly planted aquarium with a nice betta fish.](/img/posts/2026/betta.jpg)<br>
-RIP Yallow. (Our 2.5-year-old named him.)
+RIP Yallow
 
 ## It's that time again
 
