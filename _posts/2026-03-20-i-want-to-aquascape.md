@@ -8,7 +8,7 @@ When I was around six months pregnant with my second kid, I came down with an ob
 
 Fast forward three months later, a literal *week* before my due date, we were moving and... because the tank was so nicely cycled, I wanted to bring some of the water with us. So my husband carried the one-third full tank on his lap while I drove us a few miles up the road to our new place. (One-third full and *still* a lot of water sloshed out during that drive--go figure! 🙈 Who could've foreseen.)
 
-After the baby came, I let the tank fester totally untouched for half a year… cleaned it, got more plants, a Betta fish, and... a Nerite snail . 
+After the baby came, I let the tank fester totally untouched for half a year… cleaned it, got more plants, a Betta fish, and... a Nerite snail.
 
 People always tell you about how great snails are for controlling algae, but they never tell you about the mountain of waste they produce. 
 
