@@ -12,7 +12,7 @@ Unfortunately, the project I signed up for this year fell through, so I didn't p
 This blog post chronicles **what went wrong**, so I can remember what to do for the next one. 
 
 
-## 1: There was no project intro call 
+## 1: No kickoff
 
 A kickoff meeting is always needed to gauge someone's general sentiment about a project. 
 
