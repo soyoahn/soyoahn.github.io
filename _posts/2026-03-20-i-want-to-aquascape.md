@@ -45,8 +45,7 @@ Maybe I'll fill in the details on this blog post over time:
 * What type of fish and how many? 6 Rasbora?
 
 🚫 **What to avoid:**
-* Planted plants?
-* Floating plants? No duckweed!
+* Plants to avoid: Duckweed
 * Fish?
 
 Betta fish are supposed to be easy, but I don't think it was the right fish for me. I hate the idea of a solitary fish (hence the snail) and would rather have a small group of chill fish that all get along.
