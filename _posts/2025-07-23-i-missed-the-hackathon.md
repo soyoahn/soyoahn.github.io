@@ -12,7 +12,7 @@ Unfortunately, the project I signed up for this year fell through, so I didn't p
 This blog post chronicles **what went wrong**, so I can remember what to do for the next one. 
 
 
-## 1: There was no project intro call 
+## 1: No kickoff
 
 A kickoff meeting is always needed to gauge someone's general sentiment about a project. 
 
@@ -34,7 +34,7 @@ What I *hadn't* planned on was that last-minute urge to Do Some Shit™. I didn'
 
 I only looked for projects that could use my current job's skillsets, rather than going for a project I was deeply interested in (or dreaming up and recruiting for my own). 
 
-## 4: Don't be embarrassed to join a group
+## 4: Was timid about joining a group late
 
 On Hackathon Day One, shortly after finding out that my original project was dead, I heard about a different one that really excited me, but I worried about joining last minute and being dead weight. 
 
