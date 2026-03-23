@@ -14,8 +14,6 @@ This was that week!
 * [x] [Move our son to his own bed!](#room)
 * [x] [Get more outdoor plants](#plants)
 * [x] [Brush up on UX and Content Design](#ux)
-* [x] [Set up my SFV Vanpool proposal](#vanpool)
-* [ ] [Shop for a new car](#car)
 
 
 ## Move our son to his own bed! {#room}
@@ -66,22 +64,6 @@ I need to say more about this book later, but I'll jot down a few notes now from
 - *("Is this an Asana ad?")* The Asana segment was a little jarring to me.
 - Overall, I think this book is a wonderful love letter to every person who is drawn to UX for its deeply rewarding insight and empathy puzzles.
 - It felt a little surreal reading the Afterward; some of the sentences uttered were ones I've said verbatim at work countless times--I think if I shared it with certain coworkers they'd still somehow miss the advice to start with specific users before all else.
-
-## Set up my SFV Vanpool proposal {#vanpool}
-I enjoy going into office, but it's been rough on our cars. The company I work for offers a vanpool program. I need enough coworkers to fill up the vanpool's **3 days per week with a passenger present each day** requirement to get this off the ground. Wish me luck! 🍀 
-![Preview of my vanpool proposal](/img/posts/2025/vanpool.png)
-
-
-## Shop for a new car {#car}
-So, the Tuesday before break was Take-Your-Kid-To-Work Day (a half-day affair complete with breakfast, lunch, ice cream, music, dancing, crafts, and activities for the kids). 
-
-We came home around 2pm and I took a meeting from my desk at home while my husband took the kids to the grocery store. On the way, a Range Rover ran a red light and... I mean, almost t-boned the tiny Ford C-Max holding my whole family in it. Everyone came out relatively unscathed, thankfully, but the car was a total loss. 
-
-Witnesses emerged to offer their testimony (which was great because we didn't own a dash cam), but the investigation took two weeks and we only got word yesterday (4th of July, the Friday before I return to work) that we were officially deemed not at fault by the insurance company. 
-
-We should've taken the opportunity to test drive and shop for cars this week (with the kids in school and all), but car stuff has officially exhausted us. I was rear-ended (at a long-standing red light!) back in February and shelled out more money than I should have to pay the Damage Waiver on the insurance-provided rental while my car got repaired. Then only a couple months later, we had to replace the tires and I told my husband to "buy the expensive ones" because this was my commuter car and our family car. 
-
-All of that to say, we are not looking forward to car shopping in the slightest. 😔
 
 ## Impromptu stuff
 * Whole family went to see Elio. I loved it, cried a lot, and appreciated its beautiful moments.
