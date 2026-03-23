@@ -1,5 +1,5 @@
 ---
-tags: personal
+tags: slice-of-life
 ---
 
 # What I did during the company Mid-Year Break
