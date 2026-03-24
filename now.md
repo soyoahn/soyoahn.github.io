@@ -7,7 +7,6 @@ layout: default
 
 ## Daily Life
 - Crossing my fingers for various kindergarten admissions stuff and lotteries for the 2026-27 school year. 
-- Reading Wuthering Heights by Emily Bronte for book club
 - Reading 🩻 Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir 
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler
