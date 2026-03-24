@@ -11,6 +11,7 @@ layout: default
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler
 - Trying to do fulfilling personal projects--trying to gain some kind of identity outside of work
+- Trying to get back into writing poetry on a daily or weekly basis
 - <s>Learning some American Sign Language with the Lingvano app</s>
 
 ## Social Things I'm Doing
