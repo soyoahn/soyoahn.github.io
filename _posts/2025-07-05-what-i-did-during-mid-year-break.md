@@ -63,7 +63,7 @@ I need to say more about this book later, but I'll jot down a few notes now from
 - A must-read for everyone living in the world today to become "informed, critical consumers of design." The book provides beautifully curated design anecdotes and histories, and in doing so--I think--gives a comprehensive, root-cause analytical summary for future generations to strive for better. 
 - *("Is this an Asana ad?")* The Asana segment was a little jarring to me.
 - Overall, I think this book is a wonderful love letter to every person who is drawn to UX for its deeply rewarding insight and empathy puzzles.
-- It felt a little surreal reading the Afterward; some of the sentences uttered were ones I've said verbatim at work countless times--I think if I shared it with certain coworkers they'd still somehow miss the advice to start with specific users before all else.
+- It felt a little surreal reading the Afterward; some of the sentences uttered were ones I've said verbatim at work countless times.
 
 ## Impromptu stuff
 * Whole family went to see Elio. I loved it, cried a lot, and appreciated its beautiful moments.
