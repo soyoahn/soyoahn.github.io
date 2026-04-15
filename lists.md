@@ -7,6 +7,7 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2026
+- **Harrow the Ninth (#1 The Locked Tomb) by Tamsyn Muir** 
 - **Wuthering Heights by Emily Bronte** <font color="gray">{ book club read... so petty and vindictive... felt almost absurd yet somehow rooted in reality, which made this a very stressful read for me. }</font>
 - **Wizard and Glass (#4 The Dark Tower) by Stephen King** <font color="gray">{ i loved books #2 & #3 enough to finally get through this one. the middle 80% was very painful to get through, but I finally did it! On to Wolves of the Calla (which I hear is back on par with books #2 & #3)! }</font>
 - **The Hobbit by J.R.R. Tolkien** <font color="gray">{ <strong>*spoilers*</strong> Loved LotR so much... didn't enjoy this, but probably would have in grade school. Really disliked Thorin (luckily we have Balin to make up for it), Smaug died so abruptly, didn't like Gandalf in this one, and there were some bizarre plot points (hated the Arkenstone stuff). My favorite part was when Beorn followed the group to Mirkwood for his ponies--that seemed very realistic and I love that he was very no-half-measures about it. Why couldn't Gandalf just articulate why he was able to keep his borrowed horse, instead of intentionally leaving everyone in the dark, frustrated and wondering? He could have just said that Beorn made an exception for him. 🤷🏻‍♀️ Frustrating. }</font>
