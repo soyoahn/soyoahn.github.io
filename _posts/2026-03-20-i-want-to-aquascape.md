@@ -4,7 +4,7 @@ tags: slice-of-life
 
 # I want to aquascape.
 ---
-When I was around six months pregnant with my second kid, I came down with an obsessive need to start an aquarium. I sourced a tank and starter materials from my local [Buy Nothing](https://buynothingproject.org/) group, bought some plants, added water and some fish food, and let it sit and [cycle](https://www.aquariumcoop.com/blogs/aquarium/fish-tank-cycling). As a major plant-enjoyer, I kind of forgot about adding a fish and enjoyed my underwater garden. 
+When I was about six months pregnant with my second kid, I came down with an obsessive need to start an aquarium. I sourced a tank and starter materials from my local [Buy Nothing](https://buynothingproject.org/) group, bought some plants, added water and some fish food, and let it sit and [cycle](https://www.aquariumcoop.com/blogs/aquarium/fish-tank-cycling). As a major plant-enjoyer, I kind of forgot about adding a fish and enjoyed my underwater garden. 
 
 Fast forward three months later, a literal *week* before my due date, we were moving and... because the tank was so nicely cycled, I wanted to bring some of the water with us. So my husband carried the one-third full tank on his lap while I drove us a few miles up the road to our new place. (One-third full and *still* a lot of water sloshed out during that drive--go figure! 🙈 Who could've foreseen.)
 
