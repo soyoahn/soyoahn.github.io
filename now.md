@@ -6,7 +6,7 @@ layout: default
 # What's Now
 
 ## Daily Life
-- Getting ready for Kindergarten. 
+- Getting ready for Kindergarten
 - Reading Nona the Ninth (#3 The Locked Tomb) by Tamsyn Muir 
 - Reading The Spear Cuts Through Water by Simon Jimenez for book club
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
