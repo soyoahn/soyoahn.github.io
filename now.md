@@ -6,16 +6,17 @@ layout: default
 # What's Now
 
 ## Daily Life
-- Crossing my fingers for various kindergarten admissions stuff and lotteries for the 2026-27 school year. 
+- Getting ready for Kindergarten. 
 - Reading Nona the Ninth (#3 The Locked Tomb) by Tamsyn Muir 
+- Reading The Spear Cuts Through Water by Simon Jimenez for book club
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler
-- Trying to do fulfilling personal projects--trying to gain some kind of identity outside of work
+- Trying to do fulfilling personal projects--to gain some kind of identity outside of work
 - Trying to get back into writing poetry on a daily or weekly basis
 - <s>Learning some American Sign Language with the Lingvano app</s>
 
 ## Social Things I'm Doing
-- [Music League](https://musicleague.com/) with a friend's group of friends, round 4
+- <s>[Music League](https://musicleague.com/) with a friend's group of friends, round 4</s>
 - Book club at work
 - <s>Korean speaking practice group at work</s>
 - <s>School's back, so lots of time with other parents and our littles</s>
@@ -34,4 +35,4 @@ layout: default
 ---
 
 What's a **now** page?: [https://nownownow.com/](https://nownownow.com/). <br>
-Last updated March 13, 2026. 
+Last updated May 9, 2026. 
