@@ -6,9 +6,9 @@ layout: default
 # What's Now
 
 ## Daily Life
-- Getting ready for Kindergarten
+- Getting ready for Kindergarten, vaguely considering moving closer to work and school in the next couple years
 - Reading Nona the Ninth (#3 The Locked Tomb) by Tamsyn Muir 
-- Reading The Spear Cuts Through Water by Simon Jimenez for book club
+- Current Commute Audiobook: A Parade of Horribles (#8 Dungeon Crawler Carl) by Matt Dinniman
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler
 - Trying to do fulfilling personal projects--to gain some kind of identity outside of work
