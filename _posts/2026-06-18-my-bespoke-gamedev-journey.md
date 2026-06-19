@@ -28,11 +28,11 @@ So that's the TL;DR of why this industry, for me.
 * Too many people who don't respect the creatives/artists/designers/content creators.  
 * Did I mention all the tech people? When I look around and find more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. They walk in and often all they can see are inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. 
 
-## Here's where the adventure forks
+## Here's where our adventure forks
 
-If the "what drives me" block of text bores you and the "worst" block of text desribes you, then: 
+If the "what drives me" block of text bores you and the "worst" block of text describes you, then: 
 * I recommend reading something like Blood, Sweat, and Pixels by Jason Schreier to see if that appeals to you. 
-* Also, it sounds like you get bored very easily--if that's the case, I don't think the games industry is for you right now. Be interested in life! Find the thing that excites you and spend time doing it--I believe in you! 
+* Also, it sounds like you get bored very easily--if that's the case, I don't think anything I say will resonate. Be interested in life! Find the thing that excites you and spend time doing it--I believe in you! 
 * If you're unwilling to do that, or that book bores you, then I recommend you follow gamedev influencers on LinkedIn instead of reaching out to me; I'm simply not the droid you're looking for. 
 
 If the "what drives me" block of text resonates and you've "GOTTA GET IN THERE"... I still don't know if I can help you, but you're certainly welcome to read on and ask me followup questions if you have any. 
