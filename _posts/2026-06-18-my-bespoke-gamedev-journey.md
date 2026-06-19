@@ -41,7 +41,7 @@ If the "what drives me" block of text resonates and you've "GOTTA GET IN THERE".
 
 I just want to say upfront: I'm sorry but I can't give you a referral. 
 
-The industry is rough right now and I have too many excellent former colleagues who've been out of work for years to put a random acquaintence above them with any sort of referral. Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
+The industry is rough right now and I have too many excellent former colleagues who've been out of work for years, to put a random acquaintence above them with any sort of referral. Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
 
 ## Life story
 
