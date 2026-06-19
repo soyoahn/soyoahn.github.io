@@ -55,7 +55,7 @@ I graduated just after the housing market crisis of 2008. My dad told me to brac
 
 Why did I tell you that? 
 
-Because the game industry is full of insanely driven people like me. I think this is what you it takes to succeed as an outsider. A shit ton of hard work and strategic positioning. I did the sandwich job because I wanted to experience working in a kitchen. I did the newspaper writing because doing so made me a university employee and waived some of my tuition. I did the retail job at Limited Too because I was obsessed with Lizzie McGuire. (Okay, maybe ignore that last one. Worst job ever, btw.) 
+Because the games industry is full of insanely driven people like me. I think this is what you it takes to succeed as an outsider. A shit ton of hard work and strategic positioning. I did the sandwich job because I wanted to experience working in a kitchen. I did the newspaper writing because doing so made me a university employee and waived some of my tuition. I did the retail job at Limited Too because I was obsessed with Lizzie McGuire. (Okay, maybe ignore that last one. Worst job ever, btw.) 
 
 I am not special--everyone in games has a story that is entirely different from mine but is similarly full of drive. I think what makes us alike is that we: 
 
