@@ -27,7 +27,7 @@ So that's the TL;DR of why this industry, for me.
 * Too many people from tech who are only here for the prestige and money. 
 * Too many people who don't respect the creatives/artists/designers/content creators.  
 * Too many people who don't play or value games.
-* Did I mention all the tech people? When I look around and find more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. They walk in and often all they can see are inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. 
+* Did I mention all the tech people? When I look around and find that more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. They walk in and often all they can see are inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. 
 
 ## Here's where our adventure forks
 
