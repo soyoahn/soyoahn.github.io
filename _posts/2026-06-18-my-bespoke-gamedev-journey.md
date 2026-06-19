@@ -9,14 +9,14 @@ I've been meaning to do this very thing for a long time, and rather than put it 
 Here goes! 
 
 
-## First, so you know what drives me, here's a stream of consciousness... bulleted list... of what love about the game industry when it's at its best
+## First, so you know what drives me, here's a stream of consciousness, non-parallel bulleted list of what love about the game industry when it's at its best
 
 * In a healthy studio, everyone is there for the same reason: **the opportunity to use the extent of our unique talents to work on something worthwhile**. To work unmolested by excessive bullshit. To create something bigger and better than we can achieve individually. Making it all come together somehow.
 * Being around crazy smart and creative people who are deeply, deeply passionate about what they do. 
 * Art, problem solving, and creativity. All the time.
 * Learn something new every day. ... Every moment sometimes.
-* I think games are good and important. 
-* I love artists and people who create things. 
+* We all believe games are good and important. 
+* We love artists and people who create things. 
 * Every artist I've ever met is incurably curious and passionate about something. They constantly want to be better at their thing than they were yesterday. They are so inspiring. 
 * Watching artists and designers work makes me feel alive and human. 
 
