@@ -2,7 +2,7 @@
 tags: career
 ---
 
-An executive producer and avid mentor at my company, was asked, "people are constantly reaching out to me asking how I got into the games industry--what do I tell them?" He wisely advised that when the volume of questions becomes unmanageable, to write a blog entry about it and start pointing folks there as the first stop. 
+An executive producer and avid mentor at my company, was asked: "how do you manage it when people reach out to you asking how you got your career in the games industry?" He wisely advised that when the volume of questions becomes unmanageable, to write a blog entry about it and start pointing folks there as the first stop. 
 
 I've been meaning to do this very thing for a long time, and rather than put it off further, I'm just going to do it now on this, the evening before a holiday, after working till 10:44pm doing work I love. With two kids and a 37 week old baby gestating in my belly. I'm in the honeymoon phase of my dream job, so I figure there's no better time to write this post. 
 
