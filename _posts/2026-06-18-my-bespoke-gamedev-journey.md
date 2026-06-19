@@ -25,8 +25,8 @@ So that's the TL;DR of why this industry, for me.
 ## Now, here's what I hate about the industry when it's at its worst
 
 * Too many people from tech who are only here for the prestige and money. 
-* Too many people who are here but don't respect the creatives/artists/designers/content creators.  
-* Did I mention all the tech people? When I look around and find more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. They walk in and often all they can see is all the inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. 
+* Too many people who don't respect the creatives/artists/designers/content creators.  
+* Did I mention all the tech people? When I look around and find more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. They walk in and often all they can see are inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. 
 
 ## Here's where the adventure forks
 
