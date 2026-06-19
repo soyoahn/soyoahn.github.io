@@ -9,7 +9,7 @@ I've been meaning to do this very thing for a long time, and rather than put it 
 Here goes! 
 
 
-## First, so you know what drives me, here's a stream of consciousness, non-parallel bulleted list of what I love about the game industry when it's at its best
+## First, so you know what drives me, here's a stream of consciousness, non-parallel bulleted list of what I love about the games industry when it's at its best
 
 * In a healthy studio, everyone is there for the same reason: **the opportunity to use the extent of our unique talents to work on something worthwhile**. To work unmolested by excessive bullshit. To create something bigger and better than we can achieve individually. Making it all come together somehow.
 * Being around crazy smart and creative people who are deeply, deeply passionate about what they do. 
@@ -26,6 +26,7 @@ So that's the TL;DR of why this industry, for me.
 
 * Too many people from tech who are only here for the prestige and money. 
 * Too many people who don't respect the creatives/artists/designers/content creators.  
+* Too many people who don't play or value games.
 * Did I mention all the tech people? When I look around and find more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. They walk in and often all they can see are inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. 
 
 ## Here's where our adventure forks
