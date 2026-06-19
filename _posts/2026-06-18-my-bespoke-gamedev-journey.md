@@ -16,7 +16,7 @@ Here goes!
 * Being around crazy smart and creative people who are deeply, deeply passionate about what they do. 
 * Art, problem solving, and creativity. All the time.
 * Learn something new every day. ... Every moment sometimes.
-* We all believe games are good and important. 
+* We all believe games are fun, essential, and important. 
 * We love artists and people who create things. 
 * Every artist I've ever met is incurably curious and passionate about something. They constantly want to be better at their thing than they were yesterday. They are so inspiring. 
 * Watching artists and designers work makes me feel alive and human. 
