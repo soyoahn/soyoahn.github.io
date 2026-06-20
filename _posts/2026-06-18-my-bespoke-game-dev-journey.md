@@ -17,6 +17,7 @@ This is that post!
 * Learning something new every day. ... Every moment sometimes.
 * We all believe games are fun, essential, and important. 
 * Watching artists and designers work makes me feel alive and human. 
+* Everyone is either insaney talented or very smart and hardworking. Often you'll find people who are both. It can be a bit intimidating at first, but that intimidation eventually becomes pure marvel.
 
 So that's the TL;DR of why this industry, for me. I'm telling you this because I think it's important that these things resonate with you. If these sound "nice" but it doesn't make you drool, I don't know what else to say--the industry is competitive and anyone with craft mastery who has this mentality--**authentically**--is more likely to stand out. 
 
