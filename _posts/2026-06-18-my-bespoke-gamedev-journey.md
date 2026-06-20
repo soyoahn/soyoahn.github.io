@@ -143,8 +143,14 @@ I've already accomplished more in my 1 month here than my 1.6 years as a technic
 
 However, I am 37ish weeks pregnant with my third baby. All I want to do right now is work on this job, and I feel like I'll want to work during my maternity leave, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how crazy I am about getting good at this role. 
 
+## Summary 
+
+I didn't really know what to put in this blog post. I hope this was helpful. 
+
+How I broke into games is 30% luck and timing; 20% working harder that most of the people around me for a decade before I got into games; and 40% everything I experienced, learned, did, failed, and mastering my craft, leading up to my first role. And 10% exuding enough confidence to show that I actually did all those things. 
+
 ## Three babies in a trenchcoat? What are you doing? 
 
-If you've read this far, hopefully you'll understand what it's hard for me to take the time to jump on an hour call anymore. When I'm not working, I'm either working or parenting. With three, I think my mentorship days are over--at least until they're all in school.
+If you've read this far, hopefully you'll understand why it's hard for me to take the time to jump on an hour call anymore. When I'm not working, I'm either doing things to get better or my job, or I'm parenting. With three, I think my mentorship days are over--at least until they're all in school.
 
 Until then, feel free to post your questions here and I'll try my best to answer them. 
