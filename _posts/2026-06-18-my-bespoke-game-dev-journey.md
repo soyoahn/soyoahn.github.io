@@ -12,7 +12,6 @@ Here goes!
 ## First, so you know what drives me, here's a stream of consciousness, non-parallel bulleted list of what I love about the games industry when it's at its best
 
 * **The opportunity to use the extent of our unique talents to work on something worthwhile**. To work unmolested by excessive bullshit. To create something bigger and better than we can achieve individually. Making it all come together somehow.
-* There's a feeling of mutual respect and comraderie. 
 * Being around crazy smart and creative people who are deeply, deeply passionate about what they do. 
 * Art, problem solving, and creativity. All the time.
 * Learning something new every day. ... Every moment sometimes.
