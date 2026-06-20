@@ -65,6 +65,7 @@ I am not special--everyone in games has a story that is entirely different from 
 * Take responsibility for our actions and don't blame. 
 * We solve problems. 
 * We fill our lives with interesting experiences, which tends to open doors and broaden one's thinking. 
+* We are curious beings.
 
 ## First foot in the door
 
