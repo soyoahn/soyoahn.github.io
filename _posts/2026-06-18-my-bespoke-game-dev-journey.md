@@ -143,11 +143,16 @@ I've already accomplished more in my 1 month here than my 1.6 years as a technic
 
 However, I am 37ish weeks pregnant with my third baby. All I want to do right now is work on this job, and I feel like I'll want to work during my maternity leave, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how crazy I am about getting good at this role. 
 
-## Summary 
+## Closing thoughts
 
-I didn't really know what to put in this blog post. I hope this was helpful. 
+I didn't really know what to put in this blog post. I figure you'd want to know how I broken in and how I ended up at every subsequent role. I hope this was helpful. 
 
-How I broke into games is 30% luck and timing; 20% working harder that most of the people around me for a decade before I got into games; and 40% everything I experienced, learned, did, failed, and mastering my craft, leading up to my first role. And 10% exuding enough confidence to show that I actually did all those things. 
+How I broke into games is 30% luck and timing; 20% working harder that most of the people around me for a decade before I got into games; and 40% everything I experienced, learned, did, failed, and mastering my craft, leading up to my first role. And 10% exuding the confidence to show that I actually did all those things. 
+
+**Cover letter, resume, and portfolio site**: I've been on the hiring side before, and can tell you that I'm the type that pores over every cover letter and resume. Not everyone does that though, and I know it's a lot of work. But if I ever do hire again, I will be going over those things with a fine-toothed comb. 
+
+**Don't use LLMs to write your submission materials**: I abhor the idea of using LLMs to communicate for you. I don't know if I'm a diminishing minority, but a cover letter that looks like it was written by an LLM would go immediately into my discard pile. To me, it shows an utter lack of interest or care. You must not want it that badly to not carve out a few hours of your time to shoot your best shot. I know it sucks to feel like you're submitting into the void. It should not be this way and I hate it too and I feel for you. But you need to shoot your best shot and think about what that looks like for you. 
+
 
 ## Three babies in a trenchcoat? What are you doing? 
 
