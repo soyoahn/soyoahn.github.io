@@ -2,9 +2,9 @@
 tags: career
 ---
 
-An executive producer and avid mentor at my company was asked: "how do you manage when multiple people reach out to you asking how you got your career in the games industry?" He advised folks to write a blog entry about it and start pointing folks there as the first stop. 
+An executive producer and avid mentor at my company was asked: "how do you manage when multiple people reach out to you asking how you got your career in the games industry?" His advice was to write a blog entry about it and start pointing folks there as the first stop. 
 
-I've been meaning to follow that advice for years, and rather than keep putting it off, I'm going to start now on this, the evening before a holiday, after working till 10:44pm doing work I love. With two kids and a 37 week old baby gestating in my uterus. I'm in the honeymoon phase of my dream job, so I figure there's no better time to write this post. 
+I've been meaning to do that for years--I'll start now, the evening before a holiday, after working till 10:44pm doing work I love. With two kids and a 37 week old baby gestating in my uterus. I'm in the honeymoon phase of my dream job, so I figure there's no better time to write this post. 
 
 Here goes! 
 
