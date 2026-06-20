@@ -11,14 +11,12 @@ Here goes!
 
 ## First, so you know what drives me, here's a stream of consciousness, non-parallel bulleted list of what I love about the games industry when it's at its best
 
-* In a healthy studio, everyone is there for the same reason: **the opportunity to use the extent of our unique talents to work on something worthwhile**. To work unmolested by excessive bullshit. To create something bigger and better than we can achieve individually. Making it all come together somehow.
+* **The opportunity to use the extent of our unique talents to work on something worthwhile**. To work unmolested by excessive bullshit. To create something bigger and better than we can achieve individually. Making it all come together somehow.
 * There's a feeling of mutual respect and comraderie. 
 * Being around crazy smart and creative people who are deeply, deeply passionate about what they do. 
 * Art, problem solving, and creativity. All the time.
-* Learn something new every day. ... Every moment sometimes.
+* Learning something new every day. ... Every moment sometimes.
 * We all believe games are fun, essential, and important. 
-* We love artists and people who create things. 
-* Every artist I've ever met is incurably curious and passionate about something. They constantly want to be better at their thing than they were yesterday. They are so inspiring. 
 * Watching artists and designers work makes me feel alive and human. 
 
 So that's the TL;DR of why this industry, for me. 
@@ -42,7 +40,9 @@ If the "what drives me" block of text resonates and you've "GOTTA GET IN THERE".
 
 I just want to say upfront: I'm sorry but I can't give you a referral. 
 
-The industry is rough right now and I have too many excellent former colleagues who've been out of work for years, to put a random acquaintence above them with any sort of referral. Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
+In general, most companies' referral programs need you to be able to personally vouch for the person. If I haven't been in the trenches with you, I can't give you that referral. 
+
+Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
 
 ## Life story
 
@@ -58,13 +58,13 @@ I graduated just after the housing market crisis of 2008. My dad told me to brac
 
 Why did I tell you that? 
 
-Because the games industry is full of insanely driven people like me. I think this is what it takes to succeed as an outsider. A shit ton of hard work and strategic positioning. I did the sandwich job because I wanted to experience working in a kitchen. I did the newspaper writing because doing so made me a university employee and waived some of my tuition. I did the retail job at Limited Too because I was obsessed with Lizzie McGuire. (Okay, maybe ignore that last one. Worst job ever, btw.) 
+Because the games industry is full of insanely driven people like me. I think this is what it takes to succeed as an outsider, to break into the industry. A shit ton of hard work, tons of experience in your craft, proactivity, and strategic positioning. I did the sandwich job because I wanted to experience working in a kitchen. I did the newspaper writing because it sounded fun and scary (and it paid weirdly well). 
 
-I am not special--everyone in games has a story that is entirely different from mine but is similarly full of drive. I think what makes us alike is that we: 
+I am not special--everyone in games has a story that is entirely different from mine but is similarly full of drive and forward motion. I think what makes us alike is that we: 
 
 * Take responsibility for our actions and don't blame. 
 * We solve problems. 
-* We fill our lives with interesting experiences, which tends to open doors and broaden one's thinking. Mine just happened to be work, work, and work. 
+* We fill our lives with interesting experiences, which tends to open doors and broaden one's thinking. 
 
 ## First foot in the door
 
