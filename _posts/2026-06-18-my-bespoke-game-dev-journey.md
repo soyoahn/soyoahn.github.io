@@ -6,6 +6,8 @@ At an interview, a mentor figure at my company was once asked: "how do you manag
 
 This is that post!
 
+**Remember**: This is just one person's take. This doesn't represent my employer's views nor anyone else's views at the company.
+
 
 ## Here's what I love best about working in games
 
