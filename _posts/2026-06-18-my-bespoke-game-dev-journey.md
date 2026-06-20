@@ -28,7 +28,7 @@ The things that are hurting the industry in my opinion are:
 * Too many people from tech who are only here for the prestige and flashy titles.
 * Too many people who don't respect the creatives/artists/designers/content creators.  
 * Too many people who don't play or value games.
-* Did I mention all the tech people? When I look around and find that more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. In my experience, they tend to walk in, see a mess (game development can be messy), and think they know best right away. They only see inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. (Where the first and last question is: "Say! How can we measure how the thing that you're doing adds a greater amount of value than we are paying you to do it?")
+* Did I mention all the tech people? When I look around and find that more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. In my experience, they tend to walk in, see a mess (game development can be messy), and think they know best right away. They only see inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. (Where the first and last question is: "Say! How can we measure how the thing that you're doing adds a greater amount of value than we are paying you to do it?"--And yet somehow, no answer can ever seem to satisfy them.)
 
 ## Here's where our adventure forks
 
