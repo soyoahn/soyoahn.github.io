@@ -7,7 +7,7 @@ At an interview, a mentor figure at my company was once asked: "how do you manag
 This is that post!
 
 
-## First, here's what I love best about working in games
+## Here's what I love best about working in games
 
 * **The opportunity to use the extent of our unique talents to work on something worthwhile**. Isn't this what we all want? Well, in games, you can have this!
 * A general "you can be yourself" culture.
@@ -20,12 +20,14 @@ This is that post!
 
 So that's the TL;DR of why this industry, for me. I'm telling you this because I think it's important that these things resonate with you. If these sound "nice" but it doesn't make you drool, I don't know what else to say--the industry is competitive and anyone with craft mastery who has this mentality--**authentically**--is more likely to stand out. 
 
-## Now, here's what I hate about the industry when it's at its worst
+## Tech industry, encroaching
 
-* Too many people from tech who are only here for the prestige and money. 
+The things that are hurting the industry in my opinion are:
+
+* Too many people from tech who are only here for the prestige and flashy titles.
 * Too many people who don't respect the creatives/artists/designers/content creators.  
 * Too many people who don't play or value games.
-* Did I mention all the tech people? When I look around and find that more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. They walk in and often all they can see are inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. (Where the first and last question is: "Say! How can we measure how the thing that you're doing adds a greater amount of value than we are paying you to do it?")
+* Did I mention all the tech people? When I look around and find that more than half the folks around are ex-Google, ex-Amazon, it makes me very afraid. In my experience, they tend to walk in, see a mess (game development can be messy), and think they know best right away. They only see inefficiencies--not the exploration that happens underneath beautiful outcomes, but just countable inputs and outputs. (Where the first and last question is: "Say! How can we measure how the thing that you're doing adds a greater amount of value than we are paying you to do it?")
 
 ## Here's where our adventure forks
 
