@@ -58,7 +58,7 @@ I graduated just after the housing market crisis of 2008. My dad told me to brac
 
 Why did I tell you that? 
 
-Because the games industry is full of insanely driven people like me. I think this is what it takes to succeed as an outsider, to break into the industry. A shit ton of hard work, tons of experience in your craft, proactivity, and strategic positioning. 
+Because the games industry is full of insanely driven people like me. I think this is what it takes to succeed as an outsider, to break into the industry. A shit ton of hard work, tons of experience and mastery in your craft, proactivity and the ability to figure stuff out, and strategic positioning. 
 
 I am not special--everyone in games has a story that is entirely different from mine but is similarly full of drive and forward motion. I think what makes us alike is that we: 
 
