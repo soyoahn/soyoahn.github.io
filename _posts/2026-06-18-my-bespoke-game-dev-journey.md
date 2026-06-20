@@ -10,6 +10,7 @@ This is that post!
 ## First, here's what I love best about working in games
 
 * **The opportunity to use the extent of our unique talents to work on something worthwhile**. To work unmolested by excessive bullshit. To create something bigger and better than we can achieve individually. Making it all come together somehow.
+* Clear goals and purpose.
 * Being around smart and creative people who are deeply passionate and serious about what they do. 
 * Art, problem solving, and creativity. All the time.
 * Learning something new every day. ... Every moment sometimes.
