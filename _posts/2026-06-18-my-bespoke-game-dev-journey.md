@@ -7,7 +7,7 @@ An executive producer and avid mentor at my company was asked: "how do you manag
 This is that post!
 
 
-## First, so you know what drives me, here's a stream of consciousness, non-parallel bulleted list of what I love about the games industry when it's at its best
+## First, here's what I love best about working in games
 
 * **The opportunity to use the extent of our unique talents to work on something worthwhile**. To work unmolested by excessive bullshit. To create something bigger and better than we can achieve individually. Making it all come together somehow.
 * Being around smart and creative people who are deeply passionate and serious about what they do. 
