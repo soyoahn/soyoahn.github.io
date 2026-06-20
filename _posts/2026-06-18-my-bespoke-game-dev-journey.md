@@ -41,9 +41,9 @@ If the "what drives me" block of text resonates and you've GOTTA GET *IN* THERE.
 
 ## Okay, here we go for real then
 
-I just want to say upfront: I'm sorry but I can't give you a referral. 
+**I just want to say upfront: I'm sorry but I can't give you a referral.**
 
-In general, most companies' referral programs need you to be able to personally vouch for the person. If I haven't been in the trenches with you, I can't give you that referral. 
+In general, most companies' referral programs need you to be able to personally vouch for the person in a professional work capacity. If I haven't been in the trenches with you, I can't give you that referral. 
 
 Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
 
