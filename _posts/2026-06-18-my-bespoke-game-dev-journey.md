@@ -19,7 +19,7 @@ This is that post!
 * Learning something new every day. ... Every moment sometimes.
 * We all believe games are fun, essential, and important. 
 * Feeling alive and human, watching artists and designers work. 
-* Everyone has pretty great work ethic. Tons of natural accountability. It can be a bit intimidating at first, but that intimidation eventually becomes pure respect and marvel.
+* Everyone has pretty great work ethic. Tons of natural accountability.
 * Lots of passion... because it's games! Nothing about this is "just a job." Everyone really cares about doing their job well.
 
 So that's the TL;DR of why this industry, for me. I'm telling you this because I think it's important that these things resonate with you. If these sound "nice" but it doesn't make you drool, I don't know what else to say--the industry is competitive and anyone with craft mastery who has this mentality--**authentically**--is more likely to feel like a better culture fit (at least to me). 
