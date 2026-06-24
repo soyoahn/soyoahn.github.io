@@ -2,7 +2,9 @@
 tags: career
 ---
 
-At an interview, a mentor figure at my company was once asked: "how do you manage when multiple people reach out to you asking how you got your career in the games industry?" He advised them to write a blog entry about it and start pointing folks there as the first stop. 
+At an interview, a mentor figure at my company was asked: "how do you manage when multiple people reach out to you asking how you got your career in the games industry?" 
+
+He advised them to write a blog entry about it and start pointing folks there as the first stop. 
 
 This is that post!
 
