@@ -11,7 +11,7 @@ This is that post!
 **Remember**: This is just one person's take. This doesn't represent my employer's views nor anyone else's views at the company.
 
 
-## Here's what I love best about working in games
+## First, here's what I love best about working in games
 
 * **The opportunity to use the extent of our unique talents to work on something worthwhile**. Isn't this what we all want? Well, in games, you can have this!
 * A general "you can be yourself" culture.
