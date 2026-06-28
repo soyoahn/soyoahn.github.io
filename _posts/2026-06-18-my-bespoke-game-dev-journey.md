@@ -2,16 +2,16 @@
 tags: career
 ---
 
-At an interview, a mentor figure at my company was asked: "What do you do when multiple people reach out asking how you got your career in the games industry?" 
+I watched someone ask a mentor figure at my company (paraphrased): "With your limited time, how do you respond when folks reach out for advice and how you got your career in games?" 
 
 He advised them to write a blog entry about it and start pointing folks there as the first stop. 
 
-This is that post!
+Grand advice. This is that post for me.
 
 **Remember**: This is just one person's take. This doesn't represent my employer's views nor anyone else's views at the company.
 
 
-## First, here's what I love best about working in games
+## First, here's what I love about working in games
 
 * **The opportunity to use the extent of our unique talents to work on something worthwhile**. Isn't this what we all want? Well, in games, you can have this!
 * A general "you can be yourself" culture.
