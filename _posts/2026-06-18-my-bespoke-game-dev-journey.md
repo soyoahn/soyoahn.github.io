@@ -38,7 +38,7 @@ The things that are hurting the industry in my opinion are:
 ## Here's where our adventure forks
 
 If the "what drives me" block of text bores you and the "encroaching" block of text describes you, then: 
-* I recommend reading something like Blood, Sweat, and Pixels by Jason Schreier to see if that appeals to you. I don't think anything I can say will resonate. Be interested in life! Find the thing that excites you and spend time doing it. Build a portfolio that showcases how excellent you are at your craft! Be passionate about your craft! Then apply! That's the true TL;DR.
+* I recommend reading something like Blood, Sweat, and Pixels by Jason Schreier to see if that appeals to you. Be interested in life! Find the thing that excites you and spend time doing it. Build a portfolio that showcases how excellent you are at your craft! Be passionate about your craft! Then apply! That's the true TL;DR.
 * If you're unwilling to do that, or that book bores you, then I recommend that you follow gamedev influencers on LinkedIn instead of reaching out to me; I'm simply not the droid you're looking for. 
 
 If the "what drives me" block of text resonates and you've GOTTA GET *IN* THERE... I still don't know if anything I'd say could help you, but you're certainly welcome to read on and ask me followup questions if you have any. 
