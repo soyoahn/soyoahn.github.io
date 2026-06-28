@@ -24,7 +24,7 @@ Grand advice. This is that post for me.
 * Everyone has pretty great work ethic. Tons of natural accountability.
 * Lots of passion... because it's games! Nothing about this is "just a job." Everyone really cares about doing their job well.
 
-So that's the TL;DR of why this industry, for me. I'm telling you this because I think it's important that these things resonate with you. If these sound "nice" but it doesn't make you drool, I don't know what else to say--the industry is competitive and anyone with craft mastery who has this mentality--**authentically**--is more likely to feel like a better culture fit (at least to me). 
+So that's the TL;DR of why this industry, for me. I'm telling you this because I think it's important that these things resonate with you. If these sound "nice" but it doesn't make you drool, I don't know if you'd ultimately enjoy working in the industry. All these positives are meant to outweigh the long hours and high expectations so you don't stress or burn out too badly. 
 
 ## Tech industry, encroaching
 
