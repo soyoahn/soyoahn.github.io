@@ -53,7 +53,7 @@ Hopefully by the time you finish reading this, you will still feel motivated and
 
 ## Life story
 
-I moved around a bunch as a kid--from the east coast to west coast. Maybe this is what kickstarted my observational powers and muscles for adaptation. Making friends was often hard. I read a lot. 
+I moved around a bunch as a kid--from the east coast to west coast. Maybe this is what kickstarted my observational powers and muscles for adaptation. I was alone a lot and read a lot. 
 
 My first real job was selling t-shirts at Pike Place Market in Seattle for an entire summer when I was 16. Even at that job, my instinct during downtime was to keep busy doing something to make the store better. Then I worked part-time at a teriyaki shop after school for the rest of high school, got an apprenticeship at the Museum of Flight doing theater and won their Eastman scholarship award, did a lot of writing and English tutoring, got into local musical theater, and then went on to college. At this point in life, I secretly wanted to be an astronomer or science writer, but told the adults that I wanted to be an aeronautical engineer (which sounded cool to me too, but I knew it wasn't realistic given my calculus grades). To this day, when asked, I tell people I originally wanted to be an aeronautical engineer because old habits die hard! I was very private about my aptitude in writing (often the mysterious sole "A" on essays in various AP Lit classes). My drive and internal motivations were very... well, internal.
 
