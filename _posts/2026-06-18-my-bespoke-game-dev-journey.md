@@ -6,7 +6,11 @@ Many journeys into working in games are fairly bespoke. Here's my story--it's a 
 
 A few times a year, folks reach out asking how I got into the games industry, and advice for how they might get in too. I used to schedule an hour to relate my story, chat, and field questions, but as a soon-to-be mom of 3, I don't have the time to do this anymore. (Note: It was never just the one hour; I'd spend a lot of time and energy thinking about the person and how I might help them.) 
 
-**Who's this for**: I assume you: (1) landed here through my [LinkedIn](http://linkedin.com/in/soyoahn)), since I've hidden this site from search, (2) aren't an artist/designer/content creator, (3) come from a tech or otherwise non-entertaintment/games industry background, (4) are coming from a somewhat general role (like management, technical writing) and not from a highly specialized role that has no applications in game production (like Accounts Payable, Tax Analyst)--I assume those latter roles are purely hired based on critical thinking skills, craft experience/expertise, and little else. 
+**Who's this for**: I'm writing this based on these assumptions about you: 
+1. You landed here through my [LinkedIn](http://linkedin.com/in/soyoahn)), since I've hidden this site from search.
+2. You aren't an artist/designer/content creator (none of this info will apply to you--I think those roles are entirely talent and skill-based).
+3. You probably come from a tech or otherwise non-entertaintment/games industry background (so, this isn't your first rodeo in games--there's nothing I can say that you don't already know)
+4. You are coming from a somewhat general role (like management, technical writing) and not from a highly specialized role (like Accounts Payable, Tax Analyst)--I assume those latter roles are purely hired based on critical thinking skills, craft experience/complexity/expertise, and little else. 
 
 **Remember**: This is just one person's take. This doesn't represent my employer's views nor anyone else's views at the company. Also I'm dealing with quite the pregnancy brain fog and can barely string words together--bear with me. This is going to be a slow meander through my thinking in real time, as I try to recall details that might be insightful to you in any way. This was quite a slog to write and I apologize if it's quite the slog to read. :-/ 
 
