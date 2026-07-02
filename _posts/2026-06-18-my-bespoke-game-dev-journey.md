@@ -10,7 +10,7 @@ A few times a year, folks reach out asking how I got into the games industry, an
 1. You landed here through my [LinkedIn](http://linkedin.com/in/soyoahn)), since I've hidden this site from search.
 2. You aren't an artist/designer/content creator (none of this info will apply to you--I think 90% of the hiring decisions for those roles will be based on your portfolio/game you made/your ArtStation).
 3. You are coming from a tech or otherwise non-entertainment/games industry background (so, this isn't your first rodeo in games--there's nothing I can say that you don't already know)
-4. You are coming from a somewhat general role (like management, technical writing) and not from a highly specialized role (like Accounts Payable, Tax Analyst)--I assume those latter roles are purely hired based on critical thinking skills, craft experience/complexity/expertise, and little else. 
+4. You are coming from a somewhat general role (like management, technical writing) and not from a highly specialized role (like Accounts Payable, Tax Analyst)--I assume those latter roles are hired purely based on critical thinking skills, craft experience/complexity/expertise, and little else. 
 
 **Holy shit, there are a lot of words here--what will I get out of this?**:
 Possibly ✨nothing✨! In my 1-hour calls, I usually listen to your story and give you advice on what to do next. It's different every time, but it's obviously advice that I extrapolate based on my own life's journey and experience. So what I've done here is write a tiny professional memoir so you can see that there's nothing special or magical about the process--it's just hard work, passion, care, and applying. I hope you'll find something insightful in this wall of text.
