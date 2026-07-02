@@ -37,7 +37,7 @@ Working in games is just like anywhere else except that things move really fast 
 
 ## People who bug me in this space
 
-My opinion doesn't matter, but if I could wave a magic wand, I'd like to see fewer of these folks trickling into the game development side of things: 
+My opinion on this doesn't matter, but if I could wave a magic wand, I'd like to see fewer of these folks trickling into the game development side of things: 
 
 * People who don't play or value games (how can you build things for players or for game developers without understanding the why behind it all?) 
 * People who don't respect or value creativity/artists/designers/content creators (in current day, to me, this looks like shoving AI down creative teams' throats)
