@@ -2,7 +2,7 @@
 tags: career
 ---
 
-Many journeys into working in games are fairly bespoke. Here's my story--it's a mix of being a hugely curious, highly detail-oriented, and hardworking person; timing; and luck.
+Every journey is bespoke. Here's my story--it's a mix of luck, timing, and being curious and detail-oriented.
 
 A few times a year, folks reach out asking how I got into the games industry, and advice for how they might get in too. I used to schedule an hour to relate my story, chat, and field questions, but as a soon-to-be mom of 3, I don't have the time to do this anymore. (Note: It was never just the one hour; I'd spend a lot of time and energy thinking about the person and how I might help them.) 
 
