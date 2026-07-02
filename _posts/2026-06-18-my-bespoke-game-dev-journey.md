@@ -12,6 +12,9 @@ A few times a year, folks reach out asking how I got into the games industry, an
 3. You probably come from a tech or otherwise non-entertaintment/games industry background (so, this isn't your first rodeo in games--there's nothing I can say that you don't already know)
 4. You are coming from a somewhat general role (like management, technical writing) and not from a highly specialized role (like Accounts Payable, Tax Analyst)--I assume those latter roles are purely hired based on critical thinking skills, craft experience/complexity/expertise, and little else. 
 
+**Holy shit, there are a lot of words here--what will I get out of this?**:
+Possibly ✨nothing✨! In my 1-hour calls, I usually listen to your story and give you advice on what to do next. It's different every time, but it's obviously advice that I extrapolate based on my own life's journey and experience. So what I've done here is write a tiny professional memoir so you can see that there's nothing special or magical about the process--it's just hard work, passion, care, and applying. I hope you'll find something insightful in this wall of text.
+
 **Remember**: This is just one person's take. This doesn't represent my employer's views nor anyone else's views at the company. Also I'm dealing with quite the pregnancy brain fog and can barely string words together--bear with me. This is going to be a slow meander through my thinking in real time, as I try to recall details that might be insightful to you in any way. This was quite a slog to write and I apologize if it's quite the slog to read. :-/ 
 
 
@@ -162,7 +165,7 @@ I don't want to share a lot about this role, except that it's my dream role of a
 
 I've already accomplished more in my 1 month here than in my 1.5 years as a technical writer on League. Which is equal parts sad and a relief. 
 
-However, I am 37ish weeks pregnant with my third baby. All I want to do right now is work on this job, and I feel like I'll want to work during my maternity leave, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how dedicated I am about getting good at this role. 
+However, I am 37ish weeks pregnant with my third baby. All I want to do right now is work on this job, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how dedicated I am about getting good at this role. 
 
 ## Closing thoughts
 
