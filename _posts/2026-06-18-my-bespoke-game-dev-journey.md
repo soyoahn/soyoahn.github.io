@@ -89,7 +89,7 @@ I am not special--everyone in games has a story that is entirely different from 
 * We are curious beings.
 * We have a need to keep growing and improving.
 
-Sometimes I talk to people who claim that their lives have been boring and uneventful. But when I get them talking, I often find a life far more interesting and miraculous than my own. Don't sell yourself short--sit down and do the exercise of thinking about what makes your journey unique--and puzzle out what actions make you stand out. Figure out what drives you and what you're passionate about. 
+Sometimes I talk to people who claim that their lives have been boring and uneventful. But when I get them talking, I often find a life far more interesting and miraculous than my own. Don't sell yourself short--sit down and do the exercise of thinking about what makes your journey unique--and puzzle out what actions make you stand out. Figure out what drives you and what you're passionate about. That flavor and uniqueness might help you stand out (if everything else between you and another candidate is equal).
 
 ## First foot in the door: Infinity Ward as a contractor
 
