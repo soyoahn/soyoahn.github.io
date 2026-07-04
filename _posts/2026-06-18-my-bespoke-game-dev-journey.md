@@ -182,6 +182,6 @@ How I broke into games was 30% luck and timing; 20% working harder that most of 
 
 ## Three babies in a trenchcoat? What are you doing? 
 
-If you've read this far, hopefully you'll understand why it's hard for me to take the time to jump on an hour call anymore. When I'm not working, I'm either parenting, doing things to get better at my job, or recharging. With three kiddos, I think my mentoring and networking days are over until they're all in school.
+If you've read this far, hopefully you'll understand why it's hard for me to take the time to jump on a call anymore. When I'm not working, I'm either parenting, doing things to get better at my job, or recharging. With three kiddos, I think my mentoring and networking days are over until they're all in school.
 
 Until then, feel free to post your questions here and I'll try my best to answer them. I wish you the best of luck! Also, check out [GDC videos](https://www.youtube.com/@GDCFestivalofGaming) to whet your game development appetite. Delve into the discipline you're interested in, learn everything you can, and have fun. 
