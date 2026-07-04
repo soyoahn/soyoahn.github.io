@@ -171,7 +171,7 @@ However, I am 37ish weeks pregnant with my third baby. All I want to do right no
 
 I didn't really know what to put in this blog post. I figured that you'd want to know how I broke in and how I ended up at every subsequent role. I hope this was helpful. 
 
-How I broke into games was 30% luck and timing; 20% working harder that most of the people around me for a decade before I started applying; and 40% everything I'd experienced, learned, did, failed, and mastered, leading up to my first role. And 10% exuding the confidence to show that I actually did all those things. 
+How I broke into games without knowing a single person in the industry was 30% luck and timing; 20% working harder that most of the people around me for a decade before I started applying; and 40% everything I'd experienced, learned, did, failed, and mastered, leading up to my first role. And 10% exuding the confidence to show that I actually did all those things. 
 
 **Cover letter, resume, and portfolio site**: When I'd been on the hiring side, I pored over every cover letter and resume. Not everyone does that though, and I know that preparing those things is a lot of work. But if I ever do hire again, I will always go over those things with a fine-toothed comb. I care about substance over typos. I'm shocked at the resumes, cover letters, and portfolios that look like they were not meant to be read by human beings, without an ounce of personality, care, or interest. If you really want the role, act like it. If you don't care about the role, don't waste your time applying. This market sucks and hiring is broken, but you won't help your chances if you go into the process with full pessimism and resentment straight out of the gate. On that note...
 
