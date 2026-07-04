@@ -165,7 +165,7 @@ I don't want to share a lot about this role, except that it's my dream role of a
 
 I've already accomplished more in my 1 month here than in my 1.5 years as a technical writer on League. Which is equal parts sad and a relief. 
 
-However, I am 37ish weeks pregnant with my third baby. All I want to do right now is work on this job, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how dedicated I am about getting good at this role. 
+However, I am 37ish weeks pregnant with my third baby. All I want to do right now is work this job, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how dedicated I am about getting good at this role. 
 
 ## Closing thoughts
 
