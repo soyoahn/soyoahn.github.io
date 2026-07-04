@@ -169,7 +169,7 @@ However, I am 37ish weeks pregnant with my third baby. All I want to do right no
 
 ## Closing thoughts
 
-I didn't really know what to put in this blog post. I figure you'd want to know how I broke in and how I ended up at every subsequent role. I hope this was helpful. 
+I didn't really know what to put in this blog post. I figured that you'd want to know how I broke in and how I ended up at every subsequent role. I hope this was helpful. 
 
 How I broke into games was 30% luck and timing; 20% working harder that most of the people around me for a decade before I started applying; and 40% everything I'd experienced, learned, did, failed, and mastered, leading up to my first role. And 10% exuding the confidence to show that I actually did all those things. 
 
