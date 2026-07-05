@@ -19,7 +19,7 @@ Hours on our day: **9am-8pm**
 
 ### <font color="#FF5003">Upper Lot</font>
 * **Waterworld Show - Check Showtimes Day-Of**
-* **💦🩳 Super Silly Fun Land** 
+* **💦🩳 Super Silly Fun Land** - Bring water shoes, swimwear for the kids, quick-dry towel
 * <s>Jurassic World - 42" min; let's see if they'll let our 5yo in</s> We didn't end up attempting this
 * <s>Kung Fu Panda</s> We didn't end up attempting this
 * Studio Tour - 1hr - Use the bathroom just before
