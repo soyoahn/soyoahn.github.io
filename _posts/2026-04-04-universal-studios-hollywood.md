@@ -6,7 +6,7 @@ tags: personal
 
 > We're taking a spontaneous trip with our 5yo (41") and 3yo (36"). 
 
-Important: This is less of a blog post and more like a login-free thing I can share with my party so we can all refer to it on the day-of. This is what we did for our [Disneyland trip](../../../2026-01-26-disneyland.md) and it was pretty helpful throughout the day. 
+Important: This is less of a blog post and more like a login-free thing I can share with my party so we can all refer to it on the day-of. This is what we did for our [Disneyland trip](../../../2026/01/26/disneyland.md) and it was pretty helpful throughout the day. 
 
 Hours on our day: **9am-8pm**
 
