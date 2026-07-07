@@ -35,13 +35,15 @@ So that's the TL;DR of why this industry, for me. I'm telling you this because I
 
 Working in games is just like anywhere else except that things move really fast and there's *usually* less bullshit work since there's tons to do and goals are often clear. Above all, it's filled with game-loving professionals who are excellent at their craft, work really hard, and try to do things better every day.
 
+My favorite producer-types (and folks in people-focused jobs--not in super creative or super technical roles) are the ones who take the work seriously but don't take themselves too seriously. This makes people feel safe and puts them at ease and it's the way I try to operate. 
+
 ## People who bug me in this space
 
 My opinion on this doesn't matter, but if I could wave a magic wand, I'd like to see fewer of these folks trickling into the game development side of things: 
 
 * People who don't play or value games (how can you build things for players or for game developers without understanding the why behind it all?) 
 * People who don't respect or value creativity/artists/designers/content creators (in current day, to me, this looks like shoving AI down creative teams' throats)
-* People who join and see only a circus straightaway and start seeking to dismantle things immediately, before seeking to understand the current system. The first questions they ask are things like: How are you measuring whether the thing that you're doing adds a greater amount of value than we are paying you to do it? (corporate tech) 
+* People who join and see only a circus straightaway and start seeking to dismantle things immediately, before trying to understand the current system. The first questions they ask are things like: How are you measuring whether the thing that you're doing adds a greater amount of value than we are paying you to do it? (corporate tech) 
 * The generally incurious and uncreative
 
 Note: For this section, I mean within the game production or game development-supporting space. That is to say: I do not need my Tax Analyst to be a gamer. I do want my Tools Manager to like games and care about the experience of the people making them though. 
