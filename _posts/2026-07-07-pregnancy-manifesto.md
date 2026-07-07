@@ -1,5 +1,5 @@
 ---
-tags: motherhood
+tags: personal
 ---
 
 ### My Preganancy Manifesto
