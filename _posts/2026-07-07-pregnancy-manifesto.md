@@ -2,7 +2,7 @@
 tags: motherhood
 ---
 
-### My Pregnancy Manifesto
+### My Preganancy Manifesto
 ---
 
 {%- include pregnancy-manifesto.html -%}
