@@ -21,7 +21,7 @@ Possibly ✨nothing✨! In my 1-hour calls, I usually listen to your story and g
 ## First, here's what I love about working in games
 
 * **The opportunity to use the extent of my unique talents to work on something worthwhile**. Isn't this what we all want? Well, in games, you can have this!
-* A general "you can be yourself" culture. (I hate companies with dress policies--please let me wear a comfy sweatshirt and jeans to work.) 
+* A general "you can be yourself" culture.
 * Clear goals and purpose.
 * Being around smart and creative people who are deeply passionate and **serious** about what they do. 
 * Art, problem solving, and creativity. All the time.
