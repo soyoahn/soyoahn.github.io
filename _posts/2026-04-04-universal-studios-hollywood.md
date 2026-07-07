@@ -6,7 +6,7 @@ tags: personal
 
 > We're taking a spontaneous trip with our 5yo (41") and 3yo (36"). 
 
-Important: This is less of a blog post and more like a login-free thing I can share with my party so we can all refer to it on the day-of. This is what we did for our [Disneyland trip](2026-01-26-disneyland.md) and it was pretty helpful throughout the day. 
+Important: This is less of a blog post and more like a login-free thing I can share with my party so we can all refer to it on the day-of. This is what we did for our [Disneyland trip](../../01/26/disneyland.html) and it was pretty helpful throughout the day. 
 
 Hours on our day: **9am-8pm**
 
@@ -19,7 +19,7 @@ Hours on our day: **9am-8pm**
 
 ### <font color="#FF5003">Upper Lot</font>
 * **Waterworld Show - Check Showtimes Day-Of**
-* **💦🩳 Super Silly Fun Land** 
+* **💦🩳 Super Silly Fun Land** - Bring water shoes, swimwear for the kids, quick-dry towel
 * <s>Jurassic World - 42" min; let's see if they'll let our 5yo in</s> We didn't end up attempting this
 * <s>Kung Fu Panda</s> We didn't end up attempting this
 * Studio Tour - 1hr - Use the bathroom just before
