@@ -35,7 +35,7 @@ So that's the TL;DR of why this industry, for me. I'm telling you this because I
 
 I once worked with someone who didn't understand the competitive landscape they'd landed themselves in, was lackadaisical about every assignment, underperformed, never took initiative beyond official assignments, took far too many wellness days (several days per month, almost one per week at one point), and was ultimately a terrible fit for the company. I can't imagine it was a pleasant experience for them, either. 
 
-Working in games is just like anywhere else except that things move really fast and there's *usually* less bullshit work since there's tons to do and goals are often clear. Above all, it's filled with game-loving professionals who are excellent at their craft, work really hard, and try to do things better every day.
+Working in games is just like anywhere else except that things move really fast and there's *usually* less bullshit work since there's tons to do and goals are often clear. Above all, it's filled with game-loving professionals who are excellent at their craft, work really hard, and are self-motivated to do things better every day.
 
 My favorite producer-types (and folks in people-focused jobs--not in super creative or super technical roles) are the ones who take the work seriously but don't take themselves too seriously. This makes people feel safe and puts them at ease and it's the way I try to operate. 
 
