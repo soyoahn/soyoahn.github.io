@@ -1,6 +1,6 @@
 ---
 tags: personal
 ---
-### My Preganancy Manifesto
+### My Pregnancy Manifesto
 
 {%- include manifesto-pregnancy.html -%}
