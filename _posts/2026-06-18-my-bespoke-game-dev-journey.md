@@ -2,20 +2,20 @@
 tags: career
 ---
 
-A few times a year, folks reach out asking how I got into the games industry, and advice for how they might get in too. I used to schedule an hour to relate my story, chat, and field questions, but as a soon-to-be mom of 3, I don't have the wherewithal to do it anymore. (Note: It was never just the one hour; I'd spend a lot of time and energy thinking about the person and how I might help them.) 
+A few times a year, folks reach out asking how I got into the games industry, and advice for how they might get in too. I used to schedule an hour to relate my story, chat, and field questions, but as a soon-to-be mom of 3, I don't have the wherewithal to do it anymore.
 
-Here's my story--it's a mix of being hugely curious, highly detail-oriented, and hardworking. And equally important: timing and luck.
+Here's my story--for the most part, I got in through luck, timing, and by being curious, highly detail-oriented, self-motivated, and hardworking. 
 
-**Who's this for**: I'm writing this based on these assumptions about you: 
+**Who this is for**: I'm writing this based on these assumptions about you: 
 1. You landed here through my [LinkedIn](http://linkedin.com/in/soyoahn)), since I've hidden this site from search.
 2. You aren't an artist/designer/content creator (none of this info will apply to you--I think those roles are entirely portfolio-based).
 3. You probably come from a tech or otherwise non-entertaintment/games industry background (so, this isn't your first rodeo in games--there's nothing I can say that you don't already know)
 4. You are coming from a somewhat general role (like management, technical writing) and not from a highly specialized role (like Accounts Payable, Tax Analyst)--I assume those latter roles are purely hired based on critical thinking skills, craft experience/complexity/expertise, and little else. 
 
 **Holy shit, there are a lot of words here--what will I get out of this?**:
-Possibly ✨nothing✨! In my 1-hour calls, I usually listen to your story and give you advice on what to do next. It's different every time, but it's obviously advice that I extrapolate based on my own life's journey and experience. So what I've done here is write a tiny professional memoir so you can see that there's nothing special or magical about the process--it's just hard work, passion, care, and applying. I hope you'll find something insightful in this wall of text.
+Possibly ✨nothing✨! In my 1-hour calls, I usually listen to your story and give you advice on what to do next. It's different every time, but it's advice that I extrapolate based on my own life's journey and experience. So what I've done here is write a tiny professional memoir so you can see that there's nothing special or magical about the process--it's just hard work, passion, care, and applying.
 
-**Remember**: This is just one person's take. This doesn't represent my employer's views nor anyone else's views at the company. Also I'm dealing with quite the pregnancy brain fog and can barely string words together--bear with me. This is going to be a slow meander through my thinking in real time, as I try to recall details that might be insightful to you in any way. This was quite a slog to write and I apologize if it's quite the slog to read. :-/ 
+**Remember**: This is just one person's perspective. This doesn't represent my employer's views nor anyone else's views at the company. Also, I'm dealing with quite the pregnancy brain fog so you'll need to bear with me on this slow meander though memory lane.
 
 
 ## First, here's what I love about working in games
