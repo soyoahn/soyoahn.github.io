@@ -1,10 +1,10 @@
- az. ---
+---
 tags: career
 ---
 
-Here's my story--it's a mix of being a hugely curious, highly detail-oriented, and hardworking person; timing; and luck.
-
 A few times a year, folks reach out asking how I got into the games industry, and advice for how they might get in too. I used to schedule an hour to relate my story, chat, and field questions, but as a soon-to-be mom of 3, I don't have the time to do this anymore. (Note: It was never just the one hour; I'd spend a lot of time and energy thinking about the person and how I might help them.) 
+
+Here's my story--it's a mix of being a hugely curious, highly detail-oriented, and hardworking person; timing; and luck.
 
 **Who's this for**: I'm writing this based on these assumptions about you: 
 1. You landed here through my [LinkedIn](http://linkedin.com/in/soyoahn)), since I've hidden this site from search.
