@@ -21,7 +21,7 @@ Possibly ✨nothing✨! In my 1-hour calls, I usually listen to your story and g
 ## First, here's what I love about working in games
 
 * **The opportunity to use the extent of my unique talents to work on something worthwhile**. Isn't this what we all want? Well, in games, you can have this!
-* A general "you can be yourself" culture. (I hate companies with dress policies--please let me wear a comfy sweatshirt and jeans to work.) 
+* A general "you can be yourself" culture. 
 * Clear goals and purpose.
 * Being around smart and creative people who are deeply passionate and **serious** about what they do. 
 * Art, problem solving, and creativity. All the time.
@@ -35,9 +35,9 @@ So that's the TL;DR of why this industry, for me. I'm telling you this because I
 
 Working in games is just like anywhere else except that things move really fast and there's *usually* less bullshit work since there's tons to do and goals are often clear. Above all, it's filled with game-loving professionals who are excellent at their craft, working really hard, and trying to do things better every day.
 
-## People who bug me in this space
+## Slow transformation to the tech industry
 
-If I could wave a magic wand, I'd like to see fewer of these folks trickling into the game development side of things: 
+Frankly, if I could wave a magic wand, I'd like to see fewer of these folks trickling into the game development side of things: 
 
 * People who don't play or value games (how can you build things for players or for game developers without understanding the why behind it all?) 
 * People who don't respect or value creativity/artists/designers/content creators (in current day, to me, this looks like shoving AI down creative teams' throats)
