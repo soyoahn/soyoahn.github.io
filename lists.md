@@ -7,7 +7,7 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2026
-- **The Checklist Manifesto by Atul Gawande** { i've had this book in my kindle for over a decade and finally read it while waiting for baby #3 to arrive. unexpected: totally great principles of technical writing lie within.}
+- **The Checklist Manifesto by Atul Gawande** { i've had this book in my kindle for over a decade and finally read it while waiting for baby #3 to arrive. unexpected: totally great principles of technical writing lie within. }
 - **Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir** 
 - **Wuthering Heights by Emily Bronte** <font color="gray">{ book club read... so petty and vindictive... felt almost absurd yet somehow rooted in reality, which made this a very stressful read for me. }</font>
 - **Wizard and Glass (#4 The Dark Tower) by Stephen King** <font color="gray">{ i loved books #2 & #3 enough to finally get through this one. the middle 80% was very painful to get through, but I finally did it! On to Wolves of the Calla (which I hear is back on par with books #2 & #3)! }</font>
