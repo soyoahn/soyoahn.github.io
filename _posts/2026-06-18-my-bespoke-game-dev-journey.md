@@ -44,7 +44,7 @@ Frankly, if I could wave a magic wand, I'd like to see fewer of these folks tric
 * People who are coming in from outside of game development, but don't observe or seek to understand the current system. The first question they tend to ask is: How can we measure whether the thing that you're doing adds a greater amount of value than we are paying you to do it? (corporate tech) 
 * The generally incurious and uncreative 
 
-Note: For this section, I mean within the game production or game development-supporting space. That is to say: I do not need my Tax Analyst to be a gamer. I do want my Tools Manager to like games and care about the experience of the people making them though. 
+Note: For this section, I mean within the game production or game development-supporting space. That is to say: I do not need my Tax Analyst to be a gamer. I do want my Tools Development Manager to like games and care about the experience of the people making them though. 
 
 ## Here's where our adventure forks
 
