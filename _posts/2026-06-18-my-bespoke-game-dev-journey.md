@@ -48,7 +48,7 @@ Note: For this section, I mean within the game production or game development-su
 
 ## Here's where our adventure forks
 
-If the "love" block of text bores you and the "bug" block of text describes you, then: 
+If the "love" block of text bores you and the "tech" block of text describes you, then: 
 * I don't think anything else I say here will interest you. I recommend reading something like Blood, Sweat, and Pixels by Jason Schreier to see if that appeals to you. 
 * As a parting gift for reading this far, here's my general advice: Be interested in life! Find the thing that excites you and spend time doing it. Build a portfolio that showcases how excellent you are at your craft! Be passionate and complex about your craft! Read up on the company culture and values of the studio you're applying for. Study the job ad and tailor your submission materials to make it clear that you're a fit. Then apply! That's the true TL;DR.
 * Follow gamedev influencers on LinkedIn for job postings and advice.
