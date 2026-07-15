@@ -95,7 +95,7 @@ Sometimes I talk to people who claim that their lives have been boring and uneve
 
 ## First foot in the door: Infinity Ward as a contractor
 
-When I started at IBM, my secret goal was to be the best technical writer in the world (big Naruto--"I'm going to be hokage"--energy.) I wanted to be able to explain things more intuitively than anyone else. For 8 years, I poured my passion into UI strings, procedures, and API documentation, innovating where I could. And then I was laid off from IBM in 2016. 
+When I started at IBM, my secret goal was to be the best technical writer in the world (big Naruto--"I'm going to be hokage"--energy.) I wanted to be able to explain things more clearly, usefully, and intuitively than anyone else. For 8 years, I poured my passion into UI strings, procedures, and API documentation, innovating where I could. And then I was laid off from IBM in 2016. 
 
 At around that time, I met my future husband. While I was applying for jobs and working on my new portfolio site, he got me into games--mostly Magic the Gathering and League of Legends. I didn't have a lot of exposure to games before then. Magic the Gathering cards were suddenly the most beautiful things I'd ever seen. And it dawned on me that there were people out there who worked on games for a living. The thought had never crossed my mind until my layoff. (Btw, I'm still pretty bad at the game, but the information on the cards, the art, and flavor are just beautiful to me.)
 
