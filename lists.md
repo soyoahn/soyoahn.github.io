@@ -61,8 +61,8 @@ layout: default
 - Sequoia National Park is not so far but still pretty far
 
 ## <font color="#038C73">Some Favorite Recipes<font>
-- [Chewy Brownies](https://handletheheat.com/chewy-brownies/) from *Handle the Heat* - Best brownie recipe I've tried yet, but I'm still looking. I thought I craved a chewy brownie, but perhaps fudgey is the type I want? 
 - [Maple-Sweetened Banana Muffins](https://cookieandkate.com/healthy-banana-muffins-recipe/) from *Cookie and Kate* - I love several of her recipes! (For this recipe, I used flax eggs, extra virgin olive oil, and almond milk. Added walnuts.)
-
-## <font color="#038C73">To Consume, Recommended By Others</font>
-- [https://basecamp.com/shapeup/shape-up.pdf](https://basecamp.com/shapeup/shape-up.pdf) // Is this good or grift? 
+- [Almond Flour Banana Muffins](https://cookieandkate.com/gluten-free-banana-bread-recipe/) from *Cookie and Kate* - I love several of her recipes! (I made this one exactly as written (coconut oil and honey) and added walnuts. Divided into two smaller loaf pans and baked for ~40m. Next time, I might try using a little less honey, maybe 1/3 cup instead of 1/2 cup.)
+- [Healthy Blueberry Muffins](https://cookieandkate.com/healthy-blueberry-muffins/) from *Cookie and Kate* - I usually make these with extra-virgin olive oil, maple syrup, frozen wild blueberries, lemon zest, and sour cream if I'm out of greek yogurt. 
+- [Copycat See’s Candy California Brittle](https://theseasidebaker.com/california-brittle/) from *The Seaside Baker* - To make this just a plain brittle, I flatten it out more. Pretty foolproof and delicious. 
+- [Chewy Brownies](https://handletheheat.com/chewy-brownies/) from *Handle the Heat* - Best brownie recipe I've tried yet, but I'm still looking for the ultimate recipe. I thought I craved a chewy brownie, but perhaps fudgey is the type I want? 
