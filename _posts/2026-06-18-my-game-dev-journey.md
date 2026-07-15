@@ -97,7 +97,6 @@ Sometimes I talk to people who claim that their lives have been boring and uneve
 </details>
 <br>
 <br>
-<br>
 
 ## First foot in the door: Infinity Ward as a contractor
 
