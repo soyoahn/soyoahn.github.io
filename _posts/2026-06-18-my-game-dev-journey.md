@@ -64,7 +64,8 @@ If the "love" block of text resonates and you've GOTTA GET *IN* THERE... I still
 Many game companies' referral programs need you to be able to personally vouch for the person in a professional work capacity. If I haven't been in the trenches with you, I can't give you that referral. 
 
 Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
-
+<br>
+<br>
 <details style="color:#FF4500;">
 <summary>Optional: Life Story</summary>
 <h2>Life story - Not sure if this is relevant, but sharing it anyway</h2>
