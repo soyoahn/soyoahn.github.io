@@ -67,7 +67,7 @@ Hopefully by the time you finish reading this, you will still feel motivated and
 <br>
 <br>
 <details>
-<summary style="color:#0099FF;">Optional: Life Story</summary>
+<summary style="color:#0099FF;">Optional: Before we get into how I got into games, here's my life story... </summary>
 <h2 style="color:#0099FF;">Life story - Not sure if this is relevant, but sharing it anyway</h2>
 <p>
 I moved around a bunch as a kid--from the east coast to west coast. Maybe this is what kickstarted my observational powers and muscles for adaptation. I was alone a lot and read a lot. Caught a lot of grasshoppers, fireflies, and frogs (kept some as pets, released most). Watched a lot of Nick at Nite (my favorite shows were I Love Lucy and Taxi). That's my childhood in a nutshell.
