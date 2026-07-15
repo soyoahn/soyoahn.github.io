@@ -68,7 +68,7 @@ Hopefully by the time you finish reading this, you will still feel motivated and
 <br>
 <details>
 <summary style="color:#0099FF;">Optional: Life Story</summary>
-<h2 style="color:#0099FF;>Life story - Not sure if this is relevant, but sharing it anyway</h2>
+<h2 style="color:#0099FF;">Life story - Not sure if this is relevant, but sharing it anyway</h2>
 <p>
 I moved around a bunch as a kid--from the east coast to west coast. Maybe this is what kickstarted my observational powers and muscles for adaptation. I was alone a lot and read a lot. Caught a lot of grasshoppers, fireflies, and frogs (kept some as pets, released most). Watched a lot of Nick at Nite (my favorite shows were I Love Lucy and Taxi). That's my childhood in a nutshell.
 </p><p>
@@ -80,7 +80,7 @@ I worked throughout college (sandwich shop, retail, tutoring, writing for the ca
 </p><p>
 I graduated just after the housing market crisis of 2008. My dad told me that I needed to brace myself--it would probably be impossible for me to get a job in my field of study. But I was insanely lucky at the time and my internship boss told me that I got the last hiring "chip" that the department had to offer. I got to be a technical writer straight out of college. In my dream city: Boston. (Well--Littleton, MA.)
 </p>
-<h2 style="color:#0099FF;>Wait... what does this have anything to do with my journey into game development?</h2>
+<h2 style="color:#0099FF;">Wait... what does this have anything to do with my journey into game development?</h2>
 <p>
 Why did I tell you all this? 
 </p><p>
