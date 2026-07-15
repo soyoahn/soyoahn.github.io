@@ -65,7 +65,7 @@ Many game companies' referral programs need you to be able to personally vouch f
 
 Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
 
-<details style="color:purple;">
+<details style="color:#FF4500;">
 <summary>Optional: Life Story</summary>
 <h2>Life story - Not sure if this is relevant, but sharing it anyway</h2>
 <p>
