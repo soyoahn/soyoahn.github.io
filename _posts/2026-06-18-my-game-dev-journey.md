@@ -66,35 +66,37 @@ Many game companies' referral programs need you to be able to personally vouch f
 Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
 
 
-<details>
+<details style="background-color: lightblue">
 <summary>Optional: Life Story</summary>
-## Life story - Not sure if this is relevant, but sharing it anyway
 
+<h2>Life story - Not sure if this is relevant, but sharing it anyway</h2>
+<p>
 I moved around a bunch as a kid--from the east coast to west coast. Maybe this is what kickstarted my observational powers and muscles for adaptation. I was alone a lot and read a lot. Caught a lot of grasshoppers, fireflies, and frogs (kept some as pets, released most). Watched a lot of Nick at Nite (my favorite shows were I Love Lucy and Taxi). That's my childhood in a nutshell.
-
+</p><p>
 My first real job was selling t-shirts at a tourist shop in Seattle's Pike Place Market for an entire summer when I was 16. Even at that job, my instinct during downtime was to keep busy doing something to make the store better (swept the floors, organized the cash register, straightened the hangers). I wasn't told to do this--it seemed obvious. Then I worked part-time at a teriyaki shop after school for the rest of high school (similar deal--always found something useful to do without having to be asked), got an apprenticeship at the Museum of Flight doing theater (co-wrote a play, pioneered an Andrews Sisters-style singing group to perform at the museum's WW2 wing), did a lot of writing and English tutoring, and got into local musical theater. I took all AP classes--my senior year was AP U.S. Government, AP British Literature, AP Chemistry, AP Physics, AP Calculus, AP Statistics, probably a couple I'm forgetting, etc). My grades were terrible by my school's standards because I was also working a few hours every day and volunteering a few hours every week--I think I juuust scraped by with a 3.5/4.0 cumulative GPA, which put me in danger of not getting into my state school (University of Washington (UW)), but luckily, I got in anyway. Out of the 7 or 8 colleges I applied to, I was only accepted into the UW and the University of Arizona. My favorite classes in high school were AP American and British Literature, Manual Photography, and Jewelry Making. :) 
-
+</p><p>
 At this point in life, I secretly wanted to be an astronomer, science writer, or musical theater performer, but told people that I wanted to be an aeronautical engineer and spent my first two years of college on the engineering track. Almost two years in, I took a required technical writing course and it changed my life--I didn't know jobs writing software manuals, error messages, tutorials, and UI text existed--I pivoted to Technical Communication at the end of my sophomore year. I thought I needed something to supplement it with, so I looked for majors that had a similar prerequisite course list to the engineering track (I didn't want to "waste" that effort), and the science track in Psychology fit the bill perfectly. I picked courses in cognitive psych, human memory, problem solving, and visual perceptual processes to dovetail nicely with the user-centered documentation work I wanted to do. (Incidentally, this combo probably helped make me a good game producer, too, though this isn't the type of connection one would make on a resume.) 
-
+</p><p>
 I worked throughout college (sandwich shop, retail, tutoring, writing for the campus newspaper, volunteering in web development, internships, etc) while double-degreeing in Technical Communication and Psychology. I took 18 credits every quarter because it was the same "full load" cost as 15 credits. It took me 5 years to do undergrad because of the double-degree course load and a 6-month full-time internship at IBM's Silicon Valley Labs in San Jose. I said yes to every leadership opportunity that came my way because I wanted to squeeze every value I could out of college. I went on an oceanography research cruise and worked a weekend in a biology lab at Friday Harbor Labs just for the novel experience and personal enrichment. I did animal husbandry for bats (hence the favicon). If I had any spare credits left, I did something in the arts: dance, vocal jazz, choral music, and acting. I sought out to experience a variety of things to get a sense of where I wanted to try to land a job after graduation. At this point, the dream was NASA or the Monterey Bay Aquarium--as a science and tech writer.
-
+</p><p>
 I graduated just after the housing market crisis of 2008. My dad told me that I needed to brace myself--it would probably be impossible for me to get a job in my field of study. But I was insanely lucky at the time and my internship boss told me that I got the last hiring "chip" that the department had to offer. I got to be a technical writer straight out of college. In my dream city: Boston. (Well--Littleton, MA.)
-
-## Wait... what does this have anything to do with my journey into game development?
-
+</p>
+<h2>Wait... what does this have anything to do with my journey into game development?</h2>
+<p>
 Why did I tell you all this? 
-
+</p><p>
 Because the games industry is full of hyper-driven people. I think this energy and curiosity is what it takes to break in. That and a shit ton of hard work and drive, tons of experience and mastery in your craft, proactivity and the ability to figure stuff out, and strategic career decision-making. I think it's also important to stand out and show that you have a rich variety of experience that isn't just boilerplate academics and employment. There has to be a clearly evident element of drive and passion in your application. 
-
+</p><p>
 I am not special--everyone in games has a story that is entirely different from mine but is similarly full of drive and forward motion. I think what makes us alike is that we: 
-
-* Take responsibility for our actions and don't blame. 
-* We solve problems. 
-* We fill our lives with interesting experiences, which tends to open doors and broaden one's thinking. 
-* We are curious beings.
-* We have a need to keep growing and improving.
-
-Sometimes I talk to people who claim that their lives have been boring and uneventful. But when I get them talking, I often find a life far more interesting and miraculous than my own. Don't sell yourself short--sit down and do the exercise of thinking about what makes your journey unique--and puzzle out what actions make you stand out. Figure out what drives you and what you're passionate about. That flavor and uniqueness might help you stand out (if everything else between you and another candidate is equal).
+</p><p>
+<ul><li>Take responsibility for our actions and don't blame.</li>
+<li>We solve problems.</li> 
+<li>We fill our lives with interesting experiences, which tends to open doors and broaden one's thinking.</li> 
+<li>We are curious beings.</li>
+<li>We have a need to keep growing and improving.</li>
+</ul>
+<p>
+Sometimes I talk to people who claim that their lives have been boring and uneventful. But when I get them talking, I often find a life far more interesting and miraculous than my own. Don't sell yourself short--sit down and do the exercise of thinking about what makes your journey unique--and puzzle out what actions make you stand out. Figure out what drives you and what you're passionate about. That flavor and uniqueness might help you stand out (if everything else between you and another candidate is equal).</p>
 
 </details>
 
