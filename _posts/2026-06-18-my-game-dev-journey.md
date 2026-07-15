@@ -66,9 +66,8 @@ Many game companies' referral programs need you to be able to personally vouch f
 Hopefully by the time you finish reading this, you will still feel motivated and undeterred from pursuing this on your own if that's your dream. 
 
 
-<details style="background-color: lightblue">
+<details style="background-color: lightblue;">
 <summary>Optional: Life Story</summary>
-
 <h2>Life story - Not sure if this is relevant, but sharing it anyway</h2>
 <p>
 I moved around a bunch as a kid--from the east coast to west coast. Maybe this is what kickstarted my observational powers and muscles for adaptation. I was alone a lot and read a lot. Caught a lot of grasshoppers, fireflies, and frogs (kept some as pets, released most). Watched a lot of Nick at Nite (my favorite shows were I Love Lucy and Taxi). That's my childhood in a nutshell.
@@ -97,7 +96,6 @@ I am not special--everyone in games has a story that is entirely different from 
 </ul>
 <p>
 Sometimes I talk to people who claim that their lives have been boring and uneventful. But when I get them talking, I often find a life far more interesting and miraculous than my own. Don't sell yourself short--sit down and do the exercise of thinking about what makes your journey unique--and puzzle out what actions make you stand out. Figure out what drives you and what you're passionate about. That flavor and uniqueness might help you stand out (if everything else between you and another candidate is equal).</p>
-
 </details>
 
 
