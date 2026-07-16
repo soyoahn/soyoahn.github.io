@@ -66,3 +66,5 @@ layout: default
 - [Healthy Blueberry Muffins](https://cookieandkate.com/healthy-blueberry-muffins/) from *Cookie and Kate* - I usually make these with extra-virgin olive oil, maple syrup, frozen wild blueberries, lemon zest, and sour cream if I'm out of greek yogurt. 
 - [Copycat See’s Candy California Brittle](https://theseasidebaker.com/california-brittle/) from *The Seaside Baker* - To make this just a plain brittle, I flatten it out more, on a bigger sheet pan. Pretty foolproof and delicious. 
 - [Chewy Brownies](https://handletheheat.com/chewy-brownies/) from *Handle the Heat* - Best brownie recipe I've tried yet, but I'm still looking for the ultimate recipe. I thought I craved a chewy brownie, but perhaps fudgey is the type I want? 
+- [Vanilla Sheet Cake](https://handletheheat.com/chewy-brownies/) + [Ermine Frosting](https://thetoastykitchen.com/ermine-frosting/) from *The Toasty Kitchen* - Delicious sheet cake to make for birthdays.
+- [Peanut Sauce](https://www.cooking-therapy.com/vietnamese-peanut-sauce/) from *Cooking Therapy* - Easiest peanut sauce for spring and summer rolls.
