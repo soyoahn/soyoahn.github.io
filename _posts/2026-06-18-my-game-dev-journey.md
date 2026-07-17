@@ -52,10 +52,17 @@ Note: For this section, I mean within the game production or game development-su
 
 If the "love" block of text bores you and the "tech" block of text describes you, then: 
 * I don't think anything else I say here will interest you. I recommend reading something like Blood, Sweat, and Pixels by Jason Schreier to see if that appeals to you. 
-* As a parting gift for reading this far, here's my general advice: Be interested in life! Find the thing that excites you and spend time doing it. Build a portfolio that showcases how excellent you are at your craft! Be passionate and complex about your craft! Read up on the company culture and values of the studio you're applying for. Study the job ad and tailor your submission materials to make it clear that you're a fit. Then apply! That's the true TL;DR.
+* As a parting gift for reading this far, here's my general advice: 
+<ul>
+<li>Be interested in life! Find the thing that excites you and spend time doing it.</li>
+<li>Build a portfolio that showcases how excellent you are at your craft! </li>
+<li>Be passionate and complex about your craft!</li>
+<li>Read up on the company culture and values of the studio you're applying for.</li>
+<li>Study the job ad and tailor your submission materials to make it clear that you're a fit. Then apply! That's the true TL;DR.</li>
+</ul>
 * Follow gamedev influencers on LinkedIn for job postings and advice.
 
-If the "love" block of text resonates and you've GOTTA GET *IN* THERE... I still don't know if anything I say will help, but you're certainly welcome to read on and comment your followup questions if you have any. 
+If the "love" block of text resonates and you've GOTTA GET *IN* THERE... you're welcome to read on and comment followup questions if you have any. 
 
 ## Okay, here we go for real then--but first, a note about job referrals
 
