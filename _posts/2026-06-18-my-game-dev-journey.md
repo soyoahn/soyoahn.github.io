@@ -18,7 +18,7 @@ Possibly ✨nothing✨! In my 1-hour calls, I usually listen to your story and g
 **Remember**: This is just one person's perspective. This doesn't represent my employer's views nor anyone else's views at the company. Also, I'm dealing with quite the pregnancy brain fog so you'll need to bear with me on this slow meander though memory lane.
 
 
-<h2 style=color:"#9900FF;">First, here's what I love about working in games</h2>
+## <span style=color:"#9900FF;">First, here's what I love about working in games</span>
 
 * **The opportunity to use the extent of my unique talents to work on something worthwhile**. Isn't this what we all want? Well, in games, you can have this!
 * A general "you can be yourself" culture. 
@@ -37,7 +37,7 @@ I once worked with someone who didn't understand the competitive landscape they'
 
 Working in games is just like anywhere else except that things move really fast and there's *usually* less bullshit work since there's tons to do and goals are often clear. Above all, it's filled with game-loving professionals who are excellent at their craft, working really hard, and trying to do things better every day.
 
-<h2 style=color:"#9900FF;">Assimiliation to just another branch of the tech industry</h2>
+## <span style=color:"#9900FF;">Assimiliation to just another branch of the tech industry</span>
 
 Frankly, if I could wave a magic wand, I'd like to see fewer of these folks trickling into the game development side of things: 
 
@@ -48,7 +48,7 @@ Frankly, if I could wave a magic wand, I'd like to see fewer of these folks tric
 
 Note: For this section, I mean within the game production or game development-supporting space. That is to say: I do not need my Tax Analyst to be a gamer. I do want my Tools Development Manager to like games and care about the experience of the people making them though. 
 
-<h2 style=color:"#9900FF;">Here's where our adventure forks
+## <span style=color:"#9900FF;">Here's where our adventure forks</span>
 
 If the "love" block of text bores you and the "tech" block of text describes you, then: 
 * I don't think anything else I say here will interest you. I recommend reading something like Blood, Sweat, and Pixels by Jason Schreier to see if that appeals to you. 
@@ -57,7 +57,7 @@ If the "love" block of text bores you and the "tech" block of text describes you
 
 If the "love" block of text resonates and you've GOTTA GET *IN* THERE... I still don't know if anything I say will help, but you're certainly welcome to read on and comment your followup questions if you have any. 
 
-<h2 style=color:"#9900FF;">Okay, here we go for real then--but first, a note about job referrals</h2>
+## <span style=color:"#9900FF;">Okay, here we go for real then--but first, a note about job referrals</span>
 
 **I just want to say upfront: I'm sorry but I can't give you a referral.**
 
@@ -100,7 +100,7 @@ Sometimes I talk to people who claim that their lives have been boring and uneve
 <br>
 <br>
 
-<h2 style=color:"#9900FF;">First foot in the door: Infinity Ward as a contractor</h2>
+## <span style=color:"#9900FF;">First foot in the door: Infinity Ward as a contractor</span>
 
 When I started at IBM, my secret goal was to be the best technical writer in the world (big Naruto--"I'm going to be hokage"--energy.) I wanted to be able to explain things more clearly, usefully, and intuitively than anyone else. For 8 years, I poured my passion into UI strings, procedures, and API documentation, innovating where I could. And then I was laid off from IBM in 2016. 
 
@@ -120,7 +120,7 @@ Anyway, I figured that my best shot at the interview would be to knock their soc
 
 I got the job! It was for a 12-month contract. (BTW, I found out what Call of Duty was. I worried that I would fail at this.)
 
-<h2 style=color:"#9900FF;">1️⃣ What my first job in games was like</h2>
+## <span style=color:"#9900FF;">1️⃣ What my first job in games was like</span>
 
 I set out to prove myself as immediately as possible. This wasn't a conscious decision, just good instinct. Don't believe it when places tell you that you can take a month to ramp up. Deliver or prove value on week 1 if you can. Make them immediately happy they hired you. Don't go too crazy and break something that first week though. 
 
@@ -128,7 +128,7 @@ The first couple weeks were tough--I had the best boss in the world who took the
 
 I'm going to do a big skip here and tell you that this method not only worked, it blew the doors wide open. I ended up managing stakeholder reviews to move users to a new version of the level editor, became known as a person who knows things, and received constant documentation requests from users, leads, engineers, and directors. I said yes to every request that came in. I became such an expert in many of our core tools and workflows that a short while later, after I'd built the knowledge base that would later onboard all the other studios helping us make Warzone, the studio asked me to be a producer. I didn't know what production did, so I assumed it would be less work and a paycut. I accepted because I knew I wanted a family someday and thought technical writing at the studio would be unsustainable longterm. Writing the company's documentation was too much work and too much responsibility, I thought. 
 
-<h2 style=color:"#9900FF;">2️⃣ What my second job in games was like</h2>
+## <span style=color:"#9900FF;">2️⃣ What my second job in games was like</span>
 
 OMG CORE MULTIPLAYER MAP PRODUCTION. In a nutshell, it was cat herding, managing and puzzling together every director (art, design, audio, vfx, lighting, production) and lead's priorities into a coherent tapestry, managing builds, trying to schedule work in a way so that people don't kill themselves (nor each other), running all of my own playtests for a while because all resources went to Warzone (I thankfully got help eventually, hat tip to my hardworking Production Coordinator), making sure work was on track and done on time to deliver to actual players, fixing whatever issues came up that were within my power and ability to fix (to reduce the load on my overburdened artists and designers), being a bridge of communication between graphics and tools engineers and my team, writing documentation (of course--the best documentation of my life), anticipating problems, making adjustments to never repeat problems, and coming up with new processes to make work more smooth. 
 
@@ -136,7 +136,7 @@ I think I took to the role like a duck to water, but it came at a huge mental an
 
 Absolutely zero regrets, but that's what content prod life was like. 
 
-<h2 style=color:"#9900FF;">3️⃣ What my third job in games was like</h2>
+## <span style=color:"#9900FF;">3️⃣ What my third job in games was like</span>
 
 Just after seasonal content and well into production on our next game, I took a few months of leave because I had my first baby. Shortly after I came back, my former Tech Art boss asked if I would be interested in coming back to be my old team's producer. This was during remote Covid, I felt like I had fulfilled my mission as a content producer, and I was still insanely burned out so I said yes. 
 
@@ -154,19 +154,19 @@ On top of that--like everywhere else at the time--there was too much change, gro
 
 So I jumped ship without a safety net. 
 
-<h2 style=color:"#9900FF;">4️⃣ What my fourth job in games was like</h2>
+## <span style=color:"#9900FF;">4️⃣ What my fourth job in games was like</span>
 
 Oh hi, Riot. Shortly after IW, I landed a role at Riot Games Player Support as a knowledge management writer. This was my third time applying for a role there in six years--my first attempt was rejected after the initial screen (due to lack of confidence--this was before I started at Infinity Ward), and my second attempt didn't even get a screening call. This third time, I applied through a referral from a former IW teammate. 
 
 I wrote the support articles on the support site. The work was easy and the team was nice. I had nothing to complain about. Less than a year later, I went on maternity leave for baby #2 and came back to a completely different climate. A lot of transformation had occurred while I was out and it was very jarring. On top of this, I learned that being on the publishing side was not for me--I felt like I had zero agency because we were quite downstream from where any decisions were happening, and I felt very distanced from the "making games" part of the company. I don't feel comfortable sharing all the thoughts I had from this era, but the TL;DR is that I felt stunted. I wasn't growing, learning, or leading, and there was very little that I had agency to do, so I had to find a different situation.
 
-<h2 style=color:"#9900FF;">5️⃣ What my fifth job in games was like</h2>
+## <span style=color:"#9900FF;">5️⃣ What my fifth job in games was like</span>
 
 This one ended about a month ago, at the time of this writing. 
 
 I landed my dream technical writing role at a game I loved: League of Legends. I don't feel comfortable sharing about my experience there, but I'll just say that it was nothing like my tech writing experience at Infinity Ward. All work had to be planned, justified, and done in a way that was filled with friction and lag time between the request and execution. It didn't make sense to me given the structure of the org and the size of our team, and I couldn't change any minds. It was ultimately a bad fit and I didn't accomplish much in my time there. I don't like not accomplishing stuff nor having to walk on eggshells, so I had to find a different situation. 
 
-<h2 style=color:"#9900FF;">6️⃣ What my sixth job in games is like</h2>
+## <span style=color:"#9900FF;">6️⃣ What my sixth job in games is like</span>
 
 Did I die? Is this heaven? Am I in heaven? 
 
@@ -176,7 +176,7 @@ I've already accomplished more in my 1 month here than in my 1.5 years as a tech
 
 However, I am 37ish weeks pregnant with my third baby. All I want to do right now is work on this job, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how dedicated I am about getting good at this role. 
 
-<h2 style=color:"#9900FF;">Closing thoughts</h2>
+## <span style=color:"#9900FF;">Closing thoughts</span>
 
 I didn't really know what to put in this blog post. I figure you'd want to know how I broke in and how I ended up at every subsequent role. I hope this was helpful. 
 
@@ -189,7 +189,7 @@ How I broke into games was 30% luck and timing; 20% working harder that most of 
 **More random practical advice / FAQs**: 
 * If a job ad says you must have shipped a AAA title under "Required" (and not "Nice to Have"), it is probably a waste of your time to apply if you haven't at least shipped a title. There's no bypassing this requirement when it's there--there are unique pressures, mindsets, and responsibilities that come with shipping a game that they don't want to test out on a new person. 
 
-<h2 style=color:"#9900FF;">Three babies in a trenchcoat? What are you doing?</h2>
+## <span style=color:"#9900FF;">Three babies in a trenchcoat? What are you doing?</span>
 
 If you've read this far, hopefully you'll understand why it's hard for me to take the time to jump on an hour call anymore. When I'm not working, I'm either parenting, doing things to get better at my job, or recharging. With three kiddos, I think my mentoring and networking days are over until they're all in school.
 
