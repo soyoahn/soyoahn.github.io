@@ -136,7 +136,7 @@ I think I took to the role like a duck to water, but it came at a huge mental an
 
 Absolutely zero regrets, but that's what content prod life was like. 
 
-## ️⃣ What my third job in games was like
+## ️3️⃣ What my third job in games was like
 
 Just after seasonal content and well into production on our next game, I took a few months of leave because I had my first baby. Shortly after I came back, my former Tech Art boss asked if I would be interested in coming back to be my old team's producer. This was during remote Covid, I felt like I had fulfilled my mission as a content producer, and I was still insanely burned out so I said yes. 
 
