@@ -178,15 +178,13 @@ I landed my dream technical writing role at a game I loved: League of Legends. I
 
 Did I die? Is this heaven? Am I in heaven? 
 
-I don't want to share a lot about this role, except that it's my dream role of all time. It's the one I'd be happy to stay with for decades, if I could be so lucky. It's challenging, a perfect fit for all my education and experience, and it's something I'm passionate about. 
+I don't want to share a lot about this role, except that it's my dream role of all time. It's the one I'd be happy to stay with for decades, if I could be so lucky. It's challenging, a perfect fit for all my education and experience, and it's something I'm passionate about. The one I can pour all my obsession into. 
 
-I've already accomplished more in my 1 month here than in my 1.5 years as a technical writer on League. Which is equal parts sad and a relief. 
-
-However, I am 37ish weeks pregnant with my third baby. All I want to do right now is work on this job, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how dedicated I am about getting good at this role. 
+At the time of this writing, I am 37ish weeks pregnant with my third baby. All I want to do right now is work on this job, but babies do a funny thing when they arrive--they hit you blinding joy, sleep deprivation, and amnesia. So maybe my not-being-at-work anxiety will subside once the baby is here, but right now at this moment, I'm praying that my new team (A) won't suffer too much without me, but also (B) won't forget about me and how dedicated I am about getting good at this role.
 
 ## Closing thoughts
 
-I didn't really know what to put in this blog post. I figure you'd want to know how I broke in and how I ended up at every subsequent role. I hope this was helpful. 
+I didn't know what to put in this blog post. I figure you'd want to know how I broke in and how I ended up at every subsequent role. I hope this was helpful. 
 
 How I broke into games was 30% luck and timing; 20% working harder that most of the people around me for a decade before I started applying; and 40% everything I'd experienced, learned, did, failed, and mastered, leading up to my first role. And 10% exuding the confidence to show that I actually did all those things. 
 
@@ -197,7 +195,7 @@ How I broke into games was 30% luck and timing; 20% working harder that most of 
 **More random practical advice / FAQs**: 
 * If a job ad says you must have shipped a AAA title under "Required" (and not "Nice to Have"), it is probably a waste of your time to apply if you haven't at least shipped a title. There's no bypassing this requirement when it's there--there are unique pressures, mindsets, and responsibilities that come with shipping a game that they don't want to test out on a new person. 
 
-## Three babies in a trenchcoat? What are you doing?
+### Three babies in a trenchcoat? What are you doing?
 
 If you've read this far, hopefully you'll understand why it's hard for me to take the time to jump on an hour call anymore. When I'm not working, I'm either parenting, doing things to get better at my job, or recharging. With three kiddos, I think my mentoring and networking days are over until they're all in school.
 
