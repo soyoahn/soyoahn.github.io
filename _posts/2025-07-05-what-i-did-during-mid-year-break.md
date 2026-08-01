@@ -36,7 +36,7 @@ Problems:
 </li>
 </ul>
 </details>
-
+<br>
 <p>
 We got home and put together our newly acquired twin Vevelstad bed, started the bedtime routine at 7:30pm, got the kid in bed in his sister's room by 9:30pm, repeat. 
 </p>
