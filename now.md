@@ -7,7 +7,7 @@ layout: default
 
 ## Daily Life
 - Just had my third baby. 
-- Started Kindergarten. Vaguely considering moving closer to work and school in the next couple years
+- My oldest kid started Kindergarten. Vaguely considering moving closer to work and school in the next couple years.
 - Reading Nona the Ninth (#3 The Locked Tomb) by Tamsyn Muir 
 - Current Commute Audiobook: A Parade of Horribles (#8 Dungeon Crawler Carl) by Matt Dinniman
 - Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
