@@ -7,7 +7,7 @@ layout: default
 
 ## <font color="#038C73">Books Read</font>
 2026
-- **A Gentleman in Moscow by Amor Towles** <font color="gray">{ i liked it. }</font>
+- **A Gentleman in Moscow by Amor Towles** <font color="gray">{ i saw many parallels to present day. erasing history to manufacture a new reality. overseeking convenience and comforts to avoid the pain and difficulties of life--which also happens to void oneself of experiencing some of life's greatest treasures. }</font>
 - **The Checklist Manifesto by Atul Gawande** <font color="gray">{ i've had this book in my kindle for over a decade and finally read it while waiting for baby #3 to arrive. unexpected: totally great principles of technical writing lie within. }</font>
 - **Harrow the Ninth (#2 The Locked Tomb) by Tamsyn Muir** 
 - **Wuthering Heights by Emily Bronte** <font color="gray">{ book club read... so petty and vindictive... felt almost absurd yet somehow rooted in reality, which made this a very stressful read for me. }</font>
