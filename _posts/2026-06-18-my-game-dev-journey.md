@@ -13,7 +13,7 @@ Here's my over-the-counter version of that. For the most part, I got in through 
 4. You are coming from a somewhat general role (like management, technical writing) and not from a highly specialized role (like Accounts Payable, Tax Analyst)--I assume those latter roles are purely hired based on critical thinking skills, craft experience/complexity/expertise, and little else. 
 
 **Holy shit, there are a lot of words here--what will I get out of this?**:
-Possibly ✨nothing✨! In my 1-hour calls, I usually listen to your story and give you advice on what to do next. It's different every time, but it's advice that I extrapolate based on my own life's journey and experience. So what I've done here is write a tiny professional memoir so you can see that there's nothing special or magical about the process--it's just hard work, passion, care, and applying.
+Possibly ✨nothing✨! In my one-hour calls, I'd listen to the person's story and give some advice if I could, mostly extrapolating on my own life's journey and experience. So what I've done here is write a tiny professional memoir so you can see that there's nothing special or magical about the process--it's just hard work, passion, care, and applying.
 
 **Remember**: This is just one person's perspective. This doesn't represent my employer's views nor anyone else's views at the company. Also, I'm dealing with quite the pregnancy brain fog so you'll need to bear with me on this slow meander though memory lane.
 
