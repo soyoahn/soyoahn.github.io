@@ -9,7 +9,7 @@ Here's my over-the-counter version of my story. For the most part, I got in thro
 **Who this is for**: I'm writing this based on these assumptions about you: 
 1. You landed here through my [LinkedIn](http://linkedin.com/in/soyoahn), since I've hidden this site from search.
 2. You aren't an artist/designer/content creator (none of this info will apply to you--I think those roles are entirely portfolio-based).
-3. You probably come from a tech or otherwise non-entertainment/games industry background
+3. You probably come from a tech or otherwise non-entertainment/creative/games industry background
 4. You are coming from a somewhat general role (like management, technical writing) and not from a highly specialized role (like Accounts Payable, Tax Analyst)--I assume those latter roles are purely hired based on critical thinking skills, craft experience/complexity/expertise, and little else. 
 
 **Holy shit, there are a lot of words here--what will I get out of this?**:
