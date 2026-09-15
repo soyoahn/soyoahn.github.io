@@ -2,9 +2,9 @@
 tags: career
 ---
 
-A few times a year, folks reach out asking how I got into the games industry, and advice for how they might get in too. I used to schedule an hour to relate my story, chat, and field questions, but as a soon-to-be mom of 3, I don't have the wherewithal to do it anymore.
+A few times a year, folks reach out asking how I broke into the games industry. I used to schedule an hour to relate my story, chat, field questions, and prescribe some basic advice, but as a soon-to-be mom of 3, I don't have the wherewithal to do it anymore.
 
-Here's my story--for the most part, I got in through luck, timing, and by being curious, highly detail-oriented, self-motivated, and hardworking. 
+Here's my over-the-counter version of my story. For the most part, I got in through luck and timing; and by being curious, highly detail-oriented, self-motivated, and (frankly) obsessive about whatever work I'm doing. 
 
 **Who this is for**: I'm writing this based on these assumptions about you: 
 1. You landed here through my [LinkedIn](http://linkedin.com/in/soyoahn), since I've hidden this site from search.
