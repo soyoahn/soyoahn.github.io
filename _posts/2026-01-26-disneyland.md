@@ -16,7 +16,7 @@ As of this writing, park tickets are priced to specific days and you need to res
 Always check these sites before booking: 
 * **Discounts**: [https://disneyland.disney.go.com/offers-discounts/](https://disneyland.disney.go.com/offers-discounts/)
 * **Hours & Events Calendar**: [https://disneyland.disney.go.com/calendars/day/#/disneyland/](https://disneyland.disney.go.com/calendars/day/#/disneyland/)
-  * Fireworks don't happen every day, for example. If a particular event is important, book on a day that has them. 
+  * Fireworks don't happen every day, for example. If a particular event is important to you, book on a day that has them. 
   * Some nights, the park will close early for After-Hours Special Events.
   * Expand *Closed for Refurbishment* to check what's closed for refurbishment. 
 * **Check Crowds**: don't put too much stock into this (my date went from "Packed" 3 weeks out to "Ghostown" the day before, and the crowd index on the day of was 80%), but it's more data to look at to help you make decisions
