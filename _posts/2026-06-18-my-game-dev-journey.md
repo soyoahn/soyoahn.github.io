@@ -130,7 +130,7 @@ I got the job! It was for a 12-month contract. (BTW, I found out what Call of Du
 
 ## 1️⃣ What my first job in games was like
 
-I set out to prove myself as immediately as possible. This wasn't a conscious decision, just good instinct. Don't believe it when places tell you that you can take a month to ramp up. Deliver or prove value on week 1 if you can. Make them immediately happy they hired you. Don't go too crazy and break something that first week though. 
+I set out to prove myself immediately. This wasn't a conscious decision, just good instinct. Don't believe it when places tell you that you can take a month to ramp up. Deliver or prove value on week 1 if you can. Make them immediately happy they hired you. Don't go too crazy and break something that first week though. 
 
 The first couple weeks were tough--I had the best boss in the world who took the time to teach me about the build pipeline, but because no one had worked with a tech writer before, my team didn't reach out for docs help at all. My boss gave me a few assignments, and I completed them to the best of my ability, but this was my first internal documentation gig and I didn't know the best way to approach our users: the artists and designers at the studio. So I started following my teammates whenever they left our team room (this was before Slack and Covid--we only had Skype and email!) and kept following if they went downstairs to where the artists were sitting. Then I'd observe their troubleshooting procedures and take notes. 
 
