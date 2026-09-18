@@ -50,7 +50,7 @@ Note: For this section, I mean within the game production or game development-su
 
 ## Here's where our adventure forks
 
-If the "love" block of text bores you and the "tech" block of text describes you, then: 
+If the "love" block of text bores you and the "silicon valley" block of text describes you, then: 
 <ul>
 <li>I don't think anything else I say here will interest you. I recommend reading something like Blood, Sweat, and Pixels by Jason Schreier to see if that appeals to you.</li>
 <li>As a parting gift for reading this far, here's my general advice: 
