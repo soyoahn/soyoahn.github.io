@@ -88,7 +88,7 @@ I worked throughout college (sandwich shop, retail, tutoring, writing for the ca
 </p><p>
 I graduated just after the housing market crisis of 2008. My dad told me that I needed to brace myself--it would probably be impossible for me to get a job in my field of study. But I was insanely lucky at the time and my internship boss told me that I got the last hiring "chip" that the department had to offer. (Btw, that internship is probably worth its own whole separate blog post; I worked insanely hard to prove myself early, created new processes that were seamlessly adopted by other writers, and gained critical mentors, attention, and accolades within the first half of my six months there.) I got to be a technical writer straight out of college. In my dream city: Boston. (Well--Littleton, MA.)
 </p>
-<h2 style="color:#0099FF;">Wait... what does this have anything to do with my journey into game development?</h2>
+<h2 style="color:#0099FF;">Wait... how does this have anything to do with my journey into game development?</h2>
 <p>
 Why did I tell you all this? 
 </p><p>
