@@ -37,7 +37,7 @@ I once worked with someone who didn't understand the competitive landscape they'
 
 Working in games is just like anywhere else except that things move really fast and there's *usually* less bullshit work since there's tons to do and goals are often clear. Above all, it's filled with game-loving professionals who are excellent at their craft, work really hard, and try to do things better every day.
 
-## Assimiliation to just another branch of the tech industry
+## Encroaching Silicon Valley Types
 
 Frankly, if I could wave a magic wand, I'd like to see fewer of these folks trickling into the game development side of things: 
 
