@@ -35,7 +35,7 @@ So that's the TL;DR of why this industry, for me. I'm telling you this because I
 
 I once worked with someone who didn't understand the competitive landscape they'd landed themselves in, was very lackadaisical about pretty much every assignment, underperformed, never took initiative beyond official assignments, and was ultimately a terrible fit for the company. I can't imagine this was a pleasant experience for them. 
 
-Working in games is just like anywhere else except that things move really fast and there's *usually* less bullshit work since there's tons to do and goals are often clear. Above all, it's filled with game-loving professionals who are excellent at their craft, working really hard, and trying to do things better every day.
+Working in games is just like anywhere else except that things move really fast and there's *usually* less bullshit work since there's tons to do and goals are often clear. Above all, it's filled with game-loving professionals who are excellent at their craft, work really hard, and try to do things better every day.
 
 ## Assimiliation to just another branch of the tech industry
 
