@@ -10,7 +10,6 @@ layout: default
 - My oldest kid started Kindergarten. Vaguely considering moving closer to work and school in the next couple years.
 - Reading Nona the Ninth (#3 The Locked Tomb) by Tamsyn Muir 
 - Current Commute Audiobook: A Parade of Horribles (#8 Dungeon Crawler Carl) by Matt Dinniman
-- Paused reading Limits to Growth (The 30 Year Update) - Donella Meadows et al 
 - Paused reading Parable of the Talents (#2 Earthseed) by Octavia Butler
 - Trying to do fulfilling personal projects--to gain some kind of identity outside of work
 - Trying to get back into writing poetry on a daily or weekly basis
@@ -21,11 +20,12 @@ layout: default
 - Book club at work
 - <s>Korean speaking practice group at work</s>
 - <s>School's back, so lots of time with other parents and our littles</s>
-- Going into the office more--nice to see people and get some audiobook time on the commute.
+- <s>Going into the office more--nice to see people and get some audiobook time on the commute.</s>
 
 ## This Site
-- Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font. 
-- Need to add my UI string samples somehow. I think I lost the ones from IBM (it was probably too long ago anyway), but the rest of my samples are from internal, homegrown software and I forgot to take screenshots before I left those companies. 🤔
+- These things are never going to happen unless I get laid off.
+- <s>Haven't yet customized the template CSS. I especially want to: (1) Change the heading styles (2) Add a floating generated TOC for the desktop version (3) Possibly change the main font.</s>
+- <s>Need to add my UI string samples somehow. I think I lost the ones from IBM (it was probably too long ago anyway), but the rest of my samples are from internal, homegrown software and I forgot to take screenshots before I left those companies. 🤔</s>
 
 ## What's On My Mind Lately
 - Enclosure of the human right to use one's brain. 
@@ -36,4 +36,4 @@ layout: default
 ---
 
 What's a **now** page?: [https://nownownow.com/](https://nownownow.com/). <br>
-Last updated May 9, 2026. 
+Last updated November 17, 2026. 
